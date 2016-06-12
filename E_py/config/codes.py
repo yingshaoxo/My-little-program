@@ -1,1 +1,4 @@
-print(81)
+codes ="""
+print(1)
+"""
+print(eval(codes))
