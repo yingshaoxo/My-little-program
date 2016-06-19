@@ -16,23 +16,16 @@ def RemoveAllAdditionalLines(text):
     return text
 
 
-print(OrganizeText('''
-　　　　　　　　　　　　　　
-　　　　　　　　　　　　　
-　　　　　　　　　　　　　　　　　
+def WordSegmentation(text):
+    text = text.replace('\n', '')
+    words_list = text.split(' ')
+    
+    return words_list
 
-                   
-.版本 2
 
-.判断循环首 (取文本左边 (FinalText, 2) ＝ #换行符)
-    FinalText ＝ 取文本右边 (FinalText, 取文本长度 (FinalText) － 2)
-.判断循环尾 ()
-.判断循环首 (取文本右边 (FinalText, 2) ＝ #换行符)
-    FinalText ＝ 取文本左边 (FinalText, 取文本长度 (FinalText) － 2)
-.判断循环尾 ()
-　　　　　　　　　　　　　　
-　　　　　　　　　　　　　
-　　　　　　　　　　　　　　　　　
+example = '''
+There is freedom waiting for you, On the breezes of the sky, And you ask 'What if I fall?' Oh but my darling, What if you fly?
+'''
 
-                                            
-'''))
+result = WordSegmentation(example)
+print(result)
