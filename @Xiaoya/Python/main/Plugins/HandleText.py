@@ -16,7 +16,17 @@ def RemoveAllAdditionalLines(text):
     return text
 
 
-def WordSegmentation(text):
+def SplitSentences(text):
+    text = text.replace('.', '.\n')
+    text = text.replace('?', '?\n')
+    text = text.replace('!', '!\n')
+    text = text.replace(';', ';\n')
+    sentences_list = text.split('\n')
+
+    return sentences_list
+
+
+def SplitWords(text):
     text = text.replace('\n', '')
     words_list = text.split(' ')
     
