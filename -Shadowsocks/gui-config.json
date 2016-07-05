@@ -3,14 +3,14 @@
   {
 "server" : "hk2.iss.tf",
 "server_port" : 8989,
-"password" : "64045099",
+"password" : "26514228",
 "method" : "aes-256-cfb",
 "remarks" : ""}
 
 ],
 "strategy" : null,
 "index" : 0,
-"global" : false,
+"global" : true,
 "enabled" : true,
 "shareOverLan" : false,
 "isDefault" : false,
@@ -18,4 +18,3 @@
 "pacUrl" : null,
 "useOnlinePac" : false,
 "availabilityStatistics" : false}
-

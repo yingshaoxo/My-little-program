@@ -9,9 +9,9 @@ def py_run(py_path):
     else:
         return 'error'
 
-result = py_run('C:\\Users\\Administrator\\Desktop\\codes\\Xiaoya\\E language\\酷Q Air\\config\\codes.py')
+result = py_run('C:\\Users\\Administrator\\Desktop\\codes\\@Xiaoya\\E language\\酷Q Air\\config\\codes.py')
 try:
-    f = open('C:\\Users\\Administrator\\Desktop\\codes\\Xiaoya\\E language\\酷Q Air\\config\\result.txt', 'w')
+    f = open('C:\\Users\\Administrator\\Desktop\\codes\\@Xiaoya\\E language\\酷Q Air\\config\\result.txt', 'w')
     f.write(result)
     f.close()
 except:
