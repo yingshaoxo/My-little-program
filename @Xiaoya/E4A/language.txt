@@ -1,0 +1,5 @@
+Push return button twice to exit
+
+Do you want to confirm the updates?
+
+Message successfully copied!
