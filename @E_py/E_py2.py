@@ -1,4 +1,0 @@
-codes ="""
-*
-"""
-print(eval(codes))
