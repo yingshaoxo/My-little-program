@@ -39,7 +39,10 @@ def run_python():
 
     elif request.method == 'POST': #POST codes to http://127.0.0.1:5000/Python/
         codes = request.data.decode('utf-8')
-        return run_py_codes(codes)
+        if codes=='':
+            return 'You give me nothing!'
+        else:
+            return run_py_codes(codes)
 
 if __name__ == '__main__':
     app.run()
