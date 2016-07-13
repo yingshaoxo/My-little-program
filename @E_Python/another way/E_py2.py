@@ -1,0 +1,4 @@
+codes ="""
+*
+"""
+print(eval(codes))
