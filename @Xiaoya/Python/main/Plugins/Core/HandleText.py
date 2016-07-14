@@ -34,8 +34,20 @@ def SplitWords(text):
 
 
 example = '''
-There is freedom waiting for you, On the breezes of the sky, And you ask 'What if I fall?' Oh but my darling, What if you fly?
+醉花阴
+ 
+
+
+薄雾浓云愁永昼，瑞脑消金兽。 
+
+佳节又重阳，玉枕纱厨，半夜凉初透。
+
+东篱把酒黄昏后，有暗香盈袖。 
+
+莫道不销魂，帘卷西风，人比黄花瘦。
+
+
 '''
 
-result = WordSegmentation(example)
+result = OrganizeText(example)
 print(result)
