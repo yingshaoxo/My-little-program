@@ -62,6 +62,6 @@ def get_URLs(text):
 
 while True:
     website = input('Input a website and press Enter, please: ')
-    website = get_URLs(website))
+    website = get_URLs(website)
     print('\n\n'+get_web_description1(website)+'\n\n'+'-'*17)
     print('-'*17+'\n\n'+get_web_description2(website)+'\n\n'+'-'*17)
