@@ -56,4 +56,7 @@ def handle_info(text):
 
 
 words = '''*527*your text*527*'''
-print(get_info_by_words(words))
+try:
+    print(get_info_by_words(words))
+except:
+    print('')

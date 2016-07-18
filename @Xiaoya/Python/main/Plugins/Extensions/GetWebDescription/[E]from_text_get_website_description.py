@@ -36,8 +36,8 @@ def from_text_get_website_description(text):
    return get_web_description(website)
    
 
-text = '''
-*527*your text*527*
-'''
-print(from_text_get_website_description(text))
-
+text = '''#*527*your text*527*'''
+try:
+   print(from_text_get_website_description(text))
+except:
+   print('')
