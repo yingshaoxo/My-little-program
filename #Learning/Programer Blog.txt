@@ -1,0 +1,55 @@
+对于学习编程，应当记住这样三句话——“经得起诱惑，耐得住寂寞，受得了挫折”。
+
+优秀程序员和一般程序员之间的任何不同最根本上来说就是数学基础的好坏。
+
+数学最主要的功效是帮助我们建立一种分析问题和解决问题的思想及方法，然后再考虑通过编程去实现它。
+
+兴趣是最好的老师，实践是进步的捷径，需求是灵感的源泉。
+
+
+
+
+微风的网络日志(我可能前进得不快，但我决不后退)
+http://leybreeze.com/blog
+
+libaier(慢慢来~比较快~)
+http://libaier.net
+
+静静's Blog
+http://xing-zhi-love.com
+
+bestswifter
+https://bestswifter.com/#open
+
+龙哥盟
+http://flygon.net
+
+廖雪峰官网
+http://www.liaoxuefeng.com
+
+Matrix67
+http://www.matrix67.com/blog
+
+Touko's diary
+https://touko.moe
+
+Grail's drip
+https://www.nocilol.com
+
+薇海蓝
+www.weihailan.com
+
+Pegasus' Blog
+http://ningning.today
+
+
+前端：
+
+羡辙杂俎
+http://zhangwenli.com/blog
+
+DIYgod
+https://www.anotherhome.net
+
+CDog
+https://blog.cdog.me

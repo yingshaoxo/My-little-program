@@ -1,27 +1,20 @@
 {
 "configs" : [
   {
-"server" : "hk2.iss.tf",
-"server_port" : 8989,
-"password" : "50601230",
-"method" : "aes-256-cfb",
-"remarks" : ""}
-,
-  {
-"server" : "jp3.iss.tf",
+"server" : "us1.iss.tf",
 "server_port" : 443,
-"password" : "20216598",
+"password" : "06156124",
 "method" : "aes-256-cfb",
 "remarks" : ""}
 
 ],
 "strategy" : null,
-"index" : 1,
-"global" : true,
+"index" : 0,
+"global" : false,
 "enabled" : true,
 "shareOverLan" : false,
 "isDefault" : false,
 "localPort" : 1080,
-"pacUrl" : null,
-"useOnlinePac" : false,
+"pacUrl" : "33602TgzM2YzZmRiMDc3Y2E3MGJiZ",
+"useOnlinePac" : true,
 "availabilityStatistics" : false}
