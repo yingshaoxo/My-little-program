@@ -63,9 +63,8 @@ def all_translate(words_list):
     result = organize_text(result)
     return result
 
-def from_text_get_main_translated_words(text):
-    return all_translate(get_words_list(filter_some_types2(tag(text), ['RB', 'JJ', 'NN', 'VB'], 5)))
-
+def remove_duplicates(words_list):
+    return list(set(words_list))
 
 text='''
 One of our experts will proofread your English in less than 5 minutes, for FREE.
@@ -74,8 +73,11 @@ try:
     a = NaturalLanguageProcessing()
     tagged = a.tag(text)
     filtered = a.filter_some_types(tagged, ['RB', 'JJ', 'NN', 'VB'], 5)
-    removed = a.remove_tag(filtered)
-    result = all_translate(removed)
+    removed1 = a.remove_tag(filtered)
+    removed2 = remove_duplicates(removed1)
+    result = all_translate(removed2)
     print(result)
 except:
     print ('')
+
+#problem: 1.double word   2.simple word
