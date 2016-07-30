@@ -6,12 +6,19 @@
 "password" : "06156124",
 "method" : "aes-256-cfb",
 "remarks" : ""}
+,
+  {
+"server" : "106.184.6.4",
+"server_port" : 2889,
+"password" : "LWwCeJ",
+"method" : "rc4-md5",
+"remarks" : ""}
 
 ],
 "strategy" : null,
 "index" : 0,
 "global" : false,
-"enabled" : true,
+"enabled" : false,
 "shareOverLan" : false,
 "isDefault" : false,
 "localPort" : 1080,
