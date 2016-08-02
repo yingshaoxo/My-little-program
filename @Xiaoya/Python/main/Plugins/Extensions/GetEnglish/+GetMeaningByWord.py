@@ -25,5 +25,5 @@ def segment_by_num(text):
         text = text.replace(num, '\n\n'+num)
     return text
 
-text = get_English('perfect')
-print(text)
+text = 'perfect'
+print(text + '\n\n' + get_English(text))
