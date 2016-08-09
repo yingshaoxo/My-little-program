@@ -1,27 +1,34 @@
 {
 "configs" : [
   {
-"server" : "us1.iss.tf",
-"server_port" : 443,
-"password" : "06156124",
+"server" : "ssfree.ezlink.hk",
+"server_port" : 10000,
+"password" : "365671",
 "method" : "aes-256-cfb",
 "remarks" : ""}
 ,
   {
-"server" : "106.184.6.4",
-"server_port" : 2889,
-"password" : "LWwCeJ",
-"method" : "rc4-md5",
+"server" : "free2.fogss.pw",
+"server_port" : 443,
+"password" : "299868",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "ssfree.ezlink.hk",
+"server_port" : 5780,
+"password" : "ezlink.hk",
+"method" : "aes-256-cfb",
 "remarks" : ""}
 
 ],
 "strategy" : null,
-"index" : 0,
+"index" : 2,
 "global" : false,
-"enabled" : false,
+"enabled" : true,
 "shareOverLan" : false,
 "isDefault" : false,
 "localPort" : 1080,
-"pacUrl" : "33602TgzM2YzZmRiMDc3Y2E3MGJiZ",
-"useOnlinePac" : true,
+"pacUrl" : null,
+"useOnlinePac" : false,
 "availabilityStatistics" : false}

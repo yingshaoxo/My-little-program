@@ -1,6 +1,9 @@
-import sys
 import os
+import sys
 import subprocess
+from flask import Flask, request
+
+
 
 EXEC = sys.executable #local pythonw.exe
 
@@ -10,7 +13,7 @@ def run_py_file(py_path):
 
 def run_py_codes(py_codes):
     codes = str(py_codes)
-    if codes.count('print')==0 and codes.count('import ')==0:
+    if codes.count('print') == 0 and codes.count('import ') == 0:
         try:
             result = str(eval(codes))
         except:
@@ -18,21 +21,21 @@ def run_py_codes(py_codes):
         return result
     else:
         py_path = os.path.dirname(os.path.realpath(__file__)) + '\\codes.txt'
-        code_bytes = codes.encode('utf-8',  'ignore')
+        code_bytes = codes.encode('utf-8', 'ignore')
         open(py_path, 'wb').write(code_bytes)
         result = str(run_py_file(py_path))
         return result
 
 
 
-from flask import Flask, request
+
 app = Flask(__name__)
 
 @app.route('/')
 def home_page(): #http://127.0.0.1:5000
     return 'POST codes to http://127.0.0.1:5000/Python/'
-    
-@app.route('/Python/', methods = ['POST', 'GET'])
+
+@app.route('/Python/', methods=['POST', 'GET'])
 def run_python():
     if request.method == 'GET': #http://127.0.0.1:5000/Python
         return 'Only support POST!'
@@ -42,9 +45,13 @@ def run_python():
             codes = request.data.decode('utf-8')
         except:
             codes = request.data.decode('gb2312')
-        print(codes)
-        
-        if codes=='':
+
+        try:
+            print(codes)
+        except:
+            print('')
+
+        if codes == '':
             return 'You give me nothing!'
         else:
             return run_py_codes(codes)
@@ -54,4 +61,5 @@ def handle_bad_request():
     return '500\nInternal Server Error'
 
 if __name__ == '__main__':
+    print("POST Python codes to http://127.0.0.1:5000/Python/\nI'll back the running result.")
     app.run()
