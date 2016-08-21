@@ -1,0 +1,12 @@
+将所有文件上传到GitHub:
+
+git add .
+git commit -m "update"
+git push origin master
+
+
+
+从GitHub上得到并替换本地文件:
+
+git pull
+
