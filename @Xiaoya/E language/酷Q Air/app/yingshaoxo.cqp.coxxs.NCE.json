@@ -109,11 +109,11 @@
     ],
     "menu":[
         {
-            "name":"…Ë÷√A",
+            "name":"Send message",
             "function":"_menuA"
         },
         {
-            "name":"…Ë÷√B",
+            "name":"Setting",
             "function":"_menuB"
         }
     ],
