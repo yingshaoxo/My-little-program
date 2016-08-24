@@ -1,4 +1,5 @@
 import os
+import re
 import json
 
 
@@ -36,6 +37,9 @@ class knowledge():
                 old_books.update({i: 0})
             if 'NO' in old_books:
                 del old_books['NO']
+
+            for i in [i for i in old_books.keys() if i not in txt_files]:
+                del old_books[i]
         
             setting.update({'books': old_books})
             write_setting(setting)
@@ -70,7 +74,7 @@ class knowledge():
             result = text.split('\n\n' + '——————————————' + '\n\n')
             if result == [text]:
                 result = text.split('\n')
-            result = [i for i in result if i not in ['', ' ', '  ']]
+            result = [i for i in result if re.match(r'^\s*$', i) == None]
 
             return result
 
@@ -83,7 +87,11 @@ class knowledge():
             print(book)
             num = books.get(book)
             print(num)
-            part = split_txt(self.dir + book)[num]
+            try:
+                part = split_txt(self.dir + book)[num]
+            except:
+                part = 'Your reading was finished with this book.'
+                os.rename(self.dir + book, self.dir + book.replace('.txt', '.bak'))
 #            print(part)
 
             num += 1
