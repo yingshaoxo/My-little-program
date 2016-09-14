@@ -1,11 +1,23 @@
-
-
+import re
 
 class TXT_tool():
-    def split_txt_by_line(self, txt_dir):
+    def read_txt(self, txt_dir):
         with open(txt_dir, 'r', encoding='utf-8') as f:
             text = f.read()
-        all_lines = [i for i in text.split('\n') if i != '']
+        return text
+
+    def write_txt(self, txt_dir, text):
+        with open(txt_dir, 'w', encoding='utf-8') as f:
+            f.write(text)
+
+    def split_txt_by_special_words(self, txt_dir):
+        text = self.read_txt(txt_dir)
+        all_lines = [i for i in text.split('\n\n——————————————\n\n') if re.match(r'^\s*$', i) == None]
+        return all_lines
+
+    def split_txt_by_line(self, txt_dir):
+        text = self.read_txt(txt_dir)
+        all_lines = [i for i in text.split('\n') if re.match(r'^\s*$', i) == None]
         return all_lines
 
     def list_to_split_text(self, _list, num_of_line):
@@ -17,13 +29,10 @@ class TXT_tool():
                 text += i + '\n\n——————————————\n\n'
         return text
 
-    def write_txt(self, txt_dir, text):
-        with open(txt_dir, 'w', encoding='utf-8') as f:
-            f.write(text)
-
-
 tool = TXT_tool()
 #print(tool.list_to_split_text(['ddddd', 'gggggggg', 'wwwwwww', 'bbbbb', 'cccc'], 2))
-_list = tool.split_txt_by_line('怪诞行为学2.txt')
-text = tool.list_to_split_text(_list, 7)
-tool.write_txt('[7]怪诞行为学2.txt', text)
+_list = tool.split_txt_by_line('The Great Gatsby.bak')
+#_list = list(set(_list))
+text = tool.list_to_split_text(_list, 3)
+tool.write_txt('The Great Gatsby[3].txt', text)
+print('ok')

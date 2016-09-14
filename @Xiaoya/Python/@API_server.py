@@ -77,6 +77,8 @@ def run_python():
         else:
             return run_py_codes(codes)
 
+app.register_error_handler(500, lambda e: 'Fail to run the codes!\nPlease check the codes you want to run.')
+
 if __name__ == '__main__':
     print(tip)
     app.run()
