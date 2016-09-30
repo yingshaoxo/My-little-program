@@ -31,8 +31,9 @@ class TXT_tool():
 
 tool = TXT_tool()
 #print(tool.list_to_split_text(['ddddd', 'gggggggg', 'wwwwwww', 'bbbbb', 'cccc'], 2))
-_list = tool.split_txt_by_line('The Great Gatsby.bak')
+_list = tool.split_txt_by_line('资治通鉴.全五卷.全译.bak')
 #_list = list(set(_list))
 text = tool.list_to_split_text(_list, 3)
-tool.write_txt('The Great Gatsby[3].txt', text)
+tool.write_txt('资治通鉴.全五卷.全译[3].txt', text)
 print('ok')
+exit()
