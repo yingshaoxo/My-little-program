@@ -1,5 +1,9 @@
+import os
 import nltk
 
+
+global path
+path = os.path.dirname(__file__) + '\\'
 
 class NaturalLanguageProcessing():
 
@@ -70,9 +74,13 @@ def organize_text(text):
 
 def youdao_translate(text):
     import requests
-    r = requests.get('http://fanyi.youdao.com/openapi.do?\
-    	keyfrom=yingshaoxo&key=61881981&type=data&doctype=text&\
-    	version=1.0&q=' + text)
+    r = requests.get('http://fanyi.youdao.com/openapi.do?keyfrom=yingshaoxo&key=61881981&type=data&doctype=text&version=1.0&q=' + text, \
+                     headers = {
+    'User-Agent': 'translator/2.2.0(Android/4.4.4/zh_CN;HM NOTE 1S)',
+    'Content-Type': 'application/x-www-form-urlencoded',
+    'Host': 'fanyi.youdao.com',
+    'Connection': 'Keep-Alive'
+})
     translation = r.text.split('result=')[1][:-1]
     return text + '\n' + translation
 
@@ -83,29 +91,26 @@ def all_translate(words_list):
     result = organize_text(result)
     return result
 
+def from_ariticle_get_word(text):
+    with open(path + '/OtherNeeded/simple_word.txt', 'r') as f:
+    	simple_word = f.read()
+    filter_list = eval(simple_word)
+    #text = '''Readers happily accepted the fact that an obscure maidservant was really the hero's mother.'''
+    try:
+        a = NaturalLanguageProcessing()
+        tagged = a.tag(text)
+        filtered1 = a.filter_some_types(tagged, ['RB', 'RBR', 'RBS', 'JJ', 'JJR', 'JJS', 'NN', 'NNS', 'NNP', 'NNPS', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ'])
+        filtered2 = a.filter_from_length(filtered1, 5)
+        removed1 = a.remove_tag(filtered2)
+        removed2 = a.remove_duplicates(removed1)
+        filtered3 = a.filter_from_list(removed2, filter_list)
+        result = a.only_english(filtered3)
+        result = all_translate(result)
+        return result
+    except Exception as e:
+        return e
 
-with open('./OtherNeeded/simple_word.txt', 'r') as f:
-	simple_word = f.read()
-	
-filter_list = eval(simple_word)
-
-text = '''Readers happily accepted the fact that an obscure maidservant was really the hero's mother.'''
-
-#'''
-try:
-    a = NaturalLanguageProcessing()
-    tagged = a.tag(text)
-    filtered1 = a.filter_some_types(tagged, ['RB', 'RBR', 'RBS', 'JJ', 'JJR', 'JJS', 'NN', 'NNS', 'NNP', 'NNPS', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ'])
-    filtered2 = a.filter_from_length(filtered1, 5)
-    removed1 = a.remove_tag(filtered2)
-    removed2 = a.remove_duplicates(removed1)
-    filtered3 = a.filter_from_list(removed2, filter_list)
-    result = a.only_english(filtered3)
-    result = all_translate(result)
-    print(result)
-except Exception as e:
-    print(e)
-#'''
+#print(from_ariticle_get_word('''Readers happily accepted the fact that an obscure maidservant was really the hero's mother.'''))
 
 #test
 '''

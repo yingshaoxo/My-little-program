@@ -100,8 +100,8 @@ try:
     result = a.only_english(filtered3)
     result = all_translate(result)
     print(result)
-except:
-    print('')
+except Exception as e:
+    print(e)
 #'''
 
 #test

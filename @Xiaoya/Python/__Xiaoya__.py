@@ -51,7 +51,7 @@ class knowledge():
         
         update_setting()
 
-    def get_knowledge(self):
+    def get_knowledge0(self):
         self.dir = path + 'Sources\\'
 
         def get_setting():
@@ -103,7 +103,17 @@ class knowledge():
             return part
 
         return which_part().replace('\n', '\n\n')
-
+    
+    def get_knowledge(self):
+        from Plugins.Core.HandleText import EnglishOrNot
+        knowledge = self.get_knowledge0()
+        if EnglishOrNot(self.get_knowledge0()):
+            from Plugins.Core.NaturalLanguageProcessing import from_ariticle_get_word
+            try:
+                knowledge += '\n\n\n' + from_ariticle_get_word(knowledge)
+            except Exception as e:
+                print(e)
+        return knowledge
  
 class xiaoya():
     '''A real xiaoya class'''

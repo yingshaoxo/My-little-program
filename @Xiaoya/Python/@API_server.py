@@ -1,45 +1,21 @@
-import os
-import sys
-import subprocess
 from flask import Flask, request, redirect
-
-
-
-def handle_message(msg):
-    from __Xiaoya__ import xiaoya
-    x = xiaoya('xiaoya', 17)
-    return x.knowledge()
-
-
-
-EXEC = sys.executable #local pythonw.exe
-
-def run_py_file(py_path):
-    result = subprocess.run([EXEC, py_path], stdout=subprocess.PIPE, stderr=subprocess.STDOUT, universal_newlines=True)
-    return str(result.stdout)
-
-def run_py_codes(py_codes):
-    codes = str(py_codes)
-    if codes.count('print') == 0 and codes.count('import ') == 0:
-        try:
-            result = str(eval(codes))
-        except Exception as e:
-            result = str(e)
-        return result
-    else:
-        py_path = os.path.dirname(os.path.realpath(__file__)) + '\\codes.txt'
-        code_bytes = codes.encode('utf-8', 'ignore')
-        open(py_path, 'wb').write(code_bytes)
-        result = str(run_py_file(py_path))
-        os.remove(py_path)
-        return result
-
 
 
 tip = '''[Handle Message & Reply] POST text message to http://127.0.0.1:5000/Chat/
 [Run Python Codes] POST Python codes to http://127.0.0.1:5000/Python/
 '''
 
+def handle_message0(msg):
+    return ''
+
+def handle_message(msg):
+    from __Xiaoya__ import xiaoya
+    x = xiaoya('xiaoya', 17)
+    return x.knowledge()
+
+def run_codes(codes):
+    from __RunPY__ import run_py_codes
+    return run_py_codes(codes)
 
 def decode(data):
     try:
@@ -79,7 +55,7 @@ def run_python():
             print('Nothing received.')
             return ''
         else:
-            return run_py_codes(codes)
+            return run_codes(codes)
 
 app.register_error_handler(500, lambda e: 'Fail to run the codes!\nPlease check it carefully.')
 
