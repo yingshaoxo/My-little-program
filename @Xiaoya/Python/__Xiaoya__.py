@@ -107,10 +107,10 @@ class knowledge():
     def get_knowledge(self):
         from Plugins.Core.HandleText import EnglishOrNot
         knowledge = self.get_knowledge0()
-        if EnglishOrNot(self.get_knowledge0()):
+        if EnglishOrNot(knowledge):
             from Plugins.Core.NaturalLanguageProcessing import from_ariticle_get_word
             try:
-                knowledge += '\n\n\n' + from_ariticle_get_word(knowledge)
+                knowledge += '\n\n' + '——————————————' + '\n\n' + from_ariticle_get_word(knowledge)
             except Exception as e:
                 print(e)
         return knowledge

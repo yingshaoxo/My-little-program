@@ -5,10 +5,10 @@ tip = '''[Handle Message & Reply] POST text message to http://127.0.0.1:5000/Cha
 [Run Python Codes] POST Python codes to http://127.0.0.1:5000/Python/
 '''
 
-def handle_message0(msg):
+def chat_room(msg):
     return ''
 
-def handle_message(msg):
+def chat_reply(msg):
     from __Xiaoya__ import xiaoya
     x = xiaoya('xiaoya', 17)
     return x.knowledge()
@@ -32,7 +32,7 @@ def home_page(): #http://127.0.0.1:5000
     return tip.replace('\n', '<br>')
 
 @app.route('/Chat/', methods=['GET', 'POST'])
-def reply_message():
+def chat_with_xiaoya():
     if request.method =='GET':
         return 'Now, you can POST chat-message to me.'
     if request.method == 'POST':
@@ -42,7 +42,7 @@ def reply_message():
             print('Nothing received.')
             return ''
         else:
-            return handle_message(msg) 
+            return chat_reply(msg) 
 
 @app.route('/Python/', methods=['GET', 'POST'])
 def run_python():
