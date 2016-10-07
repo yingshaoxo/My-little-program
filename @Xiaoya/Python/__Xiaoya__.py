@@ -105,12 +105,14 @@ class knowledge():
         return which_part().replace('\n', '\n\n')
     
     def get_knowledge(self):
-        from Plugins.Core.HandleText import EnglishOrNot
+        from Plugins.Core.HandleText import EnglishOrNot, OrganizeText
         knowledge = self.get_knowledge0()
         if EnglishOrNot(knowledge):
             from Plugins.Core.NaturalLanguageProcessing import from_ariticle_get_word
             try:
-                knowledge += '\n\n' + '——————————————' + '\n\n' + from_ariticle_get_word(knowledge)
+                en_words = from_ariticle_get_word(knowledge)
+                if OrganizeText(en_words) != '':
+                    knowledge += '\n\n' + '——————————————' + '\n\n' + en_words
             except Exception as e:
                 print(e)
         return knowledge
