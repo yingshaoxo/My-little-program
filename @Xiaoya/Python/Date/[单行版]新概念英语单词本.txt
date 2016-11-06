@@ -1,0 +1,10985 @@
+file n. 文件；v. 保存文件 
+command n. 命令，指令 
+use v. 使用，用途 
+program n. 程序 
+line n. (数据，程序)行，线路 
+if conj. 如果 
+display vt. 显示，显示器 
+set v. 设置，n. 集合 
+key n. 键，关键字，关键码 
+list n. 列表，显示，v. 打印 
+by prep. 凭，靠，沿 
+press v. 按，压 
+with prep. 用，与，随着 
+format n. 格式 
+change v. 更换，改变，变动 
+cursor n. 光标 
+directory n. 目录，索引簿 
+from prep. 从，来自，以来 
+menu n. 菜单，目录 
+option n. 任选，选择，可选项 
+character n. 字符，符号，特性 
+current n. 电流 
+type n. 型，类型；v. 打印 
+screen n. 屏幕，屏；v. 屏蔽 
+specify v. 指定，规定，确定 
+move v. 移动 
+disk n. 盘，磁盘 
+text n. 正文，文本 
+drive v. 驱动；n. 驱动器 
+see v. 看，看出，查看 
+name n. 名，名称；vt. 命名 
+record n. 记录 
+box n. 箱，匣，(逻辑)框 
+database n. 数据库 
+help v. & n. 帮助 
+memory n. 记忆存储，存储器 
+which pron. 哪个，a. 那一个 
+all a. 全，全部；ad. 完全 
+on ad. 接通，导电，开 
+copy n. 复制，v. 拷贝 
+shell n. 壳，外壳 
+delete vt. 删除，删去，作废 
+enter v. 键入，送入 
+margin n. 余量，边缘，边际 
+mark n. 标记；vt. 加标记 
+also ad. & conj. 也，亦，还 
+do v. 做，干；n. 循环 
+information n. 信息，情报 
+choose v. 挑选，选择，选定 
+select vt. 选择 
+group n. 组，群 
+first a. & ad. & n. 第一，首先 
+field n. 字段，域，栏，场 
+procedure n. 过程，程序，工序 
+print v. 打印，印刷 
+return v. 返回，回送 
+number n. 数字，号码；vt. 编号 
+selected a. 精选的 
+want v. 需要，应该，缺少 
+window n. 窗口 
+message n. 信息，消息，电文 
+dialog n. & vt. 对话 
+example n. 例子，实例 
+create vt. 创立，建立 
+insert vt. 插入 
+related a. 相关的 
+item n. 项，项目，条款 
+edit vt. 编辑，编排，编篡 
+marked a. 有记号的 
+area n. (区)域，面积，方面 
+parameter n. 参数，参变量 
+then ad. & conj. 那时，则 
+variable a. 可变的；n. 变量 
+tab n. 制表键 
+up ad. 上，向上，a. 高的 
+string n. 行，字符串 
+each a. & ad. 各(自)，每个 
+active a. 激活的，活动的 
+topic n. 题目，论题 
+start v. 起动，开始，启动 
+mode n. 态，方式，模 
+selection n. 选择 
+function n. 函数，功能，操作 
+word n. 字(词)，单词 
+make vt. 制造，形成，接通 
+right a. 右边的，正确的 
+value n. 值 
+button n. 按钮 
+index n. 索引，变址，指数 
+without prep. 没有，在…以外 
+appear vi. 出现，显现，好像 
+left a. & n. 左边(的) 
+save v. 保存 
+next n. 下一次，a. 其次 
+off ad. (设备)关着，脱离 
+following a. 下列的，以下的 
+control v. 控制，支配，管理 
+only a. 唯一的，ad. 仅仅 
+user n. 用户 
+end n. 结束，终点，端点 
+system n. 系统 
+contain vt. 包含，包括 
+time n. 时间；vt. 计时 
+letter n. 字母，信 
+data n. 数据 
+setting n. 设置，调整 
+desire v. & n. 期望 
+position n. 位置；vt. 定位 
+down ad. 落下，降低，减少 
+task n. 任务；v. 派给…任务 
+view n. & v. 视图，景象 
+switch n. & v. 开关，转换，切换 
+include vt. 包括，包含 
+get v. 得到，获得，取 
+default v. 缺省，预置，约定 
+structure n. 结构，构造，构件 
+into prep. 向内，进入 
+path n. 路径，通路，轨道 
+blank n. 空白，间隔 
+open v. 打开，开启，断开 
+add v. & n. 加，增加，添 
+enable vt. 启动，恢复正常操作 
+operation n. 操作，运算，动作 
+erase v. 擦除，取消，删除 
+filename n. 文件名 
+search v. 检索，查询，搜索 
+another a. 另一个，别的 
+last a. & n. 最后(的) 
+column n. 列，柱，栏 
+after prep. & ad. 以后，后面 
+prompt n. & v. 提示 
+two n. & a. 二，两，双 
+execute v. 实行，实施 
+about ad. 关于，大约，附近 
+escape v. 逃避，逸出，换码 
+error n. 错误，误差，差错 
+currently ad. 目前，现在 
+extension n. 扩充，延伸 
+same a. 同样的，相同的 
+status n. 状态，态，状况 
+run v. 运行，运转，操作 
+argument n. 变元，自变量 
+statement n. 语句，陈述，命题 
+shift v. 转义，换档，移位 
+store n. & vt. 存储，存储器 
+scroll vt. 上滚(卷)；n. 纸卷 
+replace vt. 替换，置换，代换 
+macro n. 宏，宏功能，宏指令 
+page n. 页面，页，版面 
+quit v. 退出，结束 
+define vt. 定义，规定，分辨 
+reference n. & a. 参考；参考的 
+other a. 别的，另外的 
+while conj. 当…的时候 
+pressing n. & a. 压制；紧急的 
+restore vt. 恢复，复原 
+top n. 顶，尖端 
+how ad. 如何，怎样，多么 
+color n. 颜色，色彩，(彩)色 
+allow v. 允许，容许 
+block n. (字，信息，数据)块 
+decimal n. & a. 十进制；十进制的 
+main a. 主要的 
+definition n. 定义，确实，清晰度 
+between prep. 在…之间，中间 
+optional a. 任选的，可选的 
+date n. 日期 
+remove v. 除去，移动 
+arrow n. 箭头，指针 
+label n. 标签，标号，标识符 
+within prep. 在…以内 
+issue v. 发行，出版，流出 
+different a. 不同的，各种各样的 
+available a. 可用的 
+returned a. 退回的 
+associate v. 相联，联想，关联 
+attribute n. 属性，标志，表征 
+dos 磁盘操作系统 
+before prep. 以前，前，先 
+order n. & vt. 指令，次序；排序 
+modify vt. 修改，改变，变址 
+array n. 数组，阵列 
+mouse n. 鼠标器 
+note n. 注解，注释 
+locate vt. 定位 
+video n. 视频，电视 
+printer n. 打印机，印刷机 
+bar n. 条，杆，棒 
+bottom n. & a. 底，基础；底下的 
+carriage n. 滑架，托架 
+content n. 含量，容量，内容 
+either a. & pron. 任何一个，各 
+ok ad. & a. 对，好；全对 
+space n. 空格键，空间 
+editor n. 编辑程序 
+exist vi. 存在，生存，有 
+scope n. 范围，显示器 
+paragraph n. 段(落)，节，短讯 
+multi (词头)多 
+clear v. 清除，弄干净 
+exit n. & vi. 出口；退出 
+report vt. & n. 报告，报表 
+execution n. 执行 
+backup n. 备份，后备，后援 
+version n. 版本 
+find v. 寻找，发现 
+pointer n. 指针，指示字 
+subset n. 子集，子设备 
+keyboard n. 键盘 
+full a. & ad. & n. 全(的)，满 
+check v. 校对，栓查，核算 
+should v. & aux. 应当，该 
+single a. & n. 单个的；一个，单 
+positioning n. 定位 
+provide v. 提供 
+title n. 题目，标题 
+expression n. 表达式 
+through prep. & ad. 通过，直通 
+toggle n. & v. 触发器；系紧 
+code n. 码，代码，编码 
+such a. & pron. 这样的，如此 
+beginning n. 起点，初 
+guide n. 向导，指南，入门 
+tree n. 树，语法树 
+environment n. 环境 
+but 但是，可是，除非，不过 
+device n. 设备，器件，装置 
+highlight n. 增强亮度，提示区 
+call v. 调用，访问，呼叫 
+continue v. 连续，继续 
+indicate vt. 指示，表示 
+until prep. 到…为止，直到 
+begin v. 开始，着手，开端 
+place vt. 放，位，地点 
+rename vt. 更名，改名 
+swap v. 交换，调动 
+work n. 工作 
+remain vi. 剩下，留下，仍然 
+close v. & a. 关闭，闭合；紧密的 
+combination n. 结合，组合 
+profile n. 简要，剖面，概貌 
+unless conj. 除非 
+so pron. & conj. 如此，这样 
+except prep. 除…之外，除非 
+turn v. & n. 转，转动；圈，匝 
+back n. 背面，反向，底座 
+sure a. & ad. 确实的；的确 
+section n. 节，段，区域 
+follow v. 跟随，跟踪 
+split v. 分开，分离 
+need v. 必须，需要 
+access n. 存取，选取，接近 
+additional a. 附加的，辅助的 
+cancel v. 删除，取消，作废 
+document n. 文献，资料，文件 
+case n. 情况，场合 
+numeric n. & a. 数字的，分数 
+go vi. 运行，达到 
+load n. & v. 装入，负载，寄存 
+try n. (尝)试，试验 
+size n. 尺寸，大小，容量 
+entire a. & n. 完全的；总体 
+leave v. 离开，留下 
+history n. 历史 
+second n. & a. 秒，第二(的) 
+reflow v. & n. 回流，逆流 
+output n. 输出，输出设备 
+out n. & a. 输入，在外 
+both a. & ad. 两，双，都 
+install vt. 安装 
+source n. 源，电源，源点 
+way n. 路线，途径，状态 
+assign vt. 赋值，指定，分派 
+support vt. 支援，支持，配套 
+specific a. 特殊的，具体的 
+join v. & n. 连接，并(运算) 
+expand v. 扩充，扩展，展开 
+like a. 类似的，同样的 
+diskette n. 软磁盘，软盘片 
+skip v. 跳跃(定位)，跳过 
+application n. 应用 
+confirmation n. 认可 
+whether conj. 无论，不管 
+hold v. 保持 
+click n. “卡搭”声，插销 
+write v. 写，存入 
+byte n. (二进制的)字节 
+abbreviate vt. 缩写，省略 
+show v. 显示，呈现，出示 
+otherwise ad. & a. 另外 
+working n. 工作，操作，作业 
+delimiter n. 定界符，分界符 
+location n. 定位，(存储器)单元 
+perform v. 执行，完成 
+graphic n. & a. 图形；图形的 
+read v. 读，读阅 
+confirm vt. 证实，确认 
+sort v. 分类，排序 
+clause n. 条款，项目，子句 
+once ad. & n. 只一次，一旦 
+however conj. 然而，可是 
+extend v. 扩充 
+look v. 看，查看 
+starting a. 起始的 
+now ad. & n. 此刻，现在 
+original n. & a. 原文；原(初)始的 
+correspond vi. 通信(联系) 
+property n. 性(质)，特征 
+several a. & n. 若干个，几个 
+learn v. 学习，训练 
+cause n. 原因，理由 
+bracket n. (方)括号，等级 
+omit vt. 省略，删去，遗漏 
+running a. 运行着的，游动的 
+sub-directory n. 子目录 
+edge n. 棱，边，边缘，界限 
+form n. 格式，表格，方式 
+instruction n. 指令，指导 
+ascii n. 美国信息交换标准码 
+below a. & prep. 下列的；低于 
+standard n. 标准 
+occurrence n. 出现，发生 
+lock n. & v. 锁，封闭；自动跟踪 
+append vt. 附加，增补 
+destination n. 目的地，接收站 
+password n. 口令，保密字 
+point n. 点，小数点，句号 
+variety n. 变化，种类，品种 
+many a. & n. 许多，多数 
+buffer n. 缓冲器 
+useful a. 有用的 
+object n. 对象，目标，物体 
+again ad. 再，又，重新，也 
+operating a. 操作的，控制的 
+carry v. 进位，带 
+update v. 更新，修改，校正 
+moving n. & a. 活动的，自动的 
+coprocessor n. 协同处理器 
+overlay v. 覆盖，重叠 
+practice n. 实习，实践 
+navigation n. 导航 
+automatically ad. 自动地，机械地 
+total n. & v. 总数；总计 
+previous a. 早先的，上述的 
+software n. 软件 
+shortcut n. 近路，捷径 
+long a. 长的，远的 
+unique a. 唯一的，独特的 
+part n. 部分，零件 
+updated a. 适时的，更新的 
+internal a. 内部的 
+fill v. 填充 
+basic n. & a. 基本；基本的 
+math n. 数学 
+since prep. 自从…以来 
+determine v. 确定 
+making n. 制造，构造 
+center n. 中心，中央 
+already ad. 已经，早已 
+keyword n. 关键字(词) 
+action n. 操作，运算 
+condition n. 条件，情况；vt. 调节 
+quick a. & ad. 快速的，灵敏的 
+assigned a. 指定的，赋值的 
+give vt. 给出，赋予，发生 
+large a. (巨)大的，大量的 
+chapter n. 章，段 
+computer n. 计算机 
+complete v. & a. 完成；完整的 
+past a. 过去的，结束的 
+match v. 比较，匹配，符合 
+recover v. 恢复，回收 
+always ad. 总是，一直，始终 
+require v. 需要，要求 
+opening n. 打开，断路，孔 
+network n. & vt. 网络；联网 
+sign n. 符号，信号，记号 
+release vt. & n. 释放，核发，版 
+three a. & n. 三(的) 
+recall vt. 撤消，复活，检索 
+deletion n. 删去(部分)，删除 
+fixed a. 固定的，不变的 
+amount vt. & n. 总计；合计 
+alias n. 别名，代号，标记 
+quote n. & v. 引号；加引号 
+correct a. & vt. 正确的；改正 
+else ad. & conj. 否则，此外 
+maximum n. & a. 最大(的)，最高 
+under prep. 在…下面(之下) 
+take v. 取，拿 
+switching n. 开关，转接，交换 
+element n. 元件，元素，码元 
+modification n. 改变，修改 
+modified a. 修改的，变更的 
+input n. 输入，输入设备 
+uppercase n. 大写字母 
+plus prep. 加，加上，外加 
+found v. 建立，创办 
+debug vt. 调试 
+force v. & n. 强制；压力，强度 
+lowercase n. 下档，小写体 
+just ad. 恰好 
+undo vt. 取消，废除 
+environ vt. 围绕，包围 
+why ad. 为什么 
+temporary a. 暂时的，临时的 
+put v. 存放(记录)，放置 
+instead ad. (来)代替，当作 
+encounter v. & n. 遇到，碰到 
+across prep. 交叉，越过 
+matching n. 匹配，调整 
+wildcard n. 通配符 
+spill v. 漏出，溢出，漏失 
+level n. 水平，级，层次 
+browse v. 浏览 
+speech n. 说话，言语，语音 
+occur vi. 发生，出现，存在 
+memo n. 备忘录 
+prior a. 先验的，优先的 
+loaded a. 有负载的 
+length n. (字，记录，块)长度 
+round v. 舍入，四舍五入 
+variant n. & a. 变体，易变的 
+floppy n. 软磁盘 
+machine n. 机器，计算机 
+square n. & a. 正方形；方形的 
+supply vt. & n. 电源，供给 
+home n. & a. 家，出发点 
+normal a. & n. 正常，标准 
+onto prep. 向…，到…上 
+during prep. 在…期间 
+module n. 模块(程序设计) 
+monochrome n. 单色 
+assistance n. 辅助设备，帮助 
+tell n. 讲，说，教，计算 
+library n. (程序…)库，图书馆 
+demonstration n. (公开)表演，示范 
+stack n. 栈，堆栈，存储栈 
+even a. & ad. 偶数的；甚至 
+evaluate v. 估计，估算，求值 
+times n. 次数 
+previously ad. 以前，预先 
+directly ad. 直接地，立即 
+logical a. 逻辑的，逻辑“或” 
+template n. 标准框，样板，模板 
+calling n. 呼叫，调用，调入 
+later a. 更后的，后面的 
+driver n. 驱动器，驱动程序 
+therefore ad. & conj. 因此，所以 
+saving a. 保存的 
+detail n. 元件，零件，细节 
+linker n. 连接程序 
+loop n. 圈，环；(程序)循环，回路 
+process vt. 处理，进程，加工 
+scheme n. 方案，计划，图 
+every a. 每个，全体，所有的 
+refer v. 访问，引用，涉及 
+possible a. 可能的，潜在的 
+above a. 在…之上，大于 
+overview n. 综述，概要 
+result n. 结果 
+syntax n. 语法，文法，句法 
+abbreviation n. 缩短，省略，简称 
+bios n. 基本输入/输出系统 
+hidden a. 隐藏的，秘密的 
+null n. & a. 空(的)，零(的) 
+send v. 发送 
+private a. 专用的，私人的 
+hard a. 硬的 
+hardware n. 硬件 
+say v. 说，显示，假定 
+equal vt. & n. 等于，相等；等号 
+pack n. 压缩，包裹 
+minus a. & n. 负的；负数，减 
+alternate a. 交替的，备用的 
+collapse v. 崩溃，破裂 
+corner n. 角，角落，转换 
+present a. & v. 现行的；提供 
+interpreter n. 解释程序，翻译机 
+advance v. & n. 进步，提高；进展 
+forward a. 正向的 
+fast a. & ad. 快速的 
+special a. 专用的，特殊的 
+slash n. 斜线 
+utility n. & a. 实用程序；实用性 
+regardless a. 不注意的，不考虑的 
+disable vt. 禁止，停用 
+compatible a. 可兼容的，可共存的 
+depend vi. 随…而定，取决于 
+empty a. 空，零，未占用 
+alphabetical a. 字母(表)的，abc的 
+branch n. 分支，支线；v. 转换 
+resume v. 重(新)开(始) 
+multiple a. 多次的，复杂的 
+monitor n. 监视器，监督程序 
+configuration n. 配置 
+replacement n. 替换，置换，更新 
+required a. 需要的 
+macros n. 宏命令(指令) 
+table n. 表 
+loss n. 损耗，损失 
+batch n. 批，批量，成批 
+exact a. 正确的 
+aboveboard ad. & a. 照直，公开的 
+activate vt. & n. 使激活，驱动 
+around ad. & prep. 周围，围绕 
+slow a. & ad. 慢速的 
+floating a. 浮动的，浮点的 
+refresh v. 刷新，更新，再生 
+stop v. 停止，停机 
+pass v. 传送，传递，遍(数) 
+public a. 公用的，公共的 
+eject n. 弹出 
+ignore vt. 不管，忽略不计 
+share v. 共享，共用 
+sequence n. 顺序，时序，序列 
+consist vi. 符合，包括 
+step n. 步，步骤，步长，档 
+double a. 两倍的，成双的 
+come vi. 来，到，出现 
+lower a. 下部的，低级的 
+describe vt. 描述，沿…运行 
+count v. 计数，计算 
+pop v. 上托，弹出(栈) 
+valid a. 有效的 
+suspend v. 中止，暂停，挂起 
+enhance vt. 增强，放大，夸张 
+separate v. & a. 分隔，分离，各自的 
+echo n. 回波，反射波 
+necessary a. 必要的，必然的 
+greater than 大于 
+able a. 能…的，有能力的 
+marking n. 标记，记号，传号 
+ask v. 请求，需要 
+term n. 项，条款，术语 
+bring v. 引起，产生，拿来 
+warning n. & a. 报警，预告 
+less a. & ad. 更小，更少 
+whose pron. 谁的 
+comment n. & vi. 注解，注释 
+effect n. 效率，作用，效能 
+expanding a. 扩展的，扩充的 
+on-line a. 联机的 
+reorder v. (按序)排列，排序 
+direct a. 直接的 
+enclose vt. 封闭，密封，围住，包装 
+reset vt. 复位，置“ 
+various a. 不同的，各种各样的 
+paper n. 纸，文件，论文 
+prevent v. 防止，预防 
+side n. (旁)边，面，侧(面) 
+push v. 推，按，压，进(栈) 
+programming n. 程序设计，编程序 
+upper a. 上的，上部的 
+row n. 行 
+pressed a. 加压的，压缩的 
+temporarily ad. 暂时 
+day n. 日，天，白天，时代 
+repaint vt. 重画 
+redefine vt. 重新规定(定义) 
+relation n. 关系，关系式 
+dimension n. 尺寸，维，因次 
+boundary n. 边界，界限，约束 
+zoom v. 变焦距 
+initialize v. 初始化 
+personal a. 个人的，自身的 
+hello int. & v. 喂！；呼叫 
+true a. & n. 真，实，选中 
+wish v. & n. 祝愿，希望 
+font n. 铅字，字形 
+know v. 知道，了解，认识 
+convert v. 转换，变换 
+global n. 全局，全程，全局符 
+still a. & n. & v. 静止的；静；平静 
+installation n. 安装，装配 
+invoke vt. 调用，请求 
+interactive a. 交互式，交互的 
+described a. 被看到的，被发现的 
+century n. 世纪 
+literal a. 文字的 
+rather ad. 宁可，有点 
+exclusive a. 排斥，排它性 
+marker n. 记号，标记，标志 
+wait v. 等待 
+appropriate a. 适当的，合适的 
+fit v. & n. 适合，装配；非特 
+adapter n. 适配器，转换器 
+filter n. 滤波器，滤光材料 
+break v. 断开，撕开，中断 
+backward ad. 向后，逆，倒 
+searching n. 搜索 
+receive v. 接收 
+dual a. 对偶的，双的 
+retry vt. 再试，复算 
+normally ad. 正常地，通常 
+exactly ad. 正好，完全，精确地 
+immediately ad. 直接地 
+separated a. 分开的 
+high a. 高 
+equivalent a. 相等的，等效的 
+light n. & a. 光(波，源)；轻的 
+zero n. 零，零位，零点 
+storage n. 存储，存储器 
+width n. 宽度 
+language n. 语言 
+startup n. 启动 
+much a. & n. 很多，许多，大量 
+per prep. 每，按 
+over prep. 在…上方 
+mirror n. & v. 镜，反射，反映 
+request n. & vt. 请求 
+keypad n. 小键盘 
+keep v. 保持，保存 
+resident a. 驻留的 
+learning n. 学问，知识 
+talk v. 通话，谈话 
+summary n. 摘要，汇总，提要 
+well n. & a. 井；好，良好 
+link n. & v. 链接；连接，联络 
+according to a. 按照，根据 
+identify v. 识别，辨认 
+designated a. 指定的，特指的 
+pertain vi. 附属，属于，关于 
+expansion n. 展开，展开式 
+incompatible a. 不兼容的 
+blinking n. 闪烁 
+month n. 月份 
+precede v. 先于 
+readily ad. 容易地，不勉强 
+transportable a. 可移动的 
+appropriately ad. 适当地 
+routine n. 程序，例行程序 
+ready a. 就绪，准备好的 
+listing n. 列表，编目 
+newly ad. 新近，重新 
+year n. (一)年，年度，年龄 
+contact n. 接触，触点 
+session n. 对话，通话 
+own a. & v. 自己的；拥有 
+redraw vt. 再拉 
+here ad. 在这里 
+manual a. 手工的，手动的 
+particular a. 特定的，特别的 
+rectangle n. 矩形 
+additive a. & n. 相加的；附加物 
+similar a. 相似的 
+assembly n. 汇编，安装，装配 
+copyright n. 版权 
+description n. 描述 
+retrieve v. 检索 
+mistake n. 错误 
+produce v. 生产，制造 
+ram 随机存取存储器 
+exception n. 例外，异常，异议 
+digit n. 数字，位数，位 
+reverse v. & a. 反向的，逆 
+minimum n. & a. 最小(的)，最低 
+enough a. & ad. 足够的，充足的 
+although conj. 虽然，即使 
+reindex v. & n. 变换(改变)符号 
+third a. & n. 第三，三分之一 
+red a. & n. 红色(的) 
+along prep. & ad. 沿着 
+test n. & v. 测试 
+small a. 小的，小型的 
+feed v. 馈给，(打印机)进纸 
+company n. & v. 公司；交际，交往 
+movie n. 影片，电影(院) 
+compile vt. 编译 
+frequently ad. 常常，频繁地 
+undefined a. 未定义的 
+state n. & vt. 状态；确定 
+tick v；n. 滴答(响)；勾号(√) 
+accept vt. 接受，认可，同意 
+intense a. 强烈的，高度的 
+documentation n. 文件编制，文本 
+asterisk n. 星号(*) 
+easily ad. 容易地，轻易地 
+become v. 成为，变成，适宜 
+address vt. & n. 寻址；地址 
+interface n. 接口 
+pause vi. 暂停 
+repeat v. 重复 
+restart v. 重新启动，再启动 
+assumed a. 假定的 
+speed n. 速度 
+entry n. 输入，项(目)，入口 
+combine v. 组合，联合 
+organize v. 组织，创办，成立 
+finished a. 完成的 
+mixed a. 混合的 
+permit v. 许可，容许 
+formatting n. 格式化 
+root n. 根 
+symbol n. 符号，记号 
+binary n. & a. 二进制；双态的 
+whenever ad. & conj. 随时 
+reach v. & n. 范围，达到范围 
+caution n. & v. 警告，注意 
+subtotal n. & v. 小计，求部分和 
+card n. 卡片，插件(板) 
+general a. 通用的 
+associated a. 联合的，相联的 
+transfer v. 传送，转换，转移 
+connect v. 连接 
+partition v. 划分，分区，部分 
+hexadecimal a. 十六进制的 
+generate vt. 产生，发生，生成 
+specification n. 说明书，规则说明书 
+customize vt. 定制，定做 
+far a. 远的，遥远的 
+nest v. 嵌套，后进先出 
+duplicate vt. 复制，转录，加倍 
+compression n. 压缩，浓缩 
+unable a. 不能的 
+means n. 方法，手段 
+alternately ad. 交替地，轮流地 
+intensity n. 强度，亮度 
+reading n. 读，读数 
+let v. 让，允许 
+explicitly ad. 明显地，显然地 
+compare v. 比较，对照，比喻 
+sector n. & v. 扇区，段；分段 
+problem n. 问题，难题 
+vertically ad. 竖直地，直立地 
+horizontally ad. 水平地 
+backspace v. 退格，回退 
+terminate v. 端接，终止 
+people n. 人们 
+short a. & n. 短的；短路 
+drag vt. 拖，拉，牵，曳 
+formatted a. 有格式的 
+preview n. & vt. 预映 
+underscore vt. 在…下面划线 
+correctly ad. 正确地 
+initially ad. 最初，开头 
+reformat v. 重定格式 
+inside n. & a. 内部，内容；内部的 
+integrate v. 综合，集成 
+controlled a. 受控制的，受操纵的 
+period n. 周期 
+huge a. 巨大的，非常的 
+determined a. 坚决的，毅然的 
+trailing n. & a. 结尾；尾随的 
+seek v. 查找，寻找，探求 
+introduction n. 入门，介绍，引进 
+indent v. 缩排 
+base n. 基，底，基地址 
+integer n. 整数 
+attempt vt. & n. 尝试，试验 
+twice n. & ad. 两次，两倍于 
+formed a. & n. 成形 
+subscript n. 注脚，下标 
+tiny a. 微小的，微量的 
+model n. 模型，样机，型号 
+correction n. 校正，修正 
+rating n. 定额，标称值 
+secondary a. 辅助的，第二的 
+opened a. 开路的，断开的 
+limit n. 极限，限界 
+sun n. 太阳，日 
+translate v. 翻译，转换，平移 
+reason n. 原因，理由 
+colon n. 冒号“:” 
+avoid vt. 避免，取消，无效 
+range n. 范围，域，区域 
+allocate vt. 分配 
+wordperfect a. 一字不错地熟记的 
+simply ad. 简单地，单纯地 
+verify vt. 鉴定，检验，核对 
+manner n. 方法，样式，惯例 
+direction n. 方向，定向，指向 
+portion n. & vt. 部分；分配 
+emulator n. 仿真器，仿真程序 
+successful a. 成功的 
+applied a. 适用的，外加的 
+sum n. 和，合计，总额
+achieve vt. 完成，实现 
+together ad. 一同，共同，相互 
+affect vt. 影响，改变，感动 
+delay v. 延迟 
+free a. 自由的，空闲的 
+properly ad. 真正地，适当地 
+kind n. 种类，属，级，等 
+splitting n. 分区(裂) 
+feature n. 特征，特点 
+console n. 控制台，操作台 
+operate v. 操作，运算 
+kernel n. 内核(核心)程序 
+easy a. & ad. 容易的；容易地 
+modifier n. 修改量，变址数 
+invalid a. 无效的 
+compiler n. 编译程序(器) 
+dot n. 点 
+beep n. 蜂鸣声，嘀嘀声 
+face n. 面，表面 
+random a. 随机的 
+facility n. 设施，装备，便利 
+heading n. 标题 
+asynchronous a. 异步的，非同步的 
+series n. 序列，系列，串联 
+individual a. 个别的，单个的 
+explain v. 阐明，解释 
+paste n. 湖，胶，膏 
+welcome vt. & n. 欢迎 
+six n. & a. 六(个)(的) 
+early a. & ad. 早期，初期 
+wrap v. & n. 包装，缠绕 
+blue a. & n. 蓝(色)，青色 
+queue v. & n. 排队，队列 
+interrupt v. & n. 中断 
+respect n. & vt. 遵守，关系 
+converted a. 转换的，变换的 
+common a. 公用的 
+hyphen n. 连字符，短线 
+serial a. 串行的，串联的 
+loading n. 装入，加载，存放 
+retain vt. 保持，维持 
+setup n. 安排，准备，配置 
+freeze v. 冻结，结冰 
+intend vt. 打算，设计 
+explanation n. 说明，注解，注释 
+certain a. 确实的，确定的 
+zap v. 迅速离去，击溃 
+archive vt. 归档 
+negative a. 负的，否定的 
+image n. 图像，影像，映像 
+platform n. 平台，台架 
+often ad. 经常，往往，屡次 
+signal n. & v. 信号；发信号 
+cpu 控制处理部件 
+bit n. 比特；(二进制)位 
+fully ad. 十分，完全 
+deactivate vt. 释放，去活化 
+especially ad. 特别(是)，尤其 
+usually ad. 通常，平常，一般 
+recommend vt. 推荐，建议 
+maintain vt. 维护，保养，保留 
+important a. 严重的，显著的 
+central a. 中央的，中心的 
+addition n. 加法，增加 
+anytime ad. 在任何时候 
+analyst n. 分析员 
+false a. 假(布尔值)，错误 
+black a. & n. 黑色的，黑色 
+gather n. 聚集，集合 
+cycle n. & v. 周，周期；循环 
+relative a. 相对的 
+offer v. 提供，给予，呈现 
+ending n. 结束 
+rent v. & n. 租用；裂缝 
+sentence n. 句(子) 
+remember v. 存储，记忆，记住 
+proper a. 真的，固有的 
+design v. 设计 
+examine v. 检验，考试，审查 
+initial a. 最初的，初始的 
+corrupt v. & a. 恶化；有毛病的 
+buy v. 买，购买，赢得 
+increase v. 增加，增大 
+host n. 主机 
+sample n. & v. 样品，样本；抽样 
+pending a. 悬而未决的，未定的 
+divide v. 除 
+boot n. 引导，靴 
+hide v. 隐藏，隐蔽 
+half n. & a. & ad. 一半，半个 
+magenta n. & a. 深红色(的) 
+leading n. & a. 引导(的) 
+wrong a. & ad. n. 错误(的) 
+today n. & ad. 今天 
+least a. & ad. 最小(的) 
+opposite a. & n. & ad. 相反的 
+white a. & n. 白色(的) 
+override v. & n. 超越，克服 
+brown a. & n. 褐色(的)，棕色 
+hex a. & n. 六角形的 
+rest n. & v. 剩余，休息 
+damage n. & vt. 损伤，故障 
+instant a. 立刻的，直接的 
+reserved a. 保留的，预订的 
+technology n. 工艺，技术，制造学 
+handle n. 处理，句柄 
+apply v. 应用，适用于，作用 
+stand v. 处于(状态)，保持 
+payment n. 支付，付款 
+kilobyte n. 千字节(kb) 
+parenthesis n. 括弧，圆括号
+scan v. 扫描，扫视，搜索 
+locating n. 定位，查找 
+developer n. 开发者，显影剂 
+murder n. 弄坏，毁掉 
+flush v. 弄平，使齐平 
+unlock v. 开锁，打开 
+movement n. 传送，移动 
+consecutive a. 连续的，连贯的 
+collection n. 集合，聚集，画卷 
+front a. 前面的，正面的 
+addressing n. 寻址 
+prefix n. 前缀 
+carousel n. 圆盘传送带 
+safety n. 安全，保险 
+static a. 静态的，不变的 
+background n. 背景，底色，基础 
+product n. (乘)积，产品 
+assignment n. 赋值，分配 
+bad a. 坏的，不良的 
+declare v. 说明 
+adjust vt. 调整，调节，控制 
+recognize v. 识别 
+route n. 路线，路由 
+respectively ad. 分别地 
+unsuccessful a. 不成功的，失败的 
+received a. 被接收的，公认的 
+navigate v. 导航，驾驶 
+considered a. 考虑过的，被尊重的 
+due a. 到期的，应付(给)的 
+recently ad. 近来 
+room n. 房间，空间 
+descend v. 下降，落下 
+fact n. 事实 
+alter v. 改变，修改 
+track n. 磁道，轨道 
+precedence n. 优先权 
+skeleton n. 骨架，框架 
+log n. & v. 记录，存入 
+star n. 星形，星号 
+hot a. 热的 
+replaceable a. 可替换的 
+accessible a. 可以使用的 
+involve vt. 涉及，卷入，占用 
+configure vt. 使成形 
+question n. 问题 
+green n. & a. 绿色绿色的 
+entirely ad. 完全地，彻底地 
+helpful a. 有帮助的，有用的 
+middle a. 中间的 
+declared a. 承认的，申报的 
+compress vt. 压缩，精减 
+graphically ad. 用图表表示 
+auto a. 自动的 
+automatic a. 自动的 
+aligned a. 对准的，均衡的 
+anywhere ad. 在任何地方 
+terminal n. 终端，端子 
+door n. 舱门，入口，孔 
+expire v. 终止，期满 
+resolution n. 分辨率 
+local a. 局部的，本地的 
+semicolon n. 分号(；) 
+reread vt. 重读 
+overwrite v. 重写 
+critical a. & n. 临界的；临界值 
+manager n. 管理程序 
+capability n. 能力，效力，权力 
+affected a. 受了影响的 
+allowed a. 容许的 
+border n. 边界，框，界限 
+cache n. 高速缓存 
+bell n. 铃，钟 
+play v. 玩，奏，放音，放象 
+quickly a. 快，迅速地 
+fastback n. 快速返回 
+answer n. & v. 响应，回答；答复 
+represent v. 表示，表现，代表 
+difference n. 差分，差 
+highest a. 最高的 
+project n. 项目，计划，设计 
+physical a. 物理的，实际的 
+matter n. 物质，内容，事情 
+hercules n. 大力神，大力士 
+reduce v. 减少，降低，简化 
+publisher n. 出版者，发行人 
+trim n. 区标，微调 
+substitute v. 代替，替换，代入 
+disabled a. 禁止的，报废的 
+recent a. 近来的 
+positive a. 正的，阳的，正片 
+upgrade v. 升级，提高质量 
+instance n. & vt. 例子，情况；举例 
+happen vi. (偶然)发生，碰巧 
+elapsed vi. & n. 经过 
+future n. & a. 将来，未来的 
+midnight n. & a. 午夜 
+though conj. 虽然，尽管 
+nor conj. 也不 
+mono a. & n. 单音的 
+slide v. & n. 滑动，滑动触头 
+abort v. & n. 中断，故障 
+jump v. & n. 转移 
+toward prep. 朝(着…方向) 
+throughout prep. 贯穿，整，遍 
+via prep. 经过，经由 
+among prep. 在…之中，中间 
+neither a. & pron. (两者)都不 
+layer n. & v. 层，涂层 
+scatter v. 散射，分散，散布 
+attention n. 注意(信号) 
+convention n. 常规，约定，协定 
+conventional a. 常规的，习惯的 
+tool n. 工具，刀 
+handler n. 处理程序 
+processor n. 处理机，处理程序 
+desktop a. 台式的 
+build v. 建造，建立，组合 
+windowing n. 开窗口 
+development n. 开发，研制，显影 
+exceed v. 超过，大于 
+understand v. 懂，明白(了)，理解 
+horizontal a. 水平的，横向的 
+alphabetically ad. 按字母表顺序 
+meet v. “与”，符合，满足 
+protect vt. 保护 
+reserve vt. 保留，预定，预约 
+clock n. 时钟，计时器，同步 
+manifest vt. 表明，显示，显现 
+safe a. 安全的，可靠的 
+disconnect vt. 拆接，断开，拆线 
+clockwise a. 顺时针的 
+eliminate vt. 除去，消除，切断 
+actual a. 实际的，现实的 
+declaration n. 说明，申报 
+probably ad. 多半，很可能 
+ring n. & v. 环，圈；按铃 
+cover vt. 盖，罩，套 
+indicator n. 指示器，指示灯 
+apple n. 苹果 
+icon n. 图符，象征 
+consideration n. 考虑，研究，讨论 
+skill n. 技巧 
+picture n. 图象，画面 
+layout n. 布置，布局，安排 
+suggest vt. 建议，提议，暗示 
+convenient a. 方便的，便利的 
+instruct vt. 讲授，命令 
+appendix n. 附录 
+medium n. & a. 媒体；中等的 
+truncate vt. 截尾，截断 
+inhibit vt. 禁止 
+nearly ad. 近乎，差不多，几乎 
+warn vt. 警告，警戒，预告 
+underline n. 下划线 
+register n. 寄存器 
+stuff n. & vt. 材料；装入 
+exclude vt. 排除，除去 
+destroy vt. 破坏，毁坏，打破 
+calculation n. 计算，统计，估计 
+angle n. 角，角度 
+lexical a. 辞典的，词法的 
+decide v. (使)判定，判断 
+trouble n. 故障 
+processing n. (数据)处理，加工 
+customer n. 顾客，客户 
+port n. 端口，进出口 
+discuss vt. 讨论，论述 
+segment n. 段，片段，图块 
+filing n. (文件的)整理汇集 
+identically ad. 相等，恒等 
+market n. 市场，行情，销路 
+valuable a. 有价值的，贵重的 
+limited a. 有限的，(受)限制的 
+trying a. 费劲的，困难的 
+heap n. 堆阵 
+grey n. & a. 灰色；灰色的 
+permanently ad. 永久地，持久地 
+accelerator n. 加速装置，加速剂 
+originally ad. 原来，最初 
+ability n. 性能，能力，效率 
+internally ad. 在内(部) 
+derelict vt. 中途淘汰 
+redirect vt. 重定向 
+reside vi. 驻留 
+header n. 首部，标题，报头 
+extra a. 特别的，额外的 
+repeated a. 重复的 
+death n. 毁灭，消灭 
+observe v. 观察，探测 
+density n. 密度 
+management n. 管理 
+environmental a. 周围的，环境的 
+surrounding a. 周围的，环绕的 
+master a. 总要的，总的 
+recursive a. 递归的，循环的 
+trap n. & vt. 陷阱；俘获 
+dimensional n. 尺寸的，…维的 
+logic n. 逻辑(线路) 
+conjunction n. 逻辑乘，“与” 
+identical a. 相等的，相同的 
+advice n. 意见，参考说明 
+meaning n. 意义，含义 
+fall n. 落下，降落 
+interval n. 间歇，区间 
+compatibility n. 兼容性，适应性 
+rule n. 规则，法则，尺 
+flag n. 标志(记)，特征(位) 
+criterion n. 标准，判据，准则 
+office n. 办公室，局，站 
+express a. 快速的 
+volume n. 卷，册，体积，容量 
+soft a. 软的 
+rated a. 额定的 
+activity n. 活力，功率 
+odometer n. 里程表，计程仪 
+phoenix n. 凤凰，绝世珍品 
+obtain v. 获得，得到 
+easel n. 框，(画)架 
+latter a. 后面的，最近的 
+decrease v. 减少，降低，缩短 
+mainframe n. 主机，大型机 
+debugger n. 调试程序 
+diacritical a. 区分的，辩别的
+confidential a. 机密的 
+trace v. 跟踪，追踪 
+division n. 除，除法，(程序)部分 
+regular a. 正则的，正规的 
+implicit a. 隐式的 
+mention vt. & n. 叙述，说到 
+near ad. & prep. 领近，接近 
+fifth n. & a. 第五，五分之一 
+seven n. & a. 七(个) 
+whereas conj. 面，其实，既然 
+review v. & n. (再)检查 
+whatever pron. & a. 无论什么 
+transform v. & n. 变换，变换式 
+align v. & n. 定位，对准 
+yellow a. & n. 黄色(的) 
+assist v. & n. 加速，帮助 
+finish v. & n. 完成，结束 
+micro a. & n. 微的，百万分之一 
+beyond prep. 超过，那边 
+against prep. 反对，阻止 
+upon prep. 依据，遵照 
+service n. & vt. 服务，业务 
+little a. 小的，少量的 
+exhaust v. 取尽，用完 
+choice n. 选择，精品 
+sounding a. 发声的 
+develop v. 发展，研制，显影 
+holding n. 保持，固定，存储 
+alpha n. 希腊字母α，未知数 
+constant n. 常数 
+warranty n. 保证(书)，授权 
+stay v. 停止，停留 
+industry n. 工业 
+trigger n. & v. 触发器；触发 
+lesson n. 功课，教训 
+handling n. 处理，操纵 
+treat v. 处理，加工 
+busy a. 忙碌的，占线的 
+usage n. 应用，使用，用法 
+difficult a. 困难的，不容易的 
+failure n. 失效，故障，失败 
+communication n. 通信 
+building n. 建造，建筑，房屋 
+ally v. 联合，与…关联 
+exclamation n. 惊叹(号) 
+turning a. 转弯的，旋转的 
+whole a. 全部的，整个的 
+parent n. 双亲，父代 
+connection n. 连接(法) 
+connectivity n. 连通性，联络性 
+translation n. 翻译，变换，平移 
+dynamic a. 动态的，动力的 
+foreground n. 前台 
+preserve vt. 保存，维持 
+vice n. 缺点，毛病，错误 
+necessarily ad. 必定，当然 
+circle n. 圆，圈，循环，周期 
+differ vi. 不同，不一致 
+stationary a. 静止的，平稳的 
+extract vt. 抽取，摘录，开方 
+unrecognized a. 未被认出的 
+thereafter ad. 此后，据此 
+inverse a. 反向的，逆的 
+spell v. 拼写 
+limiting n. (电路参数)限制处理 
+restructure vt. 调整，重新组织 
+delimit vt. 定界，定义 
+pay v. 付款，支付 
+separately ad. 分别地 
+classify vt. 分类，分级 
+interfere vi. 干涉，干扰，冲突 
+mind n. 愿望，想法，智力 
+individually ad. 个别地，单独地 
+vertical a. 垂直的，立(式)的 
+undesirable a. 不合乎需要的 
+lot n. 一块(批，组，套) 
+piece n. 一块，部分，段 
+unavailable a. 不能利用的 
+unlike a. 不象的，不同的 
+sit v. 位于，安装 
+insufficient a. 不足的，不适当的 
+map n. & vt. 图；映射，变址 
+figure n. 数字；图，图形，形状 
+prepare v. 准备 
+consider v. 考虑，认为，设想 
+detect vt. 检测 
+convenience n. 方便，便利 
+method n. 方法，方案 
+mean n. & vt. 平均；意味着 
+salary n. & vt. 薪水；发工资 
+pacific a. 平稳的，太平(洋)的 
+strong a. 强的 
+emphasize v. 强调，着重，增强 
+department n. 部门，门类，系 
+forced a. 强制的，压力的 
+ansi n. 美国国家标准协会 
+permanent a. 永久的 
+remark n. 评注，备注 
+away ad. 离开，(去)掉 
+concatenate vt. 连接，串联，并置 
+lightning n. 闪电 
+additionally ad. 另外，又 
+emulate v. 仿真，模仿；赶上或超过 
+tape n. 磁带，纸带 
+accidentally ad. 偶然地 
+concept n. 概念 
+optimize v. 优选，优化 
+counter n. 计数器，计算器 
+expect vt. 期望，期待，盼望 
+subsequently ad. 其后，其次，按着 
+registration n. 登记，挂号，读数 
+city n. 城市，市区 
+designate vt. 任命，标志 
+visible a. 可见的，明显的 
+consult v. 咨询，顾问 
+completely ad. 十分，完全，彻底 
+virtually ad. 实际上 
+substantially ad. 实质上，本质上 
+specialize v. (使)专门化 
+fail n. 故障，失效 
+primarily ad. 首先，起初，原来 
+sequentially ad. 顺序地 
+client n. 顾客，买主
+runtime n. 运行时间 
+fix v. 固定，定影 
+author n. 程序设计者，作者 
+programmer n. 程序设计人员 
+commercial a. 商业的，经济的 
+particularly ad. 特别，格外，尤其 
+low a. 低的，浅的，弱的 
+sheet n. (图)表，纸，片 
+employee n. 雇员 
+legal a. 合法的，法律的 
+qualified a. 合格的，受限制的 
+context n. 上下文，来龙去脉 
+involved a. 有关的 
+conditional a. 有条件的 
+halfway a. 中途的，不彻底的 
+oriented a. 有向的，定向的 
+pair n. (一)对，一双 
+week n. (一)星期，(一)周 
+suppressed vt. 抑制，取消 
+subroutine n. 子程序 
+bracketed a. 加括号的 
+manually ad. 用手，手动地 
+preset vt. 预置 
+autoindex n. 自动变址(数) 
+restrict vt. 约束，限制 
+performance n. 性能，实绩 
+showing n. 显示，表现 
+ever ad. 在任何时候，曾经 
+distribution n. 分布，分配 
+denote vt. 指示，意味着，代表 
+cash n. 现金 
+repeatedly ad. 重复地 
+replicate vt. 重复，复制 
+mega n. 兆，百万 
+conform vi. 遵从，符合 
+rebuild v. 重建，修复，改造 
+certainty n. 必然，确实 
+controller n. 控制器 
+pseudo a. 假的，伪的，冒充的 
+manage v. 管理，经营，使用 
+administrator n. 管理人，行政人员 
+ensemble n. 总体，集合体 
+bus n. 总线，信息通路 
+allowable a. 容许的，承认的 
+limitations n. 限制，边界 
+restriction n. 限制，约束，节流 
+height n. 高度 
+remainder n. 余数，余项，剩余 
+traverse v. 横渡，横过，横断 
+organization n. 结构，机构，公司 
+resulting a. 结果的，合成的 
+solution n. 解，解法，解答 
+external a. 外部的 
+adequate a. 足够的，充分的 
+interpretability n. 配合动作性 
+vary v. 变化，变换 
+gap n. 间隙，间隔，缝隙 
+indexing n. 变址，标引，加下标 
+board n. 板，插件板 
+package n. 插件，(软件)包 
+insertion n. 插入，嵌入，插页 
+intervene vi插入，干涉 
+conflict v. 冲突，碰头 
+really a. 真正地，确实地 
+overflow v. 溢出，上溢 
+charge n. 电荷，充电，负荷 
+phone n. 电话，电话机，音素 
+virtual a. 虚(拟)的，虚拟 
+compose v. 组成，构成，构图 
+snapshot n. 抽点打印 
+sensitivity n. 灵敏度 
+familiar a. 熟悉的，惯用的 
+mach n. 马赫(速度单位) 
+incorrect a. 错误的，不正确的 
+cut v. 割，切 
+lowest a. 最低的，最小的 
+simple a. 简单的 
+subsequent a. 后来的，其次的 
+capitalized a. 大写的 
+compact a. 紧致的，压缩的 
+plain n. 明码 
+noted a. 著名的 
+desirable a. 所希望的，称心的 
+substitution n. 代替，替换，置换 
+consume v. 消耗，使用 
+forget v. 忘记 
+keyed a. 键控的 
+overstrike n. 过打印 
+tornado n. 旋风，龙卷风 
+quotation n. 引证，引用(句) 
+ones n. 二进制反码 
+parse vt. (语法)分析 
+experience vt. & n. 试验 
+manufacture vt. & n. 制造(业)，工业 
+hundred n. & a. (一)百，百个 
+thousand n. & a. (一)千，无数的 
+twentieth n. & a. 第二十(的) 
+understanding n. & a. 了解的，聪明的 
+hand n. & a. 手，手工(动)的 
+restricting n. & a. 限制(的) 
+fancy n. & a. 想象(的)，精制的 
+wide a. & ad. 宽的，广阔的 
+fine a. & ad. 微小的，细的 
+worry v. & n. (使)烦恼 
+somewhat pron. & ad. 稍微，有点 
+quiet a. & n. 静态，静止的 
+purge v. & n. 清除 
+mod a. & n. 时髦的 
+numeral n. & n. 数字的，数码 
+whichever a. & pron. 无论哪个 
+purchase n. & v. 购买 
+care n. & v. 关心，注意 
+watch n. & v. 监视，观测 
+endeavor n. & v. 尽力，力图 
+mismatch n. & vt. 失配，不匹配 
+printout n. 印出 
+ellipsis n. 省略符号，省略(法) 
+ship n. 舰，船 
+british a. & n. 英国的；英国人 
+parallel a. 并行 
+custom a. & n. 常规的，惯例；用户 
+congratulation n. 祝贺 
+protection n. 保护 
+glass n. 玻璃 
+pattern n. 模式 
+insure v. 保证，保障 
+stopping n. 停止，制动(状态) 
+factory n. 工厂，制造厂 
+implement n. & vt. 工具；执行，实现 
+effort n. 工作，研究计划 
+worker n. 工作人员 
+ampersand n. &号(and) 
+deal v. 处理，分配，交易 
+power n. 功率，电源，幂 
+difficulty n. 困难，难点 
+lose n. 失去，损失 
+magic n. 魔术，幻术 
+proprietary a. 专有的 
+aware a. 知道的，察觉到的 
+numerous a. 为数众多的，无数的 
+vowel n. 元音，母音 
+closely a. 精密地，仔细地 
+accuracy n. 精确度，准确度 
+traditional a. 传统的，惯例的 
+synchronization n. 同步 
+fragment n. 片段，段，分段 
+primary a. 原始的，主要的 
+safely ad. 安全地，确实地 
+habit n. 习惯 
+comprise vt. 包括，由…组成 
+landler n. 兰德勒舞曲 
+absence n. 缺少，没有 
+revolutionize vt. 变革，彻底改革 
+constantly ad. 不变地，经常地 
+seldom ad. 不常，很少，难得 
+unfortunately ad. 不幸，遗憾地 
+expunge vt. 擦除，删掉 
+security n. 安全性，保密性 
+touch v. & n. 按，揿，触；触力 
+contrast n. 反差，对比，对比度 
+invent vt. 创造，想象 
+reflect v. 反射 
+undone a. 未完成的 
+unshift v. 未移动，不移档 
+complex a. & n. 复杂的；复数 
+complexity n. 复杂性，复杂度 
+creation n. 创造，创作 
+unknown a. 未知的，无名的 
+greatly ad. 大大地，非常 
+cost n. 值，价值，成本 
+degrade v. 降低，减少，递降 
+suggestion n. 暗示，提醒 
+real n. 实数，实的，实型 
+experimentation n. 实验(工作，法) 
+experiment n. 实验，试验(研究) 
+substantial a. 实质的，真正的 
+solely ad. 独自，单独，只 
+announce vt. 发表，宣布 
+squeeze v. 挤压 
+distribute vt. 分布，配线，配给 
+negate vt. 否定，求反，“非” 
+capture vt. 俘获，捕捉 
+father n. 父，上层(树节点的) 
+reinstate vt. 复原，恢复 
+tutorial a. 指导的 
+nicety n. 细节，精细 
+roll n. & v. 案卷；卷动，滚动 
+exponent n. 指数，阶，幂 
+exponential a. 指数的，幂的，阶的 
+prefer vt. 更喜欢，宁愿 
+complicated v. 使复杂化，使混乱 
+reactivate v. 使恢复活动 
+spread v. 展开，传播 
+synchronize v. 使同步 
+formation n. 构造，结构，形成 
+widely ad. 广泛，很远 
+comma n. 逗号“,”，逗点 
+very ad. 很，非常，最 
+unnecessary a. 不必要的，多余的 
+unchanged a. 不变的 
+cross n. 交叉，十字准线 
+yet ad. 还，仍然，至今 
+slowly ad. 缓慢地 
+inexperienced a. 不熟练的，外行的 
+noninteractive a. 不相关的，非交互的 
+unwanted a. 不需要的，多余的 
+unused a. 不用的，空着的 
+unmarked a. 没有标记的 
+nothing n. 没有任何东西 
+chart n. 图(表) 
+dearly ad. 极，非常，昂贵地 
+extremely ad. 极端地，非常 
+hardly ad. 几乎不，未必 
+placement n. 布局 
+think v. 考虑，以为，判断 
+technical a. 技术的，专业的 
+idea n. 思想，观念 
+stamp n. 图章 
+indirectly ad. 间接地 
+equation n. 方程，方程式 
+smooth v. & a. 平滑；平滑的 
+attached a. 附加的
+average n. 平均，平均数 
+quietly ad. 静静地 
+discard v. 删除，废除，放弃 
+never ad. 决不，从来不 
+initiate vt. 开创，起始 
+powerful a. 强大的，大功率的 
+purpose n. & vt. 目的，用途；打算 
+regard vt. 考虑，注意，关系 
+daily a. 每日的，日常的 
+possibly ad. 可能地，合理地 
+potentially ad. 可能地，大概地 
+moreover ad. 况且，并且，此外 
+american a. 美国的 
+guard v. & n. 防护；防护装置 
+world n. 世界，全球 
+independent a. 独立的 
+independently a. 独立地 
+continuously ad. 连续不断地 
+shield v. 屏蔽，罩，防护 
+glance n. 闪烁 
+happening n. 事件，偶然发生的事 
+transaction n. 事项，事务，学报 
+emulation n. 仿真，仿效 
+strike v. 敲，击 
+dump v. (内存信息)转储 
+occasionally ad. 偶尔(地)，不时 
+tension n. 张力 
+probable a. 概率的，可能的 
+talent n. 才能，技能，人才 
+financial a. 财务的，金融的 
+meter n. 仪表，米 
+logged a. 记录的，浸透的 
+ware n. 仪器，商品 
+disregard vt. 轻视，把…忽略不计 
+waiting a. 等待的 
+preceding a. 先的，以前的 
+comparison n. 比较，对照 
+advanced a. 先进的，预先的 
+rate n. 比率，速率，费率 
+fly v. 飞，跳过 
+programmable a. 可编程的 
+definable a. 可定义的，可确定的 
+readable a. 可读的 
+recoverable a. 可恢复的，可回收的 
+possibility n. 可能性 
+finisher n. 成品机 
+applicable a. 可适用的，合适的 
+printable a. 可印刷的 
+executable a. 可执行的 
+essentially ad. 实质上，本来 
+confuse vt. 使混乱，干扰 
+familiarize vt. 使熟悉，使通俗化 
+employe vt. 使用，花费 
+suitable a. 适合的，相适宜的 
+generation n. (世)代，(发展)阶段 
+quality n. 质量，性质，属性 
+defective a. 故障的，有毛病的 
+interpretable a. 彼此协作的 
+interest n. 兴趣，注意，影响 
+fourscore n. 八十 
+teach v. 教，讲授 
+procedural a. 程序上的 
+phrase n. 短语，成语 
+specifically ad. 特别地，逐一地 
+penalty n. 惩罚，罚款，负担 
+violate vt. 违犯，妨碍，破坏 
+indefinitely ad. 无限地，无穷地 
+major a. 较大的，主要的 
+higher a. 较高的 
+wise a. 聪明的 
+becoming a. 合适的，相称的 
+equally ad. 相等地，相同地 
+enjoy vt. 享受，欣赏，喜爱 
+forth ad. 向前 
+disappear vi. 消失 
+crop v. 切，剪切 
+diagonally ad. 斜(对) 
+labeled a. 有标号的 
+decision n. 判定，决定，决策 
+effective a. 有效的 
+significant a. 有效的，有意义的 
+avail v. & n. 有益于；利益 
+hang v. 中止，暂停，挂起 
+craze n. & v. 裂纹开裂 
+consequently ad. 因此，从而 
+introduce vt. 引进，引导 
+team n. 队，小组 
+visual a. 视觉的，直观的 
+acknowledgment n. 接收(收妥)，承认 
+efficiently ad. 有效地 
+predict vt. 预测，预言 
+anticipate vt. 预先考虑，抢…先 
+bypass n. 旁路 
+nature n. 自然，天然 
+natural a. 自然的 
+grant vt. 允许，授权 
+logarithm n. 对数 
+reappears vi. 再现，重现 
+reload vt. 再装入 
+occupy vt. 占有，充满 
+photograph n. 照片；v.照相 
+terminating n. 终止，终结，收信 
+resolve v. 分辨，解像 
+unsafe v. 恢复 
+separator n. 分隔符 
+hierarchical a. 分级的，分层的 
+assortment n. 种类，花色品种 
+growing n. 分类，分组，成群 
+discussion n. 讨论，商议，论述 
+alphabet n. 字母，字母表 
+scattered a. 分散的 
+eventually ad. 终于，最后 
+finally ad. 终于，最后 
+subgroup n. 分组，子群 
+superimpose vt. 重叠，叠加 
+reorganization vt. 重排，改组 
+rewrite vt. 重写，再生 
+university n. (综合性)大学 
+deter vt. 阻止，拦住，妨碍 
+pool n. & v. 池，坑；共享 
+moment n. 矩，力矩，磁矩 
+shut v. 关闭 
+closed a. 关闭的，闭迹 
+respond v. 回答，响应 
+repeating n. 重复，循环 
+repetitive a. 重复的 
+reenter v. 重新进入 
+rearrange v. 重新整理，重新排序 
+rectangular a. 矩形的，成直角的 
+tag n. 特征，标记，标识符 
+suppose v. 假定，推测 
+supposed a. 假定的，推测的 
+manipulating v. 操纵，操作 
+operator n. 操作员，运算符 
+masking n. 掩蔽，屏蔽 
+price n. 价格 
+demonstrate v. 论证，证明，证实 
+importance n. 价值，重要 
+pipe n. 管，导管 
+overall a. 总共的，全部的 
+turnkey n. 总控钥匙 
+restricted a. 受限制的，受约束的 
+suspension n. 暂停，中止，挂起 
+seamless a. 无缝的 
+clipper n. 限幅器，钳位器 
+unsigned a. 无符号的 
+unformatted a. 无格式的 
+infinite a. 无限的，无穷的 
+useless a. 无用的 
+limiter n. 限制(幅)器 
+mountain n. 高山，山脉 
+redundant a. 冗余的 
+dependent a. 相关的 
+contiguous a. 相连的，邻接的 
+consistent a. 相容的，一致的 
+multiprocessing n. 多重处理，多道处理 
+architecture n. 结构，构造 
+structural a. 结构的，结构上的 
+outcome n. 结果，成果，输出 
+association n. 结合，协会，联想 
+opinion n. 意见，见解，判断 
+interpret v. 解释 
+explanatory a. 解释(性)的 
+assemble v. 汇编，装配 
+assembler n. 汇编程序 
+cad 计算机辅助设计 
+arithmetic n. 算术，运算 
+varying a. 变化的，可变的 
+representative a. 典型的，表示的 
+typical a. 典型的，标准的 
+sufficient a. 充足的，足够的 
+blast v. & n. 清除；爆炸 
+clean a. 清洁的，干净的 
+caret n. 插入符号 
+socket n. 插座，插孔，插口 
+stated a. 规定的 
+protocol n. 规约，协议，规程 
+presence n. 存在，有 
+telephone n. 电话 
+social a. 社会的 
+equipment n. 设备，装备，仪器 
+lending n. & a. 借给，出租；借出的 
+book n. 书，手册，源程序块 
+circumstances n. 情况，环境，细节 
+situation n. 情况，状况，势态 
+desk n. 书桌，控制台，面板 
+please v. 请 
+mixture n. 混合物 
+representation n. 表示 
+esoteric a. 深奥的，奥秘的 
+depth n. 深度，浓度(颜色的) 
+final a. 最终的 
+physically a. 物理上，实际上 
+aid n. 帮助，辅助程序 
+successive a. 逐次的，相继的 
+succession n. 逐次性，连续性 
+unpack v. 拆开，卸，分开 
+chunk n. 厚块，大部分 
+alignment n. 序列，成直线 
+typewriter n. 打字机 
+big a. 大的，重要的 
+tone n. 音调，音色，色调 
+sensitive a. 敏感的，灵敏的 
+reduction n. 减化，还原，减少 
+indentation n. 缩进，缩排 
+terminology n. 术语 
+ascending a. 增长的，向上的 
+augment v. 增加，添加，扩充 
+increment n. 增量，加１，递增 
+gain n. 增益(系数) 
+stream n. 流 
+obsolete a. 作废的，过时的 
+accommodate v. 调节，适应 
+motif n. 主题，要点，特色 
+subject n. 主题，源 
+job n. 作业 
+differentiate v. 区别，分辨 
+distinction n. 区别，相异，特性 
+distinguish v. 区别，辨识 
+locking n. 锁定，加锁 
+progress n. 进度，进展 
+fundamental a. 基本的，根本的 
+basis n. 基础，座 
+underlying a. 基础的，根本的 
+sound n. 声音，音响 
+vital a. 生动的，不可缺少的 
+national a. 国家的 
+sale n. 销售，销路 
+agree v. 符合，相同 
+iterative a. 迭代的 
+inclusive a. 包括的，内含的 
+charm n. 吸引力 
+hit v. 命中，瞬时干扰 
+course n. 过程，航向，课程 
+exceeded a. 过度的，非常的 
+numerical a. 数量的，数字的 
+digital a. 数字的 
+combo n. 二进位组合码 
+cord n. 绳子，电线
+
+a 一个 
+abandon 放弃 
+abate 减弱 
+abatement 减轻 
+abbreviate 缩写 
+abdomen 腹部 
+aberrant 异常的 
+abhorrent 可恶的 
+abide 住 
+abiding 持久的 
+ability 能力 
+abject 可怜的 
+ablaze 闪亮 
+able 能力 
+abnormal 不正常的 
+aboard 上 
+abode 住 
+abolish 废除 
+abolition 废除 
+abort 中止 
+abortion 堕胎 
+abound 有很多 
+about 关于 
+above 以上 
+abrasion 磨损 
+abreast 了解 
+abroad 在国外 
+abrupt 突然 
+abruptly 突然 
+absence 没有 
+absent 缺席 
+absenteeism 旷工 
+absolute 绝对 
+absolutely 绝对 
+absorb 吸收 
+absorbing 吸收 
+absorption 吸收 
+abstract 文摘 
+abstraction 抽象 
+abstruse 深奥的 
+absurd 荒谬的 
+abundance 丰富 
+abundant 丰富的 
+abuse 滥用 
+abut 邻接 
+academic 学术 
+academy 学院 
+accelerate 加速 
+acceleration 加速度 
+accent 口音 
+accept 接受 
+acceptable 可接受的 
+acceptance 验收 
+access 访问 
+accessible 可访问的 
+accessory 附件 
+accident 事故 
+accidental 意外 
+accidentally 不小心 
+acclaim 好评 
+accommodate 适应 
+accommodation 住宿 
+accompaniment 伴奏 
+accompany 陪 
+accomplish 完成 
+accomplished 完成 
+accomplishment 成就 
+accord 协议 
+accordance 根据 
+according 根据 
+accordingly 相应的 
+accordion 手风琴 
+account 账户 
+accountancy 会计 
+accountant 会计 
+accounting 会计 
+accredit 授权 
+accreditation 认证 
+accumulate 积累 
+accuracy 精度 
+accurate 准确的 
+accurately 准确地 
+accusation 指控 
+accuse 指责 
+accustom 习惯 
+accustomed 习惯了 
+ache 疼痛 
+achieve 实现 
+achievement 成就 
+acid 酸 
+acidic 酸性 
+acidity 酸度 
+acknowledge 承认 
+acoustic 声 
+acquaint 了解 
+acquaintance 熟人 
+acquire 收购 
+acquisition 收购 
+acre 英亩 
+acrobat 杂技演员 
+acrobatic 杂技 
+acronym 首字母缩写 
+across 在 
+act 行为 
+acting 代理 
+action 行动 
+activate 激活 
+active 活跃的 
+activity 活动 
+actor 演员 
+actress 女演员 
+actual 实际 
+actuality 现状 
+actually 实际上 
+acumen 智慧 
+acupuncture 针灸 
+acute 急性 
+ad 广告 
+adamant 坚持 
+adapt 适应 
+adaptable 适应性强的 
+adaptation 适应 
+adaptive 自适应 
+add 添加 
+addict 成瘾者 
+addicted 上瘾 
+addiction 上瘾 
+addictive 让人上瘾 
+addition 除了 
+additional 额外的 
+additive 添加剂 
+address 地址 
+adequate 足够的 
+adhere 坚持 
+adhesive 胶粘剂 
+adjacent 相邻 
+adjective 形容词 
+adjoin 毗邻 
+adjoining 毗邻的 
+adjunct 兼职 
+adjust 调整 
+adjustment 调整 
+administer 管理 
+administration 政府 
+administrative 行政 
+administrator 管理员 
+admirable 令人钦佩的 
+admiration 钦佩 
+admire 欣赏 
+admission 入学 
+admit 承认 
+admittedly 不可否认 
+adobe adobe 
+adolescence 青春期 
+adolescent 青少年 
+adopt 采用 
+adoption 采用 
+adore 崇拜 
+adorn 装饰 
+adult 成人 
+advance 推进 
+advanced 先进的 
+advantage 优势 
+advantageous 有利的 
+advent 出现 
+adventure 冒险 
+adventurous 喜欢冒险的 
+adverb 副词 
+adverse 不良 
+advertise 做广告 
+advertisement 广告 
+advertiser 广告商 
+advice 建议 
+advisable 明智的 
+advise 建议 
+advisory 咨询 
+advocate 提倡 
+aegean 爱琴海 
+aeration 曝气 
+aerial 空中 
+aerobic 有氧 
+aerobics 有氧运动 
+aeronautics 航空 
+aeroplane 飞机 
+aerospace 航空航天 
+aesthetic 审美 
+affair 事件 
+affect 影响 
+affection 感情 
+affectionate 充满深情的 
+affiliate 下属 
+affinity 亲和力 
+affirm 确认 
+afflict 折磨 
+afflicting 困扰 
+affluent 富裕的 
+afford 负担得起 
+afield 在战场上 
+afraid 害怕 
+afresh 重新 
+Africa 非洲 
+African 非洲 
+after 后 
+afternoon 下午 
+afterward 之后 
+afterwards 后来 
+again 再一次 
+against 对 
+age 年龄 
+ageing 老化 
+agency 机构 
+agenda 议程 
+agent 代理 
+aggravate 加剧 
+aggravation 加重 
+aggregate 总 
+aggression 侵略 
+aggressive 咄咄逼人的 
+aggressiveness 攻击性 
+agile 敏捷 
+agitate 搅拌 
+agitation 搅动 
+ago 前 
+agonizing 痛苦的 
+agony 痛苦 
+agree 同意 
+agreeable 和蔼可亲的 
+agreement 协议 
+agricultural 农业 
+agriculture 农业 
+ahead 之前 
+aid 援助 
+AIDS 艾滋病 
+ailment 疾病 
+aim 目的 
+air-conditioning 空调 
+air 空气 
+airborne 机载 
+aircraft 飞机 
+airfield 机场 
+airline 航空公司 
+airmail 航空邮件 
+airplane 飞机 
+airport 机场 
+airspace 空域 
+aisle 过道 
+alarm 报警 
+alarming 令人担忧的 
+albeit 尽管 
+album 专辑 
+alchemist 炼金术士 
+alcohol 酒精 
+alcoholic 含酒精的 
+alert 警报 
+alga 海藻 
+algebra 代数 
+alien 外星人 
+alienate 疏远 
+alienation 异化 
+alight 下车 
+alignment 对齐 
+alike 都 
+alive 活着 
+alkali 碱 
+all 所有 
+allay 减轻 
+allegation 指控 
+allege 称 
+allegiance 忠诚 
+allergic 过敏 
+allergy 过敏 
+alleviate 缓解 
+alley 小巷 
+alliance 联盟 
+allocate 分配 
+allocation 分配 
+allow 允许 
+allowance 津贴 
+alloy 合金 
+allude (暗示) 
+allure 魅力 
+alluvial 冲积 
+ally 盟友 
+almond 杏仁 
+almost 几乎 
+aloft 在空中 
+alone 独自一人 
+along 沿着 
+alongside 与 
+aloof 冷漠 
+aloud 大声 
+alphabet 字母 
+alpine 高山 
+alpinist 登山运动员 
+already 已经 
+also 也 
+alter 改变 
+alternate 备用 
+alternately 交替 
+alternative 替代 
+although 虽然 
+altitude 高度 
+altogether 完全 
+altruistic 利他主义 
+aluminum 铝 
+alumnus 校友 
+always 总是 
+am 我 
+amass 积累 
+amateur 业余 
+amaze 使吃惊 
+amazing 令人惊异的 
+ambassador 大使 
+ambience 气氛 
+ambiguous 模棱两可的 
+ambition 雄心壮志 
+ambitious 雄心勃勃的 
+amble 漫步 
+ambulance 救护车 
+amend 修改 
+amenity 美化市容 
+America 美国 
+American 美国 
+amiable 和蔼可亲的 
+amid 在 
+amino 氨基 
+ammeter 安培表 
+ammonia 氨 
+ammunition 弹药 
+among 在 
+amongst 在 
+amorphous 非晶 
+amount 量 
+ampere 安培 
+amphibious 两栖 
+ample 充足的 
+amplifier 放大器 
+amplify 放大 
+amply 充分 
+amuse 娱乐 
+amused 逗乐 
+amusement 娱乐 
+amusing 有趣的 
+an 一个 
+analogous 类似的 
+analogue 模拟 
+analogy 类比 
+analyse 分析 
+analysis 分析 
+analytic 分析 
+analyze 分析 
+anarchist 无政府主义者 
+anarchy 无政府状态 
+anatomy 解剖学 
+ancestor 祖先 
+ancestral 祖先的 
+anchor 锚 
+ancient 古老的 
+and so forth 等等 
+and 和 
+anecdotal 坊间 
+anecdote 轶事 
+angel 天使 
+anger 愤怒 
+angiosperm 被子植物 
+angle 角 
+angrily 愤怒地 
+angry 愤怒的 
+anguish 痛苦 
+angular 角 
+animal 动物 
+animate 动画 
+animation 动画 
+ankle 脚踝 
+annex 附件 
+anniversary 周年纪念日 
+announce 宣布 
+announcement 公告 
+announcer 播音员 
+annoy 骚扰 
+annoyed 生气 
+annoying 烦人的 
+annual 年度 
+anomaly 异常 
+anonymous 匿名 
+another 另一个 
+answer 回答 
+ant 蚂蚁 
+Antarctic 南极 
+antenna 天线 
+anthropologist 人类学家 
+antibiotic 抗生素 
+anticipate 预测 
+antidote 解药 
+antipodes 波德 
+antiquated 过时的 
+antique 古董 
+antiquity 古代 
+antiseptic 防腐剂 
+anxiety 焦虑 
+anxious 焦虑 
+any 任何 
+anybody 任何人 
+anyhow 不管怎样 
+anyone 任何人 
+anything 任何东西 
+anyway 无论如何 
+anywhere 在任何地方 
+apace 快速 
+apart 分开 
+apartment 公寓 
+ape 猿 
+aphid 蚜虫 
+apollo 阿波罗 
+apologetic 道歉 
+apologize 道歉 
+apology 道歉 
+appal 惊吓 
+apparatus 装置 
+apparent 明显的 
+apparently 显然 
+appeal 上诉 
+appear 出现 
+appearance 外观 
+appease 安抚 
+appendix 附录 
+appetite 食欲 
+applaud 鼓掌 
+applause 掌声 
+apple 苹果 
+appliance 设备 
+applicable 适用的 
+applicant 申请人 
+application 应用程序 
+apply 应用 
+appoint 任命 
+appointment 任命 
+apportion 分摊 
+appraisal 评估 
+appreciable 可感知的 
+appreciate 欣赏 
+appreciation 升值 
+apprenticeship 学徒 
+approach 方法 
+appropriate 适当的 
+approval 批准 
+approve 批准 
+approximate 近似 
+approximately 约 
+April 4月 
+apron 围裙 
+apt 恰当的 
+aptitude 资质 
+aquaplane 滑水板 
+aquarium 水族馆 
+aquatic 水生 
+aquifer 含水层 
+Arabian 阿拉伯 
+Arabic 阿拉伯语 
+arable 耕地 
+arbitrary 任意的 
+arboreal 栖息在树上的 
+arc 弧 
+arcade 商场 
+arch 拱 
+archaeologist 考古学家 
+archaeology 考古 
+architect 架构师 
+architectural 建筑 
+architecture 体系结构 
+archive 存档 
+archway 拱门 
+Arctic 北极 
+ardent 热心的 
+arduous 艰巨的 
+are 是 
+area 区域 
+arena 竞技场 
+argue 认为 
+argument 论点 
+aria 咏叹调 
+arid 干旱 
+arise 出现 
+aristocrat 贵族 
+Aristotelian 亚里士多德 
+aristotle 亚里士多德 
+arithmetic 算术 
+arm 手臂 
+armament 武器 
+armchair 扶手椅 
+armor 护甲 
+army 军队 
+aroma 香气 
+around 周围 
+arousal 唤醒 
+arouse 引起 
+arrange 安排 
+arrangement 安排 
+array 数组 
+arrest 逮捕 
+arrival 到来 
+arrive 到达 
+arrogance 傲慢 
+arrogant 傲慢的 
+arrow 箭头 
+arsenic 砷 
+art 艺术 
+artefact 人工制品 
+artery 动脉 
+arthritis 关节炎 
+article 文章 
+articulate 善于表达 
+artificial 人工 
+artillery 炮兵 
+artisan 工匠 
+artist 艺术家 
+artiste 艺人 
+artistic 艺术 
+as 作为 
+ascend 提升 
+ascending 提升 
+ascertain 确定 
+ascribe 把 
+ash 灰 
+ashamed 羞愧 
+ashore 上岸 
+ashtray 烟灰缸 
+Asia 亚洲 
+Asian 亚洲 
+aside 一边 
+ask 问 
+asleep 睡着了 
+aspect 方面 
+aspiration 愿望 
+aspire 追求 
+aspirin 阿斯匹林 
+assail 攻击 
+assassinate 暗杀 
+assassination 暗杀 
+assault 攻击 
+assemble 组装 
+assembly 组装 
+assert 断言 
+assess 评估 
+assessment 评估 
+asset 资产 
+assign 分配 
+assignment 赋值 
+assimilate 同化 
+assimilation 同化 
+assist 协助 
+assistance 援助 
+assistant 助理 
+assistantship 助教奖学金 
+associate 副 
+association 协会 
+assorted 各种各样的 
+assortment 分类 
+assume 假设 
+assumption 假设 
+assurance 保证 
+assure 保证 
+asterisk 星号 
+asteroid 小行星 
+asthma 哮喘 
+astonish 使惊讶 
+astound 震惊 
+astray 误入歧途 
+astride 两腿分开着 
+astrology 占星术 
+astronaut 宇航员 
+astronomer 天文学家 
+astronomical 天文 
+astronomy 天文学 
+astute 精明的 
+asymmetrical 不对称 
+at 在 
+ate 吃了 
+athlete 运动员 
+athletic 运动 
+Atlantic 大西洋 
+atlas 阿特拉斯 
+atmosphere 大气 
+atmospheric 大气 
+atom 原子 
+atomic 原子 
+atrophy 萎缩 
+attach 附加 
+attack 攻击 
+attain 达到 
+attainable 可以实现的 
+attainment 成就 
+attempt 尝试 
+attend 参加 
+attendance 出席 
+attendant 服务员 
+attention 注意 
+attentive 细心的 
+attic 阁楼 
+attire 服装 
+attitude 的态度 
+attorney 律师 
+attract 吸引 
+attraction 吸引力 
+attractive 有吸引力的 
+attribute 属性 
+auction 拍卖 
+audacious 大胆的 
+audience 观众 
+audio 音频 
+audit 审计 
+audition 试镜 
+auditorium 礼堂 
+augment 增加 
+August 8月 
+aunt 阿姨 
+aural 听觉 
+aurora 极光 
+Australia 澳大利亚 
+Australian 澳大利亚 
+Austria 奥地利 
+Austrian 奥地利 
+authentic 真实的 
+authenticate 进行身份验证 
+author 作者 
+authorise 授权 
+authoritarian 独裁 
+authoritative 权威的 
+authority 权威 
+authorize 授权 
+auto 汽车 
+autobiography 自传 
+autocratic 独裁 
+autoimmune 自身免疫性 
+automatic 自动 
+automatically 自动 
+automation 自动化 
+automobile 汽车 
+autonomous 自治 
+autonomy 自治 
+autumn 秋天 
+auxiliary 辅助 
+avail 效果 
+availability 可用性 
+available 可用 
+avalanche 雪崩 
+avenge 报仇 
+avenue 大道 
+average 平均 
+avert 避免 
+aviation 航空 
+avoid 避免 
+await 等待 
+awake 醒着的 
+award 奖 
+aware 意识到 
+awareness 意识 
+away 走了 
+awe 敬畏 
+awesome 太棒了 
+awful 可怕的 
+awfully 非常 
+awkward 尴尬的 
+awoke 醒来 
+awoken 醒来 
+ax 斧头 
+axe 斧 
+axis 轴 
+axle 轴 
+baby 婴儿 
+Babylonian 巴比伦 
+bachelor 本科 
+back 回来 
+backbone 骨干 
+background 背景 
+backhand 反手 
+backup 备份 
+backward 落后的 
+backwards 向后 
+backwater 回水 
+bacon 培根 
+bacteria 细菌 
+bacterial 细菌 
+bactericidal 杀菌 
+bacterium 细菌 
+bad 坏 
+badge 徽章 
+badly 严重 
+badminton 羽毛球 
+baffle 挡板 
+bag 袋 
+bagel 百吉饼 
+baggage 行李 
+bail 保释 
+bait 诱饵 
+bake 烤 
+baker 贝克 
+bakery 面包店 
+balance 平衡 
+balcony 阳台 
+bald 秃头 
+ball 球 
+ballad 民谣 
+ballast 压舱物 
+ballet 芭蕾舞 
+balloon 气球 
+ballot 投票 
+baltic 波罗的海 
+bamboo 竹子 
+ban 禁止 
+banal 平庸的 
+banana 香蕉 
+band 乐队 
+bandage 绷带 
+bandanna 印花大手帕 
+bang 爆炸 
+banish 消除 
+bank 银行 
+banker 银行家 
+bankrupt 破产 
+bankruptcy 破产 
+banner 横幅 
+banquet 宴会 
+bar 酒吧 
+barb barb 
+barbarian 野蛮人 
+barbaric 野蛮的 
+barbecue 烧烤 
+barber 理发师 
+barbershop 理发店 
+bare 裸露的 
+barely 几乎没有 
+Barents 巴伦支海 
+bargain 讨价还价 
+barge 驳船 
+bark 树皮 
+barn 谷仓 
+baron 男爵 
+barrage 接二连三 
+barrel 桶 
+barren 贫瘠的 
+barricade 街垒 
+barrier 障碍 
+barter 物物交换 
+base 基地 
+baseball 棒球 
+basement 地下室 
+basic 基本 
+basically 基本上 
+basin 盆地 
+basis 基础 
+basket 篮子 
+basketball 篮球 
+Bastille 巴士底狱 
+bat 蝙蝠 
+batch 批处理 
+bath 浴 
+bathe 洗澡 
+bathroom 浴室 
+batter 面糊 
+battered 遭受重创的 
+battery 电池 
+battle 战斗 
+bay 湾 
+be 是 
+beach 海滩 
+bead 珠 
+beak 嘴 
+beam 梁 
+bean 豆 
+bear 熊 
+beard 胡子 
+bearing 轴承 
+beast 野兽 
+beat 击败 
+beaten 殴打 
+beautiful 美丽的 
+beauty 美 
+beaver 海狸 
+became 成为 
+because 因为 
+become 成为 
+bed 床上 
+bedraggled 破烂的 
+bedrock 基石 
+bedroom 卧室 
+bee 蜜蜂 
+beef 牛肉 
+beehive 蜂巢 
+beer 啤酒 
+beeswax 蜂蜡 
+beetle 甲虫 
+before 之前 
+beforehand 事先 
+beg 求 
+began 开始 
+beggar 乞丐 
+begin 开始 
+beginning 开始 
+begrudge 嫉妒 
+begun 开始 
+behalf 代表 
+behave 的行为 
+behavior 行为 
+behaviorism 行为主义 
+behaviour 行为 
+behind 后面 
+being 被 
+belie 掩饰 
+belief 信仰 
+believe 相信 
+bell 贝尔 
+bellows 波纹管 
+belly 肚子 
+belong 属于 
+beloved 亲爱的 
+below 下面 
+belt 带 
+bench 板凳上 
+bend 弯曲 
+beneath 下 
+beneficial 有益的 
+beneficiary 受益人 
+benefit 好处 
+benevolent 仁慈的 
+benign 良性的 
+bent 弯曲 
+benz 奔驰 
+bequeath 遗赠 
+bereave 使人 
+berlin 柏林 
+berry 浆果 
+beside 旁边 
+besides 除了 
+besiege 围困 
+best 最好的 
+bet 打赌 
+betray 背叛 
+better 更好的 
+between 之间的 
+beverage 饮料 
+beware 当心 
+bewilder 使不知所措 
+bewilderment 困惑 
+beyond 除了 
+bias 偏见 
+biased 有偏见的 
+Bible 圣经 
+bibliography 参考书目 
+bicameral 两院制 
+bicycle 自行车 
+bid 报价 
+big 大 
+bike 自行车 
+bilateral 两国 
+bilingual 双语 
+bill 比尔 
+billion 欧元 
+bin 本 
+bind 绑定 
+bingo 宾戈游戏 
+binoculars 双筒望远镜 
+biochemistry 生物化学 
+biodiversity 生物多样性 
+biography 传记 
+biological 生物 
+biologist 生物学家 
+biology 生物学 
+biometrics 生物识别技术 
+bird 鸟 
+birth 出生 
+birthday 生日 
+birthplace 出生地 
+biscuit 饼干 
+bishop 主教 
+bison 野牛 
+bistro 小酒馆 
+bit 位 
+bite 咬 
+bitter 苦 
+bitterly 激烈的 
+bizarre 奇怪的 
+black 黑色的 
+blackberry 黑莓 
+blackboard 黑板上 
+blacken 变黑 
+blackmail 勒索 
+blade 叶片 
+blame 怪 
+bland 平淡无奇 
+blandishment 哄诱 
+blank 空白 
+blanket 毯子 
+blare 嘟嘟声 
+blast 爆炸 
+blaze 大火 
+bleach 漂白剂 
+bleak 荒凉的 
+bleed 流血 
+blend 混合 
+bless 祝福 
+blind 盲目的 
+blindfold 蒙着眼睛 
+blink 眨眼 
+blip 波动 
+blizzard 暴雪 
+block 块 
+blockade 封锁 
+blog 博客 
+blonde 金发女郎 
+blood 血 
+bloody 血腥的 
+bloom 布鲁姆 
+blossom 开花 
+blot 污点 
+blouse 上衣 
+blow 打击 
+blown 吹 
+blue 蓝色的 
+bluebottle 矢车菊 
+blueprint 蓝图 
+blues 蓝调 
+bluff 虚张声势 
+blunder 错误 
+blunt 钝 
+blur 模糊 
+blush 脸红 
+board 董事会 
+boast 自夸 
+boat 船 
+body 身体 
+bog 沼泽 
+boil 煮 
+bold 大胆的 
+boldly 大胆地 
+bolster 支持 
+bolt 螺栓 
+bomb 炸弹 
+bombay 孟买 
+bomber 轰炸机 
+bonanza 财源滚滚 
+bond 债券 
+bone 骨 
+bonus 奖金 
+bony 骨 
+boo 嘘 
+book 书 
+bookcase 书柜 
+booklet 小册子 
+bookstore 书店 
+boom 繁荣 
+booming 蓬勃发展的 
+boon 恩 
+boost 提高 
+boot 引导 
+booth 展位 
+border 边境 
+bore 生 
+bored 无聊 
+boredom 无聊 
+boring 无聊的 
+born 出生 
+borrow 借 
+bosom 胸部 
+boss 老板 
+botanical 植物 
+botany 植物学 
+both 这两个 
+bother 麻烦 
+bottle 瓶 
+bottom 底 
+bough 大树枝 
+bought 买了 
+boulder 博尔德 
+bounce 反弹 
+bouncing 跳跃 
+bound 绑定 
+boundary 边界 
+bouquet 花束 
+bow 弓 
+bowel 肠 
+bowl 碗 
+bowling 打保龄球 
+box 盒子 
+boxer 拳击手 
+boxing 拳击 
+boy 男孩 
+boycott 抵制 
+brace 撑 
+bracket 支架 
+braid 编织 
+brain 大脑 
+brake 刹车 
+branch 分支 
+brand 品牌 
+brandy 白兰地 
+brass 黄铜 
+brave 勇敢的 
+bravery 勇敢 
+brazen 厚颜无耻的 
+brazil 巴西 
+breach 违反 
+bread 面包 
+breadth 宽度 
+break 打破 
+breakdown 分解 
+breakfast 早餐 
+breakthrough 突破 
+breakwater 防浪堤 
+breast 乳房 
+breath 呼吸 
+breathe 呼吸 
+breathing 呼吸 
+breathless 上气不接下气 
+breathtaking 惊人的 
+breed 品种 
+breeze 微风 
+brew 酿造 
+brewery 啤酒厂 
+bribe 贿赂 
+brick 砖 
+bride 新娘 
+bridegroom 新郎 
+bridge 桥 
+brief 短暂的 
+briefcase 公文包 
+briefly 短暂的 
+brigade 旅 
+bright 明亮的 
+brighten 照亮 
+brilliance 辉煌 
+brilliant 才华横溢的 
+brim 边缘 
+bring 带 
+brink 边缘 
+brisk 轻快的 
+bristle 猪鬃 
+Britain 英国 
+British 英国 
+brittle 脆 
+broad 广泛的 
+broadcast 广播 
+brochure 宣传册 
+broke 打破了 
+broken 破碎的 
+broker 代理 
+bronchitis 支气管炎 
+bronze 青铜 
+brood 苦思冥想的 
+brook 布鲁克 
+brooklyn 布鲁克林 
+broom 扫帚 
+brother 哥哥 
+brought 带来了 
+brow 眉毛 
+brown 布朗 
+browse 浏览 
+bruise 瘀伤 
+brunch 早午餐 
+brunt 冲击 
+brush 刷 
+brutal 残酷的 
+brute 蛮 
+bubble 泡沫 
+buck 巴克 
+bucket 桶 
+buckle 扣 
+bud 芽 
+Buddhism 佛教 
+buddy 好友 
+budget 预算 
+buffalo 水牛 
+buffet 自助餐 
+bug 错误 
+build 构建 
+building 建筑 
+built 建 
+bulb 灯泡 
+bulge 胀 
+bulk 散装 
+bull 牛 
+bullet 子弹 
+bulletin 公告 
+bullion 黄金 
+bully 欺负 
+bulrush 芦苇 
+bump 撞 
+bunch 群 
+bundle 包 
+bungalow 平房 
+buoy 浮标 
+burden 负担 
+bureau 局 
+bureaucracy 官僚主义 
+bureaucratic 官僚主义的 
+burgeon 嫩枝 
+burglar 窃贼 
+burgle 偷窃 
+burial 埋葬 
+burn 燃烧 
+burned 燃烧 
+burnt 烧 
+burrow 洞穴 
+burst 破裂 
+bury 埋葬 
+bus 公共汽车 
+bush 布什 
+business 业务 
+businessman 商人 
+busman 公共汽车司机 
+bust 破产 
+busy 忙 
+but 但 
+butcher 屠夫 
+butt 屁股 
+butter 黄油 
+butterfly 蝴蝶 
+button 按钮 
+buy 买 
+buzz 嗡嗡声 
+by-product 副产品 
+by 通过 
+bye-bye 再见 
+bye 再见 
+bypass 绕过 
+cab 出租车 
+cabbage 卷心菜 
+cabin 小屋 
+cabinet 内阁 
+cable 电缆 
+cactus 仙人掌 
+cafe 咖啡馆 
+cafeteria 自助餐厅 
+cage 笼子里 
+cake 蛋糕 
+calais 加来 
+calcium 钙 
+calculate 计算 
+calculator 计算器 
+calculus 微积分 
+calendar 日历 
+calf 小腿 
+calibrate 校准 
+calibre 口径 
+california 加州 
+call 调用 
+caller 调用者 
+calm 平静 
+calorie 卡路里 
+came 来了 
+camel 骆驼 
+camera 相机 
+cameral cameral 
+camouflage 伪装 
+camp 营 
+campaign 运动 
+camper 露营者 
+campfire 篝火 
+campus 校园 
+can 可以 
+Canada 加拿大 
+Canadian 加拿大 
+canal 运河 
+cancel 取消 
+cancer 癌症 
+candidate 候选人 
+candle 蜡烛 
+candy 糖果 
+cane 甘蔗 
+cannibalism 同类相食 
+cannon 大炮 
+canoe 独木舟 
+canopy 树冠 
+canteen 食堂 
+Cantonese 广东话 
+canvas 帆布 
+canyon 峡谷 
+cap 帽 
+capability 能力 
+capable 有能力 
+capacity 能力 
+cape 角 
+capital 资本 
+capitalism 资本主义 
+caprice 任性 
+capsize 倾覆 
+capsule 胶囊 
+captain 队长 
+caption 标题 
+captive 俘虏 
+captivity 圈养 
+capture 捕获 
+car 车 
+carbohydrate 碳水化合物 
+carbon 碳 
+card 卡 
+cardboard 纸板 
+cardiac 心脏 
+cardinal 红衣主教 
+cardiovascular 心血管 
+care 护理 
+career 职业生涯 
+careful 小心 
+careless 粗心的 
+caress 爱抚 
+cargo 货物 
+caribbean 加勒比 
+caribou 驯鹿 
+carnivore 食肉动物 
+carousel 旋转木马 
+carp 鲤鱼 
+carpenter 卡彭特 
+carpet 地毯 
+carriage 马车 
+carrier 航空公司 
+carrot 胡萝卜 
+carry 携带 
+cart 车 
+cartilage 软骨 
+cartoon 卡通 
+carve 雕刻 
+cascade 级联 
+cascara 药鼠李 
+case 情况下 
+cash 现金 
+cashier 收银员 
+cassette 盒式磁带 
+cast 投 
+castle 城堡 
+casual 休闲 
+casualty 伤亡 
+cat 猫 
+catalog 目录 
+catalogue 目录 
+catalyst 催化剂 
+catastrophe 灾难 
+catastrophic 灾难性的 
+catch 抓 
+category 类别 
+cater 满足 
+caterpillar 卡特彼勒 
+cathedral 大教堂 
+Catholic 天主教 
+cattle 牛 
+caught 抓住了 
+cause 导致 
+caustic 苛性 
+caution 谨慎 
+cautious 谨慎的 
+cave 洞穴 
+cavern 洞穴 
+cavity 腔 
+cavort 腾跃 
+cd-rom 光盘 
+cd cd 
+cease 停止 
+ceiling 天花板 
+celebrate 庆祝 
+celebrated 庆祝 
+celebration 庆祝活动 
+celebrity 名人 
+celestial 天体 
+cell 细胞 
+cellar 地窖 
+cellist 大提琴家 
+cement 水泥 
+cemetery 墓地 
+censor 审查 
+censorship 审查 
+censure 谴责 
+census 人口普查 
+cent 分 
+centennial 百周年 
+center 中心 
+centigrade 摄氏 
+centimeter 厘米 
+centimetre 厘米 
+central 中央 
+centre 中心 
+centric 为中心的 
+century 世纪 
+ceramic 陶瓷 
+cereal 麦片 
+ceremonial 仪式 
+ceremony 仪式 
+certain 某些 
+certainly 当然 
+certainty 确定 
+certificate 证书 
+certify 证明 
+cervical 颈 
+chafe 摩擦 
+chagrin 懊恼 
+chain 链 
+chair 椅子 
+chairman 主席 
+chairwoman 主席 
+chalk 粉笔 
+challenge 挑战 
+challenging 具有挑战性的 
+chamber 室 
+chambermaid 女服务员 
+champagne 香槟 
+champion 冠军 
+championship 冠军 
+chance 机会 
+chancellor 总理 
+change 改变 
+changeable 多变的 
+channel 通道 
+chant 唱 
+chaos 混乱 
+chap 章 
+chapel 教堂 
+chapter 章 
+character 字符 
+characteristic 特征 
+characterize 描述 
+charcoal 木炭 
+charge 负责 
+charity 慈善机构 
+charm 魅力 
+charming 迷人的 
+chart 图表 
+charter 宪章 
+chase 追逐 
+chasm 鸿沟 
+chaste 纯洁的 
+chat 聊天 
+cheap 便宜的 
+cheat 作弊 
+check 检查 
+checked 检查 
+checker 检查程序 
+cheek 脸颊 
+cheer 欢呼 
+cheerful 快乐的 
+cheers 干杯 
+cheese 奶酪 
+chef 厨师 
+chemical 化学 
+chemist 化学家 
+chemistry 化学 
+cheque 支票 
+cherish 珍惜 
+cherry 樱桃 
+cherub 小天使 
+chess 国际象棋 
+chest 胸部 
+chew 咀嚼 
+chicago 芝加哥 
+chicanery 狡辩 
+chicken 鸡 
+chief 首席 
+child 孩子 
+childhood 童年 
+childish 幼稚的 
+children 孩子们 
+chill 寒冷 
+chilled 冷冻 
+chimney 烟囱 
+chimpanzee 黑猩猩 
+chin 下巴 
+china 中国 
+Chinese 中国 
+chink 裂缝 
+chip 芯片 
+chlorine 氯 
+chocolate 巧克力 
+choice 选择 
+choir 唱诗班 
+choke 窒息 
+cholesterol 胆固醇 
+choose 选择 
+chop 切 
+chopsticks 筷子 
+chord 和弦 
+choreograph 编排 
+choreographer 编排 
+chorus 合唱 
+chose 选择 
+chosen 选择 
+Christ 基督 
+Christian 基督教 
+Christmas 圣诞节 
+chromosome 染色体 
+chronic 慢性 
+chronical 慢性的 
+chronological 按时间顺序排列 
+chubby 胖乎乎的 
+chug 发出轧轧声前进 
+chunk 块 
+church 教堂 
+churn 生产 
+cider 苹果酒 
+cigar 雪茄 
+cigaret 香烟 
+cigarette 香烟 
+cinema 电影 
+cinematography 摄影 
+cipher 密码 
+circle 圆 
+circuit 电路 
+circular 圆形 
+circulate 循环 
+circulation 循环 
+circumference 周长 
+circumscribe 限制 
+circumstance 情况下 
+circus 马戏团 
+citadel 城堡 
+cite 引用 
+citizen 公民 
+city-state 城邦 
+city 城市 
+civil 民事 
+civilian 平民 
+civilization 文明 
+civilize 教化 
+civilized 文明 
+claim 索赔 
+clam 蛤 
+clamor 大声的要求 
+clamp 夹 
+clan 家族 
+clap 鼓掌 
+clarify 澄清 
+clarity 清晰 
+clash 冲突 
+clasp 扣 
+class 类 
+classic 经典 
+classical 经典 
+classification 分类 
+classify 分类 
+classmate 同学 
+classroom 教室 
+clatter 咔嗒声 
+clause 条款 
+clavichord 古钢琴 
+claw 爪 
+clay 粘土 
+clean 清洁 
+cleaner 更清洁的 
+cleanliness 清洁 
+cleanse 净化 
+clear 清晰的 
+clearance 间隙 
+clearly 很明显 
+cleft 裂 
+clench 握紧 
+clergy 神职人员 
+clerical 文书 
+clerk 职员 
+clever 聪明的 
+cliche 陈词滥调 
+click 点击 
+client 客户端 
+clientele 客户 
+cliff 悬崖 
+climate 气候 
+climatic 气候 
+climax 高潮 
+climb 爬 
+cling 抓住 
+clinic 诊所 
+clinical 临床 
+clip 剪辑 
+clipper 限幅器 
+cloak 斗篷 
+cloakroom 衣帽间 
+clock 时钟 
+clockwise 顺时针方向 
+clog 阻塞 
+clone 克隆 
+close 关闭 
+closely 密切 
+closet 衣橱 
+clot 凝块 
+cloth 布 
+clothe 穿 
+clothes 衣服 
+clothing 服装 
+cloud 云 
+cloudy 多云的 
+club 俱乐部 
+clue 线索 
+clump 丛 
+clumsily 笨拙地 
+clumsy 笨手笨脚 
+cluster 集群 
+clutch 离合器 
+clutter 杂乱 
+coach 教练 
+coal 煤炭 
+coalition 联盟 
+coarse 粗 
+coast 海岸 
+coat 外套 
+coax 哄 
+cobra 眼镜蛇 
+cocaine 可卡因 
+cock 旋塞 
+cockcrow 公鸡的啼叫 
+cocktail 鸡尾酒 
+cocoa 可可 
+cod 鳕鱼 
+code 代码 
+codify 编纂 
+coexist 共存 
+coffee 咖啡 
+coffer 保险箱 
+cognition 认知 
+cognitive 认知 
+coherent 连贯的 
+cohesion 凝聚力 
+cohesive 有凝聚力的 
+coil 线圈 
+coin 硬币 
+coincide 一致 
+coincidence 巧合 
+coke 可口可乐 
+cold 冷 
+collaborate 合作 
+collaboration 协作 
+collaborator 合作者 
+collapse 崩溃 
+collar 领 
+collate 核对 
+collateral 抵押品 
+colleague 的同事 
+collect 收集 
+collection 集合 
+collective 集体 
+college 大学 
+collide 碰撞 
+collision 碰撞 
+colonel 上校 
+colonial 殖民 
+colonize 殖民 
+colony 殖民地 
+color-blind 色盲的 
+color 颜色 
+colossal 巨大的 
+colour 颜色 
+column 列 
+comb 梳子 
+combat 战斗 
+combative 好斗的 
+combination 结合 
+combine 结合 
+combustible 可燃 
+combustion 燃烧 
+come 来 
+comedian 喜剧演员 
+comedy 喜剧 
+comet 彗星 
+comfort 安慰 
+comfortable 舒适的 
+comic 漫画 
+command 命令 
+commander 指挥官 
+commemorate 纪念 
+commence 开始 
+commencement 毕业典礼 
+commend 赞扬 
+comment 评论 
+commentary 评论 
+commerce 商务 
+commercial 商业 
+commercialization 商业化 
+commiserate 怜悯 
+commissary 食堂 
+commission 委员会 
+commit 提交 
+commitment 承诺 
+committee 委员会 
+commodity 商品 
+common 常见的 
+commonly 一般 
+commonplace 司空见惯的事 
+commonwealth 英联邦 
+communal 公共 
+communicate 沟通 
+communication 沟通 
+communism 共产主义 
+communist 共产主义 
+community 社区 
+commute 上下班 
+compact 紧凑的 
+companion 同伴 
+company 公司 
+comparable 类似的 
+comparative 比较 
+comparatively 相对 
+compare 比较 
+comparison 比较 
+compartment 室 
+compass 指南针 
+compassion 同情 
+compassionate 富有同情心的 
+compatible 兼容的 
+compatriot 同胞 
+compel 强迫 
+compendium 纲要 
+compensate 补偿 
+compensation 补偿 
+compete 竞争 
+competence 能力 
+competent 主管 
+competition 竞争 
+competitive 有竞争力的 
+compile 编译 
+complacence 沾沾自喜 
+complain 抱怨 
+complaint 投诉 
+complement 补充 
+complementary 互补 
+complete 完整的 
+completely 完全 
+completion 完成 
+complex 复杂的 
+complexion 肤色 
+complexity 复杂性 
+complicate 复杂化 
+complicated 复杂的 
+complication 并发症 
+compliment 赞美 
+comply 遵守 
+component 组件 
+compose 组成 
+composer 作曲家 
+composite 复合 
+composition 作文 
+compound 复合 
+comprehend 理解 
+comprehension 理解 
+comprehensive 全面的 
+compress 压缩 
+comprise 组成 
+compromise 妥协 
+compulsory 强制 
+compute 计算 
+computer 电脑 
+computerize 使计算机化 
+comrade 同志 
+concave 凹 
+conceal 隐藏 
+concede 承认 
+conceit 自负 
+conceited 自负 
+conceive 怀孕 
+concentrate 集中注意力 
+concentration 浓度 
+concentric 同心 
+concept 概念 
+conception 概念 
+conceptual 概念上的 
+concern 关注 
+concerning 有关 
+concert 音乐会 
+concession 让步 
+concise 简洁的 
+conclude 结论 
+conclusion 结论 
+conclusive 决定性的 
+concoct 编造 
+concoction 混合物 
+concomitant 伴随的 
+concrete 混凝土 
+concur 同意 
+condemn 谴责 
+condensation 冷凝 
+condense 浓缩 
+condiment 调味品 
+condition 条件 
+conditioner 护发素 
+condone 宽恕 
+conduce 有助 
+conduct 行为 
+conductive 导电 
+conductivity 导电率 
+conductor 导体 
+confederacy 邦联 
+confer 授予 
+conference 会议 
+confess 承认 
+confession 忏悔 
+confidence 信心 
+confident 自信 
+confidential 保密 
+configuration 配置 
+confine 限制 
+confirm 确认 
+confirmation 确认 
+conflict 冲突 
+conform 符合 
+conformity 整合 
+confront 面对 
+confuse 混淆 
+confused 困惑 
+confusion 混乱 
+congested 拥挤的 
+congestion 交通拥堵 
+congo 刚果 
+congratulate 祝贺 
+congratulation 祝贺 
+congress 国会 
+congressional 国会 
+conjunction 结合 
+conjuring 魔术 
+connect 连接 
+connection 连接 
+conquer 征服 
+conqueror 征服者 
+conquest 征服 
+conscience 良心 
+conscientious 有责任心的 
+conscious 有意识的 
+consciously 有意识地 
+consciousness 意识 
+consecutive 连续 
+consensus 共识 
+consent 同意 
+consequence 结果 
+consequent 顺向 
+consequential 重要的 
+consequently 因此 
+conservation 保护 
+conservative 保守的 
+conserve 节约 
+consider 考虑 
+considerable 相当大的 
+considerate 体贴的 
+consideration 考虑 
+considering 考虑 
+consignment 寄售 
+consist 由 
+consistency 一致性 
+consistent 一致的 
+consistently 始终如一地 
+consolation 安慰 
+console 控制台 
+consolidate 巩固 
+consolidation 整合 
+consonant 辅音 
+consort 配偶 
+consortium 财团 
+conspicuous 引人注目的 
+conspiracy 阴谋 
+conspire 阴谋 
+constable 康斯特布尔 
+constant 常数 
+constantly 不断地 
+constituent 组成 
+constitute 构成 
+constitution 宪法 
+constrain 限制 
+construct 构造 
+construction 建设 
+consulate 领事馆 
+consult 咨询 
+consultant 顾问 
+consume 消费 
+consumer 消费者 
+consumption 消费 
+contact 联系 
+contagious 会传染的 
+contain 包含 
+container 容器 
+contaminant 污染物 
+contaminate 污染 
+contamination 污染 
+contemplate 考虑 
+contemporary 当代 
+contempt 蔑视 
+contend 认为 
+content 内容 
+contented 满足 
+contention 争用 
+contest 比赛 
+context 上下文 
+continent 大陆 
+continental 大陆 
+contingency 应急 
+continual 持续的 
+continually 不断地 
+continuation 延续 
+continue 继续 
+continuity 连续性 
+continuous 连续 
+continuum 连续体 
+contour 轮廓 
+contract 合同 
+contradict 矛盾 
+contradiction 矛盾 
+contradictory 矛盾的 
+contrary 相反 
+contrast 对比 
+contribute 贡献 
+contribution 贡献 
+contrivance 发明 
+contrive 设计 
+contrived 不自然的 
+control 控制 
+controversial 有争议的 
+controversy 争议 
+convection 对流 
+convene 召开 
+convenience 方便 
+convenient 方便 
+convention 公约 
+conventional 传统的 
+converge 收敛 
+conversation 谈话 
+conversational 会话 
+converse 匡威 
+conversely 相反 
+conversion 转换 
+convert 转换 
+convertible 可转换 
+convex 凸 
+convey 传达 
+convict 罪犯 
+conviction 信念 
+convince 说服 
+convoy 车队 
+convulsive 震动的 
+cook 库克 
+cooker 炊具 
+cookery 烹饪 
+cool 很酷的 
+cooperate 合作 
+cooperation 合作 
+cooperative 合作 
+coordinate 协调 
+coordinator 协调员 
+cop 警察 
+cope 应对 
+copier 复印机 
+copious 丰富的 
+copper 铜 
+copy 复制 
+copyright 版权 
+coral 珊瑚 
+cord 绳 
+cordial 亲切 
+core 核心 
+cork 软木塞 
+corn 玉米 
+corner 角落里 
+cornerstone 基石 
+corona 电晕 
+corporal 下士 
+corporate 企业 
+corporation 公司 
+corps 队 
+corpse 尸体 
+corpus 语料库 
+correct 正确的 
+correction 修正 
+correlate 关联 
+correlation 相关 
+correspond 对应 
+correspondence 对应 
+correspondent 记者 
+corresponding 相应的 
+correspondingly 相应的 
+corridor 走廊 
+corrode 腐蚀 
+corrosion 腐蚀 
+corrosive 腐蚀性 
+corrupt 腐败的 
+corruption 腐败 
+cosmetic 化妆品 
+cosmic 宇宙 
+cosmopolitan 世界性的 
+cosmos 宇宙 
+cosset 宠儿 
+cost 成本 
+costly 昂贵的 
+costume 服装 
+cosy 舒适的 
+cottage 小屋 
+cotton 棉花 
+couch 沙发上 
+cough 咳嗽 
+could 可以 
+council 委员会 
+counsel 法律顾问 
+counseling 咨询 
+counsellor 顾问 
+counselor 辅导员 
+count 数 
+counter 计数器 
+counteract 抵消 
+counterpart 对应 
+counterproductive 适得其反 
+country 国家 
+countryside 农村 
+county 县 
+couple 夫妇 
+coupon 优惠券 
+courage 勇气 
+courageous 勇敢的 
+courier 快递 
+course 课程 
+court 法院 
+courtesy 礼貌 
+courtship 求爱 
+courtyard 院子里 
+cousin 表兄 
+cover 封面 
+coverage 报道 
+cow 牛 
+coward 懦夫 
+cowhand 牧牛工 
+cozy 舒适的 
+crab 蟹 
+crack 裂纹 
+cradle 摇篮 
+craft 工艺 
+craftsman 工匠 
+cram 补习 
+cramped 狭小的 
+crane 起重机 
+crank 曲柄 
+crash 崩溃 
+crater 火山口 
+crawl 爬 
+crayon 蜡笔 
+crazy 疯狂的 
+cream 奶油 
+create 创建 
+creation 创建 
+creative 有创意的 
+creativity 创造力 
+creature 生物 
+credential 凭证 
+credibility 信誉 
+credible 可信的 
+credit 信贷 
+creditor 债权人 
+creep 蠕变 
+crescent 新月 
+crest 佳洁士 
+crevasse 裂缝 
+crevice 裂缝 
+crew 机组人员 
+cricket 板球 
+crime 犯罪 
+criminal 刑事 
+cripple 削弱 
+crippling 严重的 
+crisis 危机 
+crisp 脆 
+crisscross 交错 
+criterion 标准 
+critic 评论家 
+critical 至关重要的 
+critically 批判性的 
+criticise 批评 
+criticism 批评 
+criticize 批评 
+critique 批判 
+crockery 陶器 
+crocodile 鳄鱼 
+crooked 弯曲的 
+crop 作物 
+cross 交叉 
+crossing 穿越 
+crossroads 十字路口 
+crossword 填字游戏 
+crow 乌鸦 
+crowd 人群 
+crowded 拥挤的 
+crown 皇冠 
+crucial 至关重要的 
+crude 原油 
+cruel 残酷的 
+cruelty 残忍 
+cruise 巡航 
+cruiser 巡洋舰 
+crumble 崩溃 
+crumple 起皱 
+crusade 十字军东征 
+crush 粉碎 
+crushing 破碎 
+crust 地壳 
+crustacean 甲壳纲动物 
+cry 哭 
+crystal 水晶 
+crystallize 结晶 
+cube 多维数据集 
+cubic 立方 
+cubism 立体主义 
+cucumber 黄瓜 
+cue 提示 
+cuisine 菜 
+culminate 达到高潮 
+culpable 有罪的 
+cultivate 培养 
+cultivated 培养 
+cultivation 培养 
+cultural 文化 
+culture 文化 
+cumbersome 麻烦 
+cumulative 累积 
+cuneiform 楔形文字 
+cunning 狡猾的 
+cup 杯 
+cupboard 橱柜 
+curative 有疗效的 
+curb 抑制 
+cure 治愈 
+curiosity 好奇心 
+curious 好奇的 
+curiously 奇怪的是 
+curl 旋度 
+curly 卷曲的 
+currency 货币 
+current 当前的 
+currently 目前 
+curriculum 课程 
+curry 咖喱 
+curse 诅咒 
+cursed 被诅咒的 
+curtail 限制 
+curtain 窗帘 
+curve 曲线 
+cushion 缓冲 
+custom 自定义 
+customary 习惯 
+customer 客户 
+customize 定制 
+cut 减少 
+cute 可爱的 
+cyberspace 网络空间 
+cycle 周期 
+cyclist 骑自行车的人 
+cylinder 油缸 
+cynic 愤世嫉俗者 
+cynical 愤世嫉俗的 
+dad 爸爸 
+daddy 爸爸 
+dagger 匕首 
+daily 每天 
+dairy 乳制品 
+daisy 黛西 
+dam 大坝 
+damage 损害 
+damn 该死的 
+damp 潮湿的 
+dance 跳舞 
+dane 丹麦人 
+danger 危险 
+dangerous 危险的 
+dangle 摇摆 
+danish 丹麦 
+dare 敢 
+daring 大胆的 
+dark 黑暗 
+darkness 黑暗 
+darkroom 暗室 
+darling 亲爱的 
+dart 飞镖 
+dash 破折号 
+dashboard 指示板 
+data 数据 
+database 数据库 
+date 日期 
+dated 过时的 
+datum 基准 
+daughter 女儿 
+daunt 使气馁 
+dawdle 蘑菇 
+dawn 黎明 
+day 一天 
+daylight 日光 
+dazzle 耀眼的光 
+dazzling 眼花缭乱的 
+dead 死 
+deadline 的最后期限 
+deadly 致命的 
+deaf 充耳不闻 
+deal 交易 
+dealer 经销商 
+dean 迪安 
+dear 亲爱的 
+dearth 缺乏 
+death 死亡 
+debatable 有争议的 
+debate 辩论 
+debit 借记 
+debris 碎片 
+debt 债务 
+debtor 债务人 
+debut 首次亮相 
+decade 十年 
+decadent 颓废的 
+decapitate 斩首 
+decay 衰变 
+deceit 欺骗 
+deceive 欺骗 
+December 12月 
+decent 体面的 
+deception 欺骗 
+deceptive 具有欺骗性的 
+decibel 分贝 
+decide 决定 
+deciduous 落叶 
+decimal 小数 
+decipher 解读 
+decision 决定 
+decisive 决定性的 
+deck 甲板 
+declaration 宣言 
+declare 声明 
+decline 下降 
+decode 解码 
+decompose 分解 
+decompression 减压 
+decorate 装修 
+decoration 装饰 
+decouple 解耦 
+decrease 减少 
+decree 法令 
+decrepit 破旧的 
+dedicate 奉献 
+dedicated 专用的 
+dedication 奉献 
+deduce 推断出 
+deduct 扣除 
+deed 行为 
+deem 认为 
+deep 深 
+deepen 深化 
+deer 鹿 
+default 默认的 
+defeat 失败 
+defecate 大便 
+defect 缺陷 
+defence 国防 
+defend 捍卫 
+defendant 被告 
+defense 国防 
+defer 推迟 
+defiance 无视 
+deficiency 缺乏 
+deficient 有缺陷的 
+deficit 赤字 
+define 定义 
+definite 明确的 
+definitely 肯定 
+definition 定义 
+definitive 明确的 
+deflect 转移 
+deform 变形 
+defy 藐视 
+degenerate 简并 
+degrade 降低 
+degree 学位 
+dehydrate 脱水 
+delay 延迟 
+delectable 美味的 
+delegate 委托 
+delegation 代表团 
+delete 删除 
+deliberate 深思熟虑的 
+deliberately 故意 
+delicacy 美味 
+delicate 精致的 
+delicious 美味的 
+delight 高兴的是 
+delighted 很高兴 
+delinquency 犯罪 
+delinquent 拖欠债务的 
+delirium 精神错乱 
+deliver 交付 
+delivery 交付 
+delta δ 
+delusion 妄想 
+demand 需求 
+demanding 要求 
+demerit 缺点 
+demobilize 遣散 
+democracy 民主 
+democrat 民主党人 
+democratic 民主 
+demographic 人口 
+demolish 拆除 
+demolition 拆迁 
+demon 恶魔 
+demonstrate 演示 
+demonstration 示范 
+denial 否认 
+denomination 教派 
+denote 表示 
+denounce 谴责 
+dense 密集的 
+density 密度 
+dent 凹痕 
+dental 牙科 
+dentist 牙医 
+deny 否认 
+depart 离开 
+department 部门 
+departmental 部门 
+departure 离开 
+depend 依赖 
+dependable 可靠的 
+dependent 依赖 
+depict 描述 
+deplete 耗尽 
+depletion 损耗 
+deplore 谴责 
+deploy 部署 
+deport 驱逐出境 
+deposit 存款 
+depot 得宝 
+depredation 掠夺 
+depress 抑制 
+depression 抑郁症 
+deprive 剥夺 
+depth 深度 
+deputy 副 
+derelict 废弃的 
+derive 推导出 
+derrick 吊杆 
+descend 下 
+descendant 后代 
+descent 血统 
+describe 描述 
+description 描述 
+descriptive 描述性的 
+desert 沙漠 
+deserted 废弃的 
+deserve 应得的 
+design 设计 
+designate 指定 
+desirable 可取的 
+desire 欲望 
+desk 桌子上 
+desolate 荒凉的 
+despair 绝望 
+despatch 匆匆离开 
+desperate 绝望的 
+desperately 拼命 
+despise 鄙视 
+despite 尽管 
+despoil 掠夺 
+dessert 甜点 
+destination 目的地 
+destine 注定 
+destined 注定 
+destiny 命运 
+destroy 摧毁 
+destruction 破坏 
+destructive 具有破坏性的 
+detach 分离 
+detail 细节 
+detain 拘留 
+detect 检测 
+detectable 可检测的 
+detection 检测 
+detective 侦探 
+detector 探测器 
+deter 阻止 
+detergent 洗涤剂 
+deteriorate 恶化 
+deterioration 恶化 
+determination 的决心 
+determine 确定 
+determined 确定 
+detest 厌恶 
+detour 绕道 
+detract 影响 
+detrimental 有害的 
+devalue 货币贬值 
+devastate 摧毁 
+devastating 毁灭性的 
+devastation 破坏 
+develop 开发 
+development 发展 
+deviance 异常 
+deviate 偏离 
+deviation 偏差 
+device 设备 
+devil 魔鬼 
+devise 设计 
+devoid 缺乏 
+devote 投入 
+devotion 奉献 
+devour 吞噬 
+dew 露水 
+diabetes 糖尿病 
+diagnose 诊断 
+diagnosis 诊断 
+diagonal 对角 
+diagram 图 
+dial 刻度盘 
+dialect 方言 
+dialog 对话框 
+dialogue 对话 
+dialysis 透析 
+diameter 直径 
+diamond 钻石 
+diary 日记 
+dictate 规定 
+dictation 听写 
+diction 用语 
+dictionary 字典 
+did 做了 
+die 死 
+diesel 柴油 
+diet 饮食 
+dietary 饮食 
+differ 不同 
+difference 区别 
+different 不同的 
+differentiate 区分 
+difficult 困难 
+difficulty 困难 
+diffuse 扩散 
+diffusion 扩散 
+dig 挖 
+digest 消化 
+digestive 消化 
+digit 数字 
+digital 数字 
+dignity 尊严 
+digression 题外话 
+dilapidated 破旧的 
+dilate 扩张 
+dilemma 两难的境地 
+diligent 勤奋的 
+dilute 稀释 
+dim 昏暗的 
+dimension 维 
+dimensional 维 
+diminish 减少 
+dine 吃饭 
+dinghy 小艇 
+dinner 晚餐 
+dinosaur 恐龙 
+dioxide 二氧化碳 
+dip 浸 
+diploma 文凭 
+diplomat 外交官 
+diplomatic 外交 
+direct 直接 
+direction 方向 
+directly 直接 
+director 导演 
+directory 目录 
+dirt 污垢 
+dirty 脏 
+disability 残疾 
+disable 禁用 
+disabled 禁用 
+disadvantage 缺点 
+disagree 不同意 
+disagreement 分歧 
+disappear 消失 
+disappearance 消失 
+disappoint 让人失望 
+disappointed 失望 
+disappointing 令人失望的 
+disapprove 不赞成 
+disaster 灾难 
+disastrous 灾难性的 
+disc 阀瓣 
+discard 丢弃 
+discern 辨别 
+discerning 眼光敏锐的 
+discharge 放电 
+disciple 弟子 
+discipline 纪律 
+disclose 披露 
+discontinue 停止 
+discount 折扣 
+discourage 阻碍 
+discourse 话语 
+discourteous 失礼的 
+discover 发现 
+discovery 发现 
+discredit 败坏 
+discreet 谨慎的 
+discrepancy 差异 
+discrete 离散 
+discretion 自由裁量权 
+discriminate 歧视 
+discrimination 歧视 
+discuss 讨论 
+discussion 讨论 
+disdain 鄙视 
+disease 疾病 
+disembark 下车 
+disempower 剥夺权力 
+disenchantment 不抱幻想 
+disfigure 使变丑 
+disgrace 耻辱 
+disguise 伪装 
+disgust 厌恶 
+disgusting 恶心的 
+dish 菜 
+disharmony 不和谐 
+dishonour 不履行 
+disillusion 幻灭 
+disillusionment 幻灭 
+disinfectant 消毒剂 
+disinherit 继承遗产 
+disintegrate 分解 
+disk 磁盘 
+dislike 不喜欢 
+dislocate 打乱 
+disloyalty 不忠 
+dismal 惨淡的 
+dismantle 拆除 
+dismay 沮丧 
+dismiss 驳回 
+disobey 违反 
+disorder 障碍 
+disorientate 使迷惑 
+disparage 贬低 
+dispatch 调度 
+dispel 消除 
+dispense 分发 
+dispenser 自动售货机 
+dispersal 传播 
+disperse 分散 
+displace 取代 
+displacement 位移 
+display 显示 
+displease 使生气 
+disposable 一次性 
+disposal 处理 
+dispose 处理 
+disposition 性格 
+dispute 争端 
+disqualify 取消 
+disregard 不顾 
+disrepute 不光彩 
+disrespectful 不尊敬的 
+disrupt 破坏 
+disruption 中断 
+disruptive 颠覆性的 
+dissatisfied 不满意 
+dissatisfy 不满足 
+disseminate 传播 
+dissemination 传播 
+dissenter 持异议者 
+dissertation 论文 
+dissipate 消散 
+dissolve 溶解 
+distance 距离 
+distant 遥远的 
+distasteful 令人不快的 
+distil 蒸馏 
+distill 蒸馏 
+distinct 截然不同的 
+distinction 区别 
+distinctive 独特的 
+distinguish 区分 
+distinguished 杰出的 
+distort 扭曲 
+distortion 失真 
+distract 分散 
+distraction 分散注意力 
+distress 痛苦 
+distribute 分发 
+distribution 分布 
+district 区 
+distrust 不信任 
+disturb 打扰 
+disturbance 干扰 
+disturbing 令人不安的 
+disused 废弃的 
+ditch 沟 
+dive 潜水 
+diver 潜水员 
+diverge 有分歧 
+diverse 多样化的 
+diversification 多样化 
+diversify 多元化 
+diversion 转移 
+diversity 多样性 
+divert 转移 
+divide 分 
+dividend 股息 
+divine 神圣的 
+division 部门 
+divisional 区分 
+divorce 离婚 
+dizziness 头晕 
+dizzy 头晕 
+do 做 
+dock 码头 
+doctor 医生 
+doctoral 博士 
+doctorate 博士学位 
+doctrine 学说 
+document 文档 
+documentary 纪录片 
+documentation 文档 
+dodge 道奇 
+dog 狗 
+dogged 顽强的 
+dole 多尔 
+doll 娃娃 
+dollar 美元 
+dolphin 海豚 
+domain 域 
+dome 圆顶 
+domestic 国内 
+domesticate 驯养 
+dominant 占主导地位的 
+dominate 占据主导地位 
+domination 统治 
+donate 捐赠 
+donation 捐赠 
+done 完成 
+donkey 驴 
+doom 厄运 
+door 门 
+doorknob 门把手 
+doorway 门口 
+dorm 宿舍 
+dormancy 休眠 
+dormant 休眠 
+dormitory 宿舍 
+dorsal 背 
+dos dos 
+dose 剂量 
+dot 点 
+double 双 
+doubt 怀疑 
+doubtful 怀疑 
+doubtless 毫无疑问 
+dove 鸽子 
+down 下来 
+downfall 下台 
+downhill 下坡 
+download 下载 
+downpour 倾盆大雨 
+downside 缺点 
+downsize 缩小 
+downstairs 在楼下 
+downtown 市中心 
+downward 向下 
+doze 瞌睡 
+dozen 打 
+draft 草案 
+drag 拖 
+dragon 龙 
+dragonfly 蜻蜓 
+drain 排水 
+drainage 排水 
+drama 戏剧 
+dramatic 戏剧性的 
+drank 喝了 
+drastic 激烈的 
+draw 画 
+drawback 缺点 
+drawer 抽屉里 
+drawing 画 
+drawn 画 
+dread 恐惧 
+dreadful 可怕的 
+dream 梦想 
+dreamed 梦想 
+dreamt 梦想 
+dreary 沉闷的 
+dredge 疏浚 
+dress 衣服 
+drew 画了 
+drift 漂移 
+drill 钻 
+drily 冷冷地 
+drink 喝 
+drip 滴 
+drive 开车 
+driven 驱动 
+driver 司机 
+drop 下降 
+droplet 滴 
+drought 干旱 
+drove 开车 
+drown 淹死 
+drowsy 昏昏欲睡 
+drug 药物 
+drum 鼓 
+drunk 喝醉了 
+dry 干 
+dual 双 
+dub 配音 
+dubious 可疑的 
+duck 鸭 
+ductile 韧性 
+due 由于 
+dug 挖 
+dull 无趣的 
+dumb 愚蠢的 
+dump 转储 
+dumpling 饺子 
+dune 沙丘 
+dupe 易受骗的人 
+duplicate 重复的 
+durable 耐用 
+duration 持续时间 
+during 在 
+dusk 黄昏 
+dust 灰尘 
+dustbin 垃圾箱 
+dustman 清洁工 
+dusty 尘土飞扬的 
+dutch 荷兰 
+duty 责任 
+DVD DVD 
+dwarf 矮 
+dwell 住 
+dweller 居民 
+dwelling 居住 
+dwindle 减少 
+dye 染料 
+dying 死亡 
+dynamic 动态 
+dynasty 王朝 
+dystrophy 营养不良 
+e-mail 电子邮件 
+each 每一个 
+eager 急切的 
+eagle 鹰 
+ear 耳朵 
+earache 耳痛 
+early 早期 
+earn 赚 
+earnest 认真的 
+earth 地球 
+earthquake 地震 
+earthwork 土方工程 
+earthworm 蚯蚓 
+ease 缓解 
+easily 很容易 
+east 东 
+Easter 复活节 
+eastern 东部 
+easy 容易 
+eat 吃 
+eaten 吃 
+ebb 低潮 
+eccentric 偏心 
+eccentricity 偏心 
+echo 回声 
+eclecticism 折衷主义 
+eclipse eclipse 
+ecliptic 黄道 
+ecological 生态 
+ecology 生态 
+economic 经济 
+economical 经济 
+economics 经济学 
+economy 经济 
+ecosystem 生态系统 
+eddy 艾迪 
+edge 边缘 
+edible 可食用的 
+edifice 大厦 
+edify 陶冶 
+edit 编辑 
+edition 版 
+editor 编辑器 
+editorial 编辑 
+educate 教育 
+educated 受过教育的 
+education 教育 
+educator 教育家 
+eerie 怪异的 
+effect 效果 
+effective 有效的 
+efficiency 效率 
+efficient 非常高效。 
+effluent 废水 
+effort 努力 
+egg 蛋 
+eggplant 茄子 
+ego 自我 
+Egypt 埃及 
+Egyptian 埃及 
+eight 八 
+eighteen 十八岁 
+eighth 第八 
+eighty 八十年 
+either 要么 
+eject 喷射 
+ejection 弹射 
+elaborate 精心制作的 
+elaboration 细化 
+elapse 时间的过去 
+elastic 弹性 
+elasticity 弹性 
+elbow 肘 
+elder 老 
+elderly 上了年纪的 
+elect 选举 
+election 选举 
+elective 选修 
+electric 电 
+electrical 电 
+electrician 电工 
+electricity 电 
+electrocute 以电椅处死 
+electrode 电极 
+electroencephalograph 脑电描记器 
+electron 电子 
+electronic 电子 
+electronics 电子产品 
+elegant 优雅的 
+element 元素 
+elementary 小学 
+elephant 大象 
+elevate 提升 
+elevation 海拔高度 
+elevator 电梯 
+eleven 11 
+eleventh 十一 
+elicit 引起 
+elicitation 引出 
+eligible 符合条件的 
+eliminate 消除 
+elimination 消除 
+elite 精英 
+elliptical 椭圆 
+elm 榆树 
+elongate 拉长 
+eloquent 有说服力的 
+else 其他的 
+elsewhere 在其他地方 
+elucidate 阐明 
+elusive 难以捉摸的 
+embankment 路堤 
+embark 开始 
+embarrass 难堪 
+embarrassed 不好意思 
+embassy 大使馆 
+embed 嵌入 
+embedded 嵌入式 
+embellish 润 
+embezzlement 挪用公款 
+emblem 会徽 
+embody 体现 
+emboss 浮雕 
+embrace 拥抱 
+embryo 胚胎 
+emerald 翡翠 
+emerge 出现 
+emergence 出现 
+emergency 紧急 
+emeritus 名誉 
+emigrate 移民 
+eminent 杰出的 
+emission 发射 
+emit 发出 
+emotion 情感 
+emotional 情感 
+emotionally 在情感上 
+emperor 皇帝 
+emphasis 强调 
+emphasise 强调 
+emphasize 强调 
+empire 帝国 
+empirical 经验 
+employ 雇佣 
+employee 员工 
+employer 雇主 
+employment 就业 
+empty 空 
+emulate 模仿 
+enable 启用 
+enact 制定 
+enactment 制定 
+encapsulate 封装 
+encase 包住 
+enclose 附上 
+enclosure 外壳 
+encode 编码 
+encompass 包含 
+encounter 遇到 
+encourage 鼓励 
+encouragement 鼓励 
+encroach 侵犯 
+encyclopedia 百科全书 
+end 结束 
+endanger 危及 
+endangered 濒临灭绝的 
+endearing 可爱的 
+endeavor 努力 
+endeavour 奋进号 
+ending 结束 
+endless 没完没了的 
+endorse 支持 
+endow 赋予 
+endurance 耐力 
+endure 忍受 
+enemy 敌人 
+energetic 精力充沛的 
+energize 激励 
+energy 能源 
+enforce 执行 
+enfranchise 解放 
+engage 参与 
+engagement 订婚 
+engaging 引人入胜的 
+engine 引擎 
+engineer 工程师 
+engineering 工程 
+England 英格兰 
+english 英语 
+englishman 英国人 
+engrave 刻 
+engraving 雕刻 
+engross 用大字体书写 
+engulf 吞噬 
+enhance 增强 
+enhancer 增强器 
+enigma 谜 
+enjoy 享受 
+enjoyable 令人愉快的 
+enlarge 扩大 
+enlighten 启发 
+enlightened 开明的 
+enlightenment 启蒙运动 
+enlist 招募 
+enormous 巨大的 
+enough 足够的 
+enquire 询问 
+enquiry 询盘 
+enrich 丰富 
+enroll 招收 
+enrollment 招生 
+enrolment 招生 
+enslave 奴役 
+ensue 随之而来 
+ensure 确保 
+entail 需要 
+enter 输入 
+enterprise 企业 
+enterprising 有事业心的 
+entertain 娱乐 
+entertainment 娱乐 
+enthusiasm 热情 
+enthusiast 爱好者 
+enthusiastic 热情的 
+entice 吸引 
+entire 整个 
+entitle 赋予 
+entity 实体 
+entrance 入口 
+entrenched 根深蒂固的 
+entrepreneur 企业家 
+entrepreneurial 创业 
+entrust 委托 
+entry 条目 
+entwine 纠缠 
+envelop 信封 
+envelope 信封 
+envious 嫉妒 
+environment 环境 
+environmental 环境 
+envisage 设想 
+envision 设想 
+envy 嫉妒 
+enzyme 酶 
+ephemeral 短暂的 
+epic 史诗 
+epidemic 流行 
+episode 集 
+episodic 情景 
+epithet 绰号 
+epitomize 概括 
+epoch 时代 
+equal 平等的 
+equality 平等 
+equation 方程 
+equator 赤道 
+equilibrium 平衡 
+equip 装备 
+equipment 设备 
+equitable 公平的 
+equity 股本 
+equivalent 等效 
+era 时代 
+erase 擦除 
+eraser 橡皮擦 
+erect 勃起的 
+erode 侵蚀 
+erosion 侵蚀 
+errand 差事 
+erratic 不稳定的 
+erroneous 错误的 
+error 错误 
+erupt 爆发 
+eruption 火山喷发 
+escalate 升级 
+escalator 自动扶梯 
+escape 逃避 
+escapist 逃避现实的 
+escort 护送 
+especial 特殊的 
+especially 特别是 
+essay 文章 
+essence 本质 
+essential 至关重要的 
+essentially 本质上 
+establish 建立 
+establishment 建立 
+estate 房地产 
+esteem 尊重 
+esthetic 审美 
+estimate 估计 
+estrange 使疏远 
+estuary 河口 
+eternal 永恒的 
+ethanol 乙醇 
+ethereal 飘渺的 
+ethic 伦理 
+ethical 道德 
+ethics 道德 
+ethnic 少数民族 
+ethnology 民族学 
+Europe 欧洲 
+European 欧洲 
+evacuate 疏散 
+evacuation 疏散 
+evade 逃避 
+evaluate 评估 
+evaluation 评价 
+evaporate 蒸发 
+evaporation 蒸发 
+eve 夏娃 
+even 甚至 
+evening 晚上 
+event 事件 
+eventually 最终 
+ever 过 
+everest 珠穆朗玛峰 
+evergreen 常绿 
+every 每一个 
+everybody 每个人都 
+everyday 日常 
+everyone 每一个人 
+everything 一切 
+everywhere 到处都是 
+evidence 证据 
+evident 很明显 
+evidently 显然 
+evil 邪恶的 
+eviscerate 剔骨 
+evoke 唤起 
+evolution 进化 
+evolve 进化 
+exacerbate 加剧 
+exact 确切的 
+exactly 完全 
+exaggerate 夸大 
+exalted 高举 
+exam 考试 
+examination 检查 
+examine 检查 
+examiner 考官 
+example 例子 
+excavate 挖掘 
+excavation 挖掘 
+exceed 超过 
+exceedingly 极其 
+excel excel 
+excellent 优秀的 
+except 除了 
+exception 异常 
+exceptional 异常 
+exceptionally 异常 
+excerpt 摘录 
+excess 多余的 
+excessive 过度 
+exchange 交换 
+excite 激发 
+excitement 兴奋 
+exciting 令人兴奋的 
+exclaim 惊叫 
+exclude 排除 
+exclusive 独家 
+exclusively 专门 
+excreta 排泄物 
+excursion 游览 
+excusable 可原谅的 
+excuse 借口 
+execute 执行 
+execution 执行 
+executive 执行 
+exemplary 模范 
+exemplify 例证 
+exempt 免除 
+exercise 锻炼 
+exert 发挥 
+exhale 呼气 
+exhaust 排气 
+exhaustible 会枯竭的 
+exhaustion 疲惫 
+exhaustive 详尽的 
+exhibit 展览 
+exhibition 展览 
+exhilarating 令人振奋的 
+exhilaration 兴奋 
+exile 流亡 
+exist 存在 
+existence 存在 
+exit 退出 
+exodus 《出埃及记》 
+exorbitant 过高的 
+exotic 异国情调的 
+expand 扩大 
+expansion 扩张 
+expect 预计 
+expectancy 预期寿命 
+expectation 期望 
+expedition 探险 
+expel 驱逐 
+expend 消耗 
+expenditure 支出 
+expense 费用 
+expensive 昂贵的 
+experience 经验 
+experiment 实验 
+experimental 实验 
+expert 专家 
+expertise 专业知识 
+expire 到期 
+expiry 到期 
+explain 解释 
+explanation 解释 
+explicit 显式的 
+explode 爆炸 
+exploit 利用 
+exploitation 剥削 
+exploration 探索 
+exploratory 探索性 
+explore 探索 
+explorer 资源管理器 
+explosion 爆炸 
+explosive 爆炸 
+exponent 指数 
+export 出口 
+expose 暴露 
+exposition 博览会 
+exposure 曝光 
+express 表达 
+expression 表达式 
+expressive 富有表现力的 
+expressly 明确 
+exquisite 精致的 
+extend 扩展 
+extension 扩展 
+extensive 广泛的 
+extent 程度上 
+exterior 外 
+exterminate 消灭 
+external 外部 
+externally 外部 
+extinct 已经灭绝的 
+extinction 灭绝 
+extinguish 扑灭 
+extinguisher 灭火器 
+extol 赞美 
+extra 额外的 
+extract 提取 
+extracurricular 课外 
+extraordinary 非凡的 
+extravagance 奢侈 
+extravagant 奢侈的 
+extreme 极端的 
+extremely 极 
+extremity 肢体 
+extrinsic 外在 
+extrovert 性格外向的人 
+extrusion 挤压 
+exuberant 旺盛的 
+eye 眼睛 
+eyebrow 眉 
+eyesight 视力 
+fable 寓言 
+fabric 织物 
+fabricate 制造 
+fabrication 制造 
+fabulous 令人难以置信的 
+facade 外观 
+face 的脸 
+facet 方面 
+facial 面部 
+facilitate 促进 
+facility 设施 
+facsimile 传真 
+fact 事实 
+factor 因素 
+factory 工厂 
+factual 事实 
+faculty 教师 
+fade 褪色 
+Fahrenheit 华氏温度 
+fail 失败 
+failure 失败 
+faint 微弱的 
+fair 公平 
+fairly 相当 
+fairy 仙女 
+faith 信仰 
+faithful 忠实的 
+fake 假的 
+falcon 猎鹰 
+fall 秋天 
+fallen 下降 
+fallow 休耕的 
+false 假 
+falter 动摇 
+fame 名声 
+familiar 熟悉 
+familiarity 熟悉 
+familiarize 熟悉 
+family 家庭 
+famine 饥荒 
+famous 著名的 
+fan 风扇 
+fanatical 狂热的 
+fanciful 稀奇的 
+fancy 花俏的 
+fantastic 神奇的 
+fantasy 幻想 
+far 远 
+farce 闹剧 
+fare 票价 
+farewell 告别 
+farm 农场 
+farmer 农民 
+farther 更远的 
+farthest 最远的 
+fascinate 吸引 
+fascinating 迷人的 
+fascination 魅力 
+fashion 时尚 
+fashionable 时尚 
+fast 快 
+fasten 系 
+fat 脂肪 
+fatal 致命的 
+fate 命运 
+father-in-law 岳父 
+father 父亲 
+fathom 理解 
+fatigue 疲劳 
+fatuous 愚昧的 
+faucet 水龙头 
+fault 的错 
+faulty 错误的 
+fauna 动物 
+favor 忙 
+favorable 有利的 
+favored 青睐 
+favorite 最喜欢的 
+favour 支持 
+favourable 有利的 
+favourite 最喜欢的 
+fax 传真 
+fear 恐惧 
+fearful 可怕的 
+feasible 可行的 
+feast 盛宴 
+feat 的壮举 
+feather 羽毛 
+feature 功能 
+February 2月 
+fed 美联储 
+federal 联邦 
+federation 联合会 
+fee 费 
+feeble 微弱的 
+feed 饲料 
+feedback 反馈 
+feel 感觉 
+feeling 感觉 
+feet 脚 
+feline 猫 
+fell 下降了 
+fellow 研究员 
+fellowship 奖学金 
+felt 感觉 
+female 女 
+feminine 女性化的 
+feminism 女权主义 
+feminist 女权主义 
+fence 栅栏 
+ferment 发酵 
+ferry 渡船 
+fertile 肥沃的 
+fertilise 受精 
+fertilize 施肥 
+fertilizer 肥料 
+fervor 热情 
+festival 节日 
+fetch 获取 
+fete 宴请 
+feudal 封建 
+fever 发烧 
+few 几 
+fiance 未婚夫 
+fiat 菲亚特 
+fiber 纤维 
+fibre 纤维 
+fickle 变化无常的 
+fiction 小说 
+fidelity 忠诚 
+field 场 
+fieldwork 实地考察 
+fierce 激烈的 
+fifteen 15 
+fifth 第五 
+fifty 五十 
+fight 战斗 
+figurative 比喻 
+figure 图 
+file 文件 
+fill 填满 
+film 电影 
+filter 过滤器 
+fin 鳍 
+final 最后 
+finale 大结局 
+finalize 完成 
+finally 最后 
+finance 金融 
+financial 金融 
+finch 雀 
+find 找到 
+finding 发现 
+fine 细 
+finger 手指 
+fingernail 指甲 
+fingerprint 指纹 
+finish 完成 
+finite 有限的 
+finitude 界限 
+finland 芬兰 
+finnish 芬兰 
+fire 火 
+fireman 消防队员 
+fireplace 壁炉 
+firework 烟花 
+firm 公司 
+first 第一个 
+fiscal 财政 
+fish 鱼 
+fisherman 渔夫 
+fissure 裂缝 
+fist 的拳头 
+fit 适合 
+fitness 健身 
+fitting 拟合 
+five 五 
+fix 修复 
+fixture 夹具 
+flag 国旗 
+flagellum 鞭毛 
+flagship 旗舰 
+flair 天赋 
+flake 片 
+flamboyant 艳丽的 
+flame 火焰 
+flank 侧面 
+flap 皮瓣 
+flare 耀斑 
+flash 闪光 
+flask 瓶 
+flat 平 
+flatter 平 
+flavor 味道 
+flavoring 调味料 
+flavour 味道 
+flaw 缺陷 
+flee 逃离 
+fleet 舰队 
+flesh 肉 
+flew 飞 
+flexibility 灵活性 
+flexible 灵活的 
+flexitime 弹性上班制 
+flicker 闪烁 
+flight 飞行 
+fling 舞 
+flint 弗林特 
+flip 翻转 
+flirt 调情 
+float 浮动 
+flock 群 
+flood 洪水 
+floor 地板上 
+flora 植物区系 
+floral 花 
+florence 弗洛伦斯 
+florentine 佛罗伦萨 
+flour 面粉 
+flourish 蓬勃发展 
+flow 流 
+flower 花 
+flu 流感 
+fluctuate 波动 
+fluctuation 波动 
+fluency 流利 
+fluent 流利的 
+fluid 流体 
+flush 冲洗 
+flutter 颤振 
+flux 通量 
+fly 飞 
+foam 泡沫 
+focus 焦点 
+foetus 胎儿 
+fog 雾 
+foggy 多雾的 
+foil 箔 
+fold 褶皱 
+foliage 树叶 
+folk 民间 
+folklore 民间传说 
+follow 遵循 
+following 后 
+foment 煽动 
+fond 喜欢 
+food 食物 
+fool 傻瓜 
+foolish 愚蠢的 
+foot 脚 
+football 足球 
+footstep 脚步 
+for 为 
+forage 饲料 
+forbid 禁止 
+forbidding 禁止 
+force 力 
+ford 福特 
+fore 前 
+forecast 预测 
+forefront 前沿 
+forehead 额头 
+foreign 外国 
+foreigner 外国人 
+foreland 前陆 
+foreman 工头 
+foremost 最重要的是 
+forerunner 先驱 
+foresee 预见 
+foreseeable 可预见的 
+foreshorten 省略 
+foresight 远见 
+forest 森林 
+forestall 阻止 
+foretell 预言 
+forever 永远 
+forfeit 丧失 
+forge 打造 
+forgery 伪造 
+forget 忘记 
+forgetful 健忘 
+forgive 原谅 
+forgo 放弃 
+forgot 忘记了 
+forgotten 被遗忘的 
+fork 叉 
+form 形式 
+formal 正式的 
+formality 手续 
+format 格式 
+formation 形成 
+former 前 
+formidable 强大的 
+formula 公式 
+formulate 制定 
+formulation 配方 
+fort 堡 
+forth 出来 
+forthcoming 即将到来的 
+fortnight 两周 
+fortuitous 偶然的 
+fortunate 幸运的 
+fortunately 幸运的是 
+fortune-teller 算命先生 
+fortune 《财富》杂志 
+forty 四十 
+forum 论坛 
+forward 向前 
+fossil 化石 
+foster 福斯特 
+fought 战斗 
+foul 犯规 
+found 发现 
+foundation 基金会 
+fountain 喷泉 
+four 四个 
+fourteen 14 
+fourth 第四 
+fox 福克斯 
+fraction 分数 
+fracture 骨折 
+fragile 脆弱的 
+fragment 片段 
+fragrance 香味 
+fragrant 香 
+frame 框架 
+framework 框架 
+France 法国 
+franchise 特许经营 
+frank 弗兰克 
+frantic 疯狂的 
+frantically 疯狂地 
+fraud 欺诈 
+fraught 令人担忧的 
+fray 战斗 
+freckle 雀斑 
+free 免费的 
+freedom 自由 
+freefone 免费电话 
+freelance 自由 
+freely 自由 
+freeway 高速公路 
+freeze 冻结 
+freezing 冻结 
+freight 运费 
+French 法国 
+Frenchman 法国人 
+frenzy 疯狂 
+frequency 频率 
+frequent 频繁的 
+frequently 经常 
+fresco 壁画 
+fresh 新鲜的 
+freshen 清新 
+friction 摩擦 
+Friday 星期五 
+fridge 冰箱 
+friend 的朋友 
+friendly 友好的 
+friendship 友谊 
+fright 恐惧 
+frighten 吓 
+frightened 害怕 
+frightful 可怕的 
+frigid 寒冷的 
+fringe 边缘 
+fritter 浪费 
+frivolity 轻浮 
+frock 连衣裙 
+frog 青蛙 
+from 从 
+front 前面 
+frontier 前沿 
+frost 霜 
+frown 皱眉 
+frozen 冻 
+frugal 节俭的 
+fruit 水果 
+fruitful 富有成果的 
+fruitless 毫无结果的 
+frustrate 阻挠 
+frustrating 令人沮丧的 
+frustration 挫折 
+fry 弗莱 
+fuel 燃料 
+fulfil 履行 
+fulfill 完成 
+fulfillment 实现 
+full-length 全身的 
+full 完整的 
+fumble 摸索 
+fume 烟 
+fumigate 用烟熏消毒 
+fun 有趣的 
+function 函数 
+functional 功能 
+fund 基金 
+fundamental 基本 
+funding 资金 
+funeral 葬礼 
+fungi 真菌 
+fungus 真菌 
+funny 有趣的 
+fur 皮毛 
+furious 愤怒的 
+furnace 炉 
+furnish 提供 
+furniture 家具 
+furry 毛茸茸的 
+further 进一步 
+furthermore 此外 
+furthest 最远的 
+fury 愤怒 
+fuse 保险丝 
+fusion 融合 
+fuss 大惊小怪 
+fussy 挑剔的 
+futile 徒劳的 
+future 未来 
+gadget 小工具 
+gage 计 
+gaily 快乐地 
+gain 获得 
+galaxy 星系 
+gale 盖尔 
+gallery 画廊 
+gallon 每加仑 
+gallop 疾驰 
+gamble 赌博 
+game 游戏 
+gang 帮派 
+gaol 监狱 
+gaoler 监狱长 
+gap 差距 
+garage 车库 
+garb 服装 
+garbage 垃圾 
+garden 花园 
+gardener 园丁 
+gardening 园艺 
+garlic 大蒜 
+garment 服装 
+gas 气体 
+gaseous 气体 
+gasoline 汽油 
+gasp 喘息 
+gate 门 
+gather 收集 
+gauge 计 
+gave 给了 
+gay 同性恋 
+gaze 的目光 
+gear 齿轮 
+geese 鹅 
+gel 凝胶 
+gelatin 明胶 
+gem 宝石 
+gemstone 宝石 
+gender 性别 
+gene 基因 
+general 一般 
+generalise 笼统地讲 
+generalization 泛化 
+generalize 概括 
+generally 一般 
+generate 生成 
+generation 一代 
+generative 生成 
+generator 发电机 
+generic 通用的 
+generous 慷慨的 
+genesis 《创世纪》 
+genetic 遗传 
+genetically 基因 
+genetics 遗传学 
+geneva 日内瓦 
+genial 和蔼的 
+genius 天才 
+genre 类型 
+gentility 文雅 
+gentle 温柔的 
+gentleman 绅士 
+gently 轻轻 
+genuine 真正的 
+geographical 地理 
+geography 地理位置 
+geological 地质 
+geologist 地质学家 
+geology 地质 
+geometric 几何 
+geometry 几何 
+germ 细菌 
+German 德国 
+Germany 德国 
+germinate 发芽 
+gesticulate 做手势 
+gesture 手势 
+get 得到 
+ghost 鬼 
+giant 巨大的 
+gibe 嘲笑 
+gift 礼物 
+gifted 有天赋的 
+gigantic 巨大的 
+giggle 咯咯地笑 
+gilding 镀金 
+gill 吉尔 
+gilt 镀金的 
+gin 杜松子酒 
+giraffe 长颈鹿 
+girder 梁 
+girl 女孩 
+give 给 
+given 鉴于 
+glacial 冰川 
+glacier 冰川 
+glad 很高兴 
+glamor 魅力 
+glamour 魅力 
+glamourous 迷人的 
+glance 看 
+gland 腺 
+glare 眩光 
+glass 玻璃 
+glaze 釉 
+gleam 线 
+glide 滑翔 
+glider 滑翔机 
+glimpse 一瞥 
+glint 闪闪发光 
+glisten 闪耀 
+glitter 闪闪发光的 
+global 全球 
+globe 全球 
+gloom 忧郁 
+gloomy 悲观的 
+glorify 荣耀 
+glorious 光荣的 
+glory 荣耀 
+gloss 光泽 
+glossary 术语表 
+glossy 光滑的 
+glove 手套 
+glow 发光 
+glue 胶水 
+glutamate 谷氨酸 
+gnaw 咬 
+go 去 
+goal 目标 
+goat 山羊 
+god 神 
+goggles 护目镜 
+gold 黄金 
+golden 金 
+golf 高尔夫球 
+gone 走了 
+gonna 要 
+good-bye 再见 
+good 好 
+goodby 再见 
+goodbye 再见 
+goodness 善 
+goods 货物 
+goodwill 善意 
+goose 鹅 
+gorge 峡谷 
+gorgeous 华丽的 
+gorgon 蛇发女怪 
+gorilla 大猩猩 
+gospel 福音 
+gossip 流言蜚语 
+got 得到了 
+gothic 哥特 
+gourd 葫芦 
+gourmet 美食 
+govern 管理 
+government 政府 
+governor 州长 
+gown 礼服 
+grab 抓住 
+grace 格蕾丝 
+graceful 优雅的 
+gracious 亲切的 
+grade 年级 
+gradient 梯度 
+grading 分级 
+gradual 循序渐进的 
+gradually 逐渐 
+graduate 研究生 
+graduation 毕业 
+grain 粮食 
+gram 克 
+grammar 语法 
+grammatical 语法 
+gramme 克 
+grand 大 
+grandchild 孙子 
+granddaughter 的孙女 
+grandfather 祖父 
+grandma 奶奶 
+grandmother 祖母 
+grandpa 爷爷 
+grandson 孙子 
+granite 花岗岩 
+granny 奶奶 
+grant 格兰特 
+granular 细粒度的 
+grape 葡萄 
+graph 图 
+graphic 图形 
+graphics 图形 
+graphite 石墨 
+graphology 笔迹学 
+grapple 抓住 
+grasp 掌握 
+grass 草 
+grasshopper 蚱蜢 
+grassy 长满草的 
+grateful 感激 
+gratify 满足 
+gratitude 感激之情 
+grave 坟墓 
+gravel 砾石 
+gravitational 引力 
+gravity 重力 
+gray 灰色的 
+graze 吃草 
+grazing 放牧 
+grease 油脂 
+greasy 油腻的 
+great 伟大的 
+greatly 极大地 
+greedily 贪婪地 
+greedy 贪婪的 
+Greek 希腊 
+green 绿色 
+greengrocer 蔬菜水果商 
+greenhouse 温室 
+greenwich 格林威治 
+greet 问候 
+greeting 问候 
+gregarious 群居的 
+grew 增长 
+grey 灰色 
+greyish 淡灰色的 
+grid 网格 
+grief 悲伤 
+grievance 不满 
+grieve 悲伤 
+grill 烧烤 
+grim 严峻的 
+grimy 肮脏的 
+grin 露齿而笑 
+grind 磨 
+grip 控制 
+groan 呻吟 
+grocer 杂货商 
+grocery 杂货店 
+groom 新郎 
+groove 槽 
+grope 摸索 
+gross 总值 
+ground 地面 
+group 集团 
+grove 格罗夫 
+grow 成长 
+grower 种植者 
+grown-up 成熟的 
+grown 种植 
+growth 增长 
+grudge 怨恨 
+guarantee 保证 
+guard 警卫 
+guardian 《卫报》 
+guess 猜一猜 
+guest 客人 
+guidance 指导 
+guide 指南 
+guideline 指导方针 
+guild 公会 
+guilt 内疚 
+guiltily 内疚地 
+guilty 有罪 
+guinea 几内亚 
+guitar 吉他 
+gulf 海湾 
+gull 海鸥 
+gullibly 受骗 
+gum 口香糖 
+gun 枪 
+gunpowder 火药 
+gusher 自喷井 
+gust 阵风 
+gut 肠道 
+gutter 地沟 
+guy 的家伙 
+guzzle 狂饮 
+gym 健身房 
+gymnasium 体育馆 
+habit 习惯 
+habitable 适宜居住的 
+habitat 栖息地 
+habitual 习惯性的 
+hacker 黑客 
+had 有 
+hail 冰雹 
+hair 头发 
+haircut 发型 
+hairdresser 理发师 
+half 一半 
+hall 大厅 
+hallowed 神圣的 
+halt 停止 
+halve 减半 
+ham 火腿 
+hamburger 汉堡 
+hamlet 哈姆雷特 
+hammer 锤 
+hamper 阻碍 
+hamster 仓鼠 
+hand 手 
+handbag 手提包 
+handbook 手册 
+handful 一些 
+handicap 障碍 
+handicapped 残疾 
+handkerchief 手帕 
+handle 处理 
+handout 讲义 
+handsome 英俊的 
+handwriting 笔迹 
+handy 方便的 
+handyman 杂工 
+hang 挂 
+hanged 挂 
+haphazard 偶然的 
+happen 发生 
+happiness 幸福 
+happy 快乐 
+harassment 骚扰 
+harbor 港 
+harbour 港口 
+hard 硬 
+harden 变硬 
+hardened 硬 
+hardly 几乎没有 
+hardship 困难 
+hardware 硬件 
+hardworking 勤劳的 
+hardy 哈代 
+hare 兔子 
+harm 伤害 
+harmful 有害的 
+harmonic 谐波 
+harmony 和谐 
+harness 利用 
+harp 竖琴 
+harridan 枯槁的老妇人 
+harry 哈利 
+harsh 严厉的 
+harvest 收获 
+has 有 
+hassle 麻烦 
+haste 匆忙 
+hasten 加速 
+hasty 匆忙的 
+hat 帽子 
+hatch 孵化 
+hate 讨厌 
+hateful 可恶的 
+hatred 仇恨 
+haughty 傲慢的 
+haul 拉 
+haunt 困扰 
+have 有 
+haven 还 
+hawk 鹰 
+hawser 缆 
+hay 干草 
+hazard 危害 
+hazardous 危险 
+hazel 黑兹尔 
+he 他 
+head 头 
+headache 头痛 
+heading 标题 
+headlight 头灯 
+headline 标题 
+headmaster 校长 
+headmistress 女校长 
+headquarters 总部 
+heady 令人兴奋的 
+heal 治愈 
+healing 疗愈 
+health 健康 
+healthful 健康的 
+healthy 健康的 
+heap 堆 
+hear 听到 
+heard 听到 
+hearing 听力 
+heart 心 
+heartless 无情的 
+heat 热 
+heath 希斯 
+heating 加热 
+heave 胀 
+heaven 天堂 
+heavily 严重 
+heavy 重 
+hectare 公顷 
+hedge 对冲 
+heed 注意 
+heel 跟 
+height 高度 
+heighten 提高 
+heir 继承人 
+held 举行 
+helicopter 直升机 
+helix 螺旋 
+hell 地狱 
+hello 你好 
+helmet 头盔 
+help 帮助 
+helper 助手 
+helpful 有帮助的 
+helpless 无助的 
+hemisphere 半球 
+hemp 麻 
+hen 母鸡 
+hence 因此 
+henceforth 从今以后 
+her 她的 
+herald 先驱报》 
+herb 草 
+herbal 草药 
+herbivore 食草动物 
+herd 群 
+herdsman 牧人 
+here 在这里 
+hereditary 遗传 
+heretic 异教徒 
+heritage 遗产 
+hero 英雄 
+heroic 英雄 
+heroin 海洛因 
+heroine 女主角 
+herring 鲱鱼 
+hers 她的 
+herself 自己 
+hesitate 犹豫 
+hesitation 犹豫 
+heyday 全盛时期 
+hi 嗨 
+hibernation 冬眠 
+hiccup 打嗝 
+hid 藏 
+hidden 隐藏的 
+hide 隐藏 
+hierarchy 层次结构 
+high-handed 专横的 
+high-rise 高层 
+high-tech 高科技 
+high 高 
+highland 高地 
+highlight 突出 
+highly 高度 
+highway 高速公路 
+hijack 劫持 
+hike 徒步旅行 
+hill 山 
+hillside 山坡上 
+him 他 
+himself 自己 
+hind 后 
+hinder 阻碍 
+hinge 铰链 
+hint 提示 
+hinterland 内陆地区 
+hip 臀部 
+hire 雇佣 
+his 他的 
+historian 历史学家 
+historic 历史 
+historical 历史 
+historically 从历史上看 
+history 历史 
+hit 打击 
+hitchhike 搭便车 
+hitherto 迄今为止 
+hive 蜂巢 
+hobble 瘸一拐的 
+hobby 爱好 
+hockey 曲棍球 
+hoist 提升机 
+hold 持有 
+holder 持有人 
+hole 洞 
+holiday 假期 
+holistic 整体 
+holland 荷兰 
+hollow 空心 
+holly 冬青 
+holy 神圣的 
+home 首页 
+homeland 国土 
+homely 不好看的 
+homesick 想家 
+homestay 家庭寄宿 
+homestead 家园 
+hometown 家乡 
+homework 家庭作业 
+homing 归航 
+hominid 原始人类 
+homogeneous 均匀 
+honest 诚实的 
+honesty 诚实 
+honey 蜂蜜 
+honeymoon 度蜜月 
+honor 荣誉 
+honorable 可敬的 
+honour 荣誉 
+honourable 尊敬的 
+hook 钩 
+hop 跳 
+hope 希望 
+hopeful 充满希望的 
+hopeless 绝望的 
+horde 部落 
+horizon 地平线 
+horizontal 水平 
+hormone 激素 
+horn 角 
+horrible 可怕的 
+horrify 会让 
+horror 恐怖 
+horse 马 
+horsepower 马力 
+hose 软管 
+hospitable 热情好客的 
+hospital 医院 
+hospitality 热情好客 
+host 主机 
+hostage 人质 
+hostel 旅馆 
+hostess 女主人 
+hostile 充满敌意的 
+hostility 敌意 
+hot 热 
+hotdog 热狗 
+hotel 酒店 
+hound 猎犬 
+hour 小时 
+house 房子 
+household 家庭 
+housewife 家庭主妇 
+housework 做家务 
+housing 住房 
+hover 徘徊 
+how 如何 
+however 然而 
+howl 嚎叫 
+huddle 挤作一团 
+hue 色调 
+hug 拥抱 
+huge 巨大的 
+hull 船体 
+hum 嗡嗡声 
+human 人类 
+humane 人道的 
+humanistic 人文主义的 
+humanitarian 人道主义 
+humanity 人类 
+humble 卑微的 
+humid 潮湿的 
+humidity 湿度 
+humiliate 羞辱 
+hummingbird 蜂鸟 
+humor 幽默 
+humorous 幽默的 
+humour 幽默 
+hundred 几百 
+hung 挂 
+hunger 饥饿 
+hungry 饿了 
+hunt 亨特 
+hunter 猎人 
+hurdle 障碍 
+hurl 投 
+hurricane 飓风 
+hurriedly 赶紧 
+hurry 快点 
+hurt 伤害 
+husband 丈夫 
+husk 皮 
+hut 小屋 
+hybrid 混合动力 
+hydrogen 氢 
+hydrothermal 热液 
+hygiene 卫生 
+hypnotic 催眠 
+hypnotize 催眠 
+hypocrisy 虚伪 
+hypothesis 假设 
+hypothetical 假设 
+hysterical 歇斯底里的 
+I 我 
+ice-cream 冰淇淋 
+ice 冰 
+iceberg 冰山 
+icy 冰冷的 
+ID card 身份证 
+idea 的想法 
+ideal 理想的 
+idealize 理想化 
+identical 相同的 
+identifiable 可识别的 
+identification 识别 
+identify 识别 
+identity 身份 
+ideology 意识形态 
+ideomotor 观念运动的 
+idiom 成语 
+idiot 白痴 
+idle 闲置 
+idyllic 田园 
+if 如果 
+igneous 火成岩 
+ignite 点燃 
+ignition 点火 
+ignoble 不光彩的 
+ignorance 无知 
+ignorant 无知的 
+ignore 忽略 
+ill 生病了 
+illegal 非法 
+illegible 字迹模糊的 
+illiterate 不识字的 
+illness 疾病 
+illogical 不合逻辑的 
+illuminate 照亮 
+illumination 照明 
+illusion 错觉 
+illustrate 说明 
+illustration 插图 
+image 图像 
+imaginary 虚构的 
+imagination 想象力 
+imaginative 富有想象力的 
+imagine 想象一下 
+imagist 意象派诗人 
+imbibe 吸收 
+imitate 模仿 
+imitation 模仿 
+immaculate 完美无暇的 
+immature 不成熟的 
+immediate 立即 
+immediately 立即 
+immense 巨大的 
+immensity 巨大 
+immerse 浸泡 
+immigrant 移民 
+immigrate 移民 
+immigration 移民 
+immolation 祭品 
+immortal 不朽的 
+immune 免疫 
+immunity 免疫力 
+immutable 不可变的 
+impact 影响 
+impair 损害 
+impart 传授 
+impatient 没耐心的 
+impede 阻碍 
+impending 即将到来的 
+imperative 必要的 
+imperceptible 听不清 
+imperial 帝国 
+imperil 危及 
+impermeable 不透水 
+impersonal 没有人情味的 
+impetus 动力 
+implement 实现 
+implication 含义 
+implicit 隐式的 
+imply 暗示 
+import 进口 
+importance 重要性 
+important 重要的 
+impose 实施 
+impossible 不可能的 
+impoverish 贫困 
+impoverished 贫困的 
+imprecise 不精确的 
+impress 留下深刻印象 
+impression 印象 
+impressive 令人印象深刻的 
+imprint 印记 
+imprison 监禁 
+improbable 不可能 
+improve 改善 
+improvement 改进 
+improvise 即兴创作 
+impulse 冲动 
+in 在 
+inaccessible 无法访问 
+inactivate 灭活 
+inactive 不活跃的 
+inadequate 不充分的 
+inalienable 不可剥夺的 
+inanimate 无生命的 
+inanity 愚蠢 
+inaugurate 举行就职典礼 
+inborn 天生的 
+incapacitate 使无能力 
+incendiary 煽动性的 
+incense 香 
+incentive 激励 
+inception 《盗梦空间》 
+incessant 不断的 
+inch 英寸 
+incidence 发病率 
+incident 事件 
+incidentally 顺便说一下 
+incinerate 烧成灰 
+incineration 焚烧 
+inclement 恶劣 
+inclination 倾向 
+incline 斜坡 
+inclined 倾向于 
+include 包括 
+inclusive 包容 
+income 收入 
+incoming 传入的 
+incompatible 不兼容的 
+incompetent 不称职的 
+inconceivable 不可想象的 
+incongruity 不协调 
+incongruous 不协调的 
+inconspicuous 不显眼的 
+inconvenience 带来的不便 
+inconvenient 不方便 
+incorporate 合并 
+incorrect 不正确的 
+increase 增加 
+increasingly 越来越多的 
+incredible 这是一种不可思议的力量！ 
+incubate 孵化 
+inculcate 灌输 
+incumbent 现任 
+incur 承担 
+incursion 入侵 
+indeed 事实上 
+indefinable 模糊不清的 
+indefinite 不定 
+independence 独立 
+independent 独立的 
+indescribable 难以形容的 
+index 指数 
+India 印度 
+Indian 印度 
+indicate 表明 
+indication 指示 
+indicative 指示性 
+indifference 冷漠 
+indifferent 冷漠 
+indigenous 土著 
+indigestion 消化不良 
+indignant 愤怒的 
+indignation 愤怒 
+indignity 侮辱 
+indirect 间接 
+indiscriminate 不加选择的 
+indispensable 不可缺少的 
+indisposition 微恙 
+individual 个人 
+indolent 懒惰的 
+indonesia 印尼 
+indoor 室内 
+indoors 在室内 
+induce 诱导 
+induction 感应 
+inductive 归纳 
+indulge 放纵 
+industrial 工业 
+industrialise 工业化 
+industrialize 工业化 
+industrious 勤劳的 
+industry 行业 
+inefficient 效率低下的 
+inert 惰性 
+inertia 惯性 
+inescapable 不可避免的 
+inevitable 不可避免的 
+inevitably 不可避免地 
+inexpensive 便宜的 
+infallibility 绝对可靠 
+infancy 婴儿期 
+infant 婴儿 
+infect 感染 
+infection 感染 
+infectious 传染性 
+infer 推断出 
+inference 推理 
+inferential 推论 
+inferior 劣质 
+infest 寄生于 
+infiltrate 渗透 
+infinite 无限 
+infinity ∞ 
+infirmity 虚弱 
+inflammable 易燃 
+inflammation 炎症 
+inflatable 充气 
+inflate 膨胀 
+inflation 通货膨胀 
+inflict 造成 
+influence 影响 
+influential 有影响力的 
+influenza 流感 
+influx 涌入 
+inform 通知 
+informant 线人 
+information 信息 
+informative 信息丰富的 
+informed 通知 
+infrared 红外 
+infrastructure 基础设施 
+infringe 侵犯 
+ingenious 巧妙的 
+ingenuity 聪明才智 
+ingenuous 天真的 
+ingredient 成分 
+inhabit 居住 
+inhabitant 居民 
+inhale 吸入 
+inherent 固有的 
+inherit 继承 
+inheritance 继承 
+inhibit 抑制 
+inhumane 不人道的 
+initial 最初的 
+initially 最初 
+initiate 启动 
+initiative 倡议 
+inject 注入 
+injection 注射 
+injure 伤害 
+injury 受伤 
+ink 墨水 
+inland 内陆 
+inlet 入口 
+inmost 内心深处的 
+inn 酒店 
+innate 天生的 
+inner 内心的 
+innocence 是清白的 
+innocent 无辜的 
+innovation 创新 
+innovative 创新 
+innovator 创新者 
+innumerable 无数的 
+input 输入 
+inquire 查询 
+inquiry 调查 
+inquisition 宗教裁判所 
+inrush 侵入 
+insane 疯狂的 
+insanity 精神错乱 
+inscribe 记下 
+insect 昆虫 
+insecure 不安全的 
+insert 插入 
+inside 内部 
+insidious 阴险的 
+insight 洞察力 
+insignificant 无关紧要的 
+insinuate 说含沙射影的话 
+insist 坚持 
+insistence 坚持 
+insistent 坚持 
+insoluble 不溶性 
+inspect 检查 
+inspection 检查 
+inspector 检查员 
+inspiration 灵感 
+inspire 激励 
+inspiring 鼓舞人心的 
+install 安装 
+installation 安装 
+installment 分期付款 
+instalment 分期付款 
+instance 实例 
+instant 即时 
+instantaneous 瞬时 
+instantly 立即 
+instead 而不是 
+instil 灌输 
+instinct 本能 
+instinctual 本能的 
+institute 研究所 
+institution 机构 
+instruct 指导 
+instruction 指令 
+instructor 教练 
+instrument 仪器 
+instrumental 仪器 
+insufficient 不足 
+insularity 偏狭 
+insulate 隔离 
+insulation 绝缘 
+insulin 胰岛素 
+insult 侮辱 
+insurance 保险 
+insure 确保 
+insurmountable 不可逾越的 
+intact 完整的 
+intake 摄入 
+integral 积分 
+integrate 集成 
+integrated 集成 
+integrity 完整性 
+intellect 智力 
+intellectual 知识 
+intelligence 情报 
+intelligent 聪明的 
+intelligible 可理解的 
+intend 意愿 
+intense 强烈的 
+intensify 加强 
+intensity 强度 
+intensive 密集的 
+intent 意图 
+intention 意图 
+intentional 有意的 
+intentionally 故意 
+interact 交互 
+interaction 交互 
+interactive 互动 
+intercourse 性交 
+interdependent 相互依存的 
+interest 感兴趣 
+interesting 有趣的 
+interface 接口 
+interfere 影响 
+interference 干扰 
+interim 临时 
+interior 室内 
+intermediate 中间 
+interminably 无限地 
+intermittent 断断续续的 
+intermix 混和 
+intern 实习生 
+internal 内部 
+international 国际 
+internationalist 国际主义 
+Internet 互联网 
+internist 内科医生 
+internship 实习 
+interplay 相互作用 
+interpret 解释 
+interpretation 解释 
+interpreter 翻译 
+interrelationship 相互关系 
+interrupt 中断 
+interruption 中断 
+intersection 十字路口 
+interstellar 星际 
+interval 时间间隔 
+intervene 干预 
+intervention 干预 
+interview 面试 
+interweave 交织 
+intestine 肠 
+intimate 亲密的 
+intimation 暗示 
+intimidate 恐吓 
+into 成 
+intoxicate 醉人 
+intoxication 中毒 
+intrepid 勇敢的 
+intricate 错综复杂的 
+intrigue 阴谋 
+intriguing 有趣的 
+intrinsic 内在 
+introduce 介绍 
+introduction 介绍 
+introspection 自省 
+introvert 内向的人 
+intrude 侵入 
+intrusion 入侵 
+intuition 直觉 
+intuitive 直观的 
+inundate 淹没 
+invade 入侵 
+invader 入侵者 
+invalid 无效的 
+invaluable 无价的 
+invariable 不变的 
+invariably 总是 
+invasion 入侵 
+invasive 侵入性的 
+invent 发明 
+invention 发明 
+inventive 有创造力的 
+inventor 发明家 
+inventory 库存 
+inverse 逆 
+inversion 反演 
+invert 反 
+invertebrate 无脊椎动物 
+invest 投资 
+investigate 调查 
+investigation 调查 
+investment 投资 
+inveterate 根深蒂固的 
+inviolable 不可侵犯的 
+invisible 看不见的 
+invitation 邀请 
+invite 邀请 
+inviting 邀请 
+invoice 发票 
+invoke 调用 
+involve 涉及 
+inward 向内 
+ion 离子 
+iris 虹膜 
+iron 铁 
+ironic 具有讽刺意味的 
+ironical 讽刺的 
+ironically 具有讽刺意味的是 
+irony 具有讽刺意味的 
+irrational 非理性的 
+irregular 不规则的 
+irregularity 不规则 
+irrelevant 无关紧要的 
+irresistible 不可抗拒的 
+irrespective 不管 
+irreverent 不敬的 
+irrevocable 不可撤销的 
+irrigate 灌溉 
+irrigation 灌溉 
+irritable 易怒 
+irritate 刺激 
+irritation 刺激 
+is 是 
+island 岛 
+isle 岛 
+isolate 隔离 
+isolated 孤立的 
+issue 问题 
+it 它 
+Italian 意大利 
+Italy 意大利 
+item 项 
+itinerant 流动的 
+itinerary 行程 
+its 它的 
+itself 本身 
+ivory 象牙 
+jacket 夹克 
+jail 监狱 
+jam 果酱 
+January 1月 
+Japan 日本 
+Japanese 日本 
+jar jar 
+jargon 术语 
+java java 
+jaw 下巴 
+jazz 爵士乐 
+jealous 嫉妒 
+jealousy 嫉妒 
+jean 琼 
+jeans 牛仔裤 
+jeep 吉普车 
+jelly 果冻 
+jeopardize 危害 
+jerk 混蛋 
+jerky 不平稳的 
+jet 飞机 
+jewel 珠宝 
+jewellery 珠宝 
+jewelry 珠宝 
+jewish 犹太人 
+jibe 嘲笑 
+jigsaw 拼图 
+job 工作 
+jog 慢跑 
+jogging 慢跑 
+join 加入 
+joint 联合 
+joke 笑话 
+jolly 快乐的 
+jolt 震动 
+jostle 争夺 
+jot 记 
+journal 杂志 
+journalism 新闻 
+journalist 记者 
+journey 旅程 
+joy 快乐 
+joyful 快乐的 
+judge 法官 
+judgement 判断 
+judgment 判断 
+judicial 司法 
+judicious 明智的 
+jug 壶 
+juice 汁 
+July 7月 
+jumble 杂乱的一堆 
+jump 跳 
+junction 结 
+juncture 时刻 
+June 6月 
+jungle 丛林 
+junior 初级 
+junk 垃圾 
+Jupiter 木星 
+jury 陪审团 
+just 只是 
+justice 正义 
+justifiably 无可非议的 
+justification 的理由 
+justify 证明 
+juvenile 少年 
+kangaroo 袋鼠 
+kansas 堪萨斯 
+Kashmir 克什米尔 
+keen 敏锐的 
+keep 保持 
+keeper 门将 
+kennel 养犬 
+kept 保持 
+kernel 内核 
+kerosene 煤油 
+kettle 水壶 
+key 关键 
+keyboard 键盘 
+keystone 梯形 
+kick 踢 
+kid 孩子 
+kidnap 绑架 
+kidney 肾脏 
+kill 杀了 
+kiln 窑 
+kilo 公斤 
+kilogram 公斤 
+kilogramme 公斤 
+kilometer 公里 
+kin 亲属 
+kind 类 
+kindergarten 幼儿园 
+kindly 请 
+kindness 善良 
+kinetic 动能 
+king 王 
+kingdom 王国 
+kiss 吻 
+kit 工具包 
+kitchen 厨房 
+kite 风筝 
+kivu 基伍 
+knee 膝盖 
+kneel 跪 
+knew 知道 
+knife 刀 
+knit 针织 
+knives 刀 
+knob 旋钮 
+knock 敲门 
+knot 结 
+know 知道 
+knowledge 知识 
+known 已知的 
+korea 韩国 
+korean 韩国 
+lab 实验室 
+label 标签 
+labor 劳动 
+laboratory 实验室 
+labour 劳动力 
+labyrinth 迷宫 
+lace 花边 
+lack 缺乏 
+lad 小伙子 
+ladder 梯 
+lady 夫人 
+lag 滞后 
+laid 铺设 
+lake 湖 
+lamb 羊肉 
+lame 蹩脚的 
+lament 哀叹 
+lamp 灯 
+land 土地 
+landfill 垃圾填埋场 
+landing 着陆 
+landlady 女房东 
+landlord 房东 
+landmark 具有里程碑意义的 
+landmass 大陆 
+landscape 景观 
+landward 向陆地 
+lane 车道 
+language 语言 
+lantern 灯笼 
+lap 腿上 
+lapse 失效 
+laptop 笔记本电脑 
+large 大 
+largely 很大程度上 
+lark 云雀 
+larva 幼虫 
+larynx 喉 
+laser 激光 
+lash 睫毛 
+last 去年 
+lasting 持久的 
+latch 门闩 
+late 晚些时候 
+lately 最近 
+latent 潜在的 
+later 晚些时候 
+lateral 横向 
+laterality 偏重 
+latest 最新的 
+Latin 拉丁 
+latitude 纬度 
+latter 后者 
+laugh 笑 
+laughter 笑声 
+launch 发射 
+laundry 洗衣 
+laureate 奖得主 
+lava 熔岩 
+lavatory 厕所 
+law 法律 
+lawn 草坪上 
+lawsuit 诉讼 
+lawyer 律师 
+lax 宽松的 
+lay 躺 
+layer 层 
+layman 门外汉 
+layoff 裁员 
+layout 布局 
+lazy 懒惰的 
+lead 铅 
+leader 领袖 
+leadership 领导 
+leading 领先的 
+leaf 叶 
+leaflet 传单 
+league 联盟 
+leak 泄漏 
+leakage 泄漏 
+lean 精益 
+leap 飞跃 
+learn 学习 
+learned 学会了 
+learner 学习者 
+learning 学习 
+learnt 学 
+lease 租赁 
+least 至少 
+leather 皮革 
+leave 离开 
+leaves 叶子 
+lecture 讲座 
+led 领导 
+ledge 窗台 
+left 左 
+leftover 剩下的 
+leg 腿 
+legacy 遗产 
+legal 法律 
+legend 传说 
+legendary 传奇 
+legible 易读的 
+legibly 易读地 
+legislation 立法 
+legislative 立法 
+legislature 立法机关 
+legitimacy 合法性 
+legitimate 合法的 
+legitimize 合法化 
+leisure 休闲 
+lemon 柠檬 
+lemonade 柠檬水 
+lend 借 
+length 长度 
+lengthen 延长 
+lenient 宽容 
+lens 镜头 
+lent 大斋节 
+leopard 豹 
+less 少 
+lessen 减少 
+lesson 教训 
+lest 以免 
+let 让 
+lethal 致命的 
+lethargy 嗜睡 
+letter 信 
+lettuce 生菜 
+leukaemia 白血病 
+level 水平 
+lever 杆 
+levy 莱维 
+lexicographer 词典编纂者 
+liability 责任 
+liable 承担责任 
+liaise 保持联络 
+liar 骗子 
+libel 诽谤 
+liberal 自由 
+liberate 解放 
+liberation 解放 
+liberty 自由 
+librarian 图书管理员 
+library 图书馆 
+licence 执照 
+license 许可证 
+lichen 地衣 
+lick 舔 
+lid 盖子 
+lie 谎言 
+lieutenant 中尉 
+life 生活 
+lifeboat 救生艇 
+lifetime 一生 
+lift 电梯 
+light 光 
+lighten 减轻 
+lighter 更轻的 
+lighthouse 灯塔 
+lightly 轻 
+lightning 闪电 
+like-minded 志趣相投的 
+like 就像 
+likelihood 可能性 
+likely 可能 
+likewise 同样的 
+limb 肢体 
+lime 石灰 
+limestone 石灰石 
+limit 限制 
+limitation 限制 
+limited 有限的 
+limp 跛行 
+line 行 
+linear 线性 
+linen 亚麻 
+liner 衬管 
+linger 徘徊 
+linguist 语言学家 
+linguistic 语言 
+link 链接 
+lion 狮子 
+lip 唇 
+lipid 脂质 
+lipstick 口红 
+liquid 液体 
+liquor 酒 
+list 列表 
+listen 听 
+listener 侦听器 
+listeria 李斯特菌 
+listless 无精打采的 
+liter 升 
+literacy 读写能力 
+literal 文字 
+literally 字面上的 
+literary 文学 
+literate 有文化的 
+literature 文学 
+lithosphere 岩石圈 
+litre 升 
+litter 垃圾 
+little 小 
+live 生活 
+livelihood 生计 
+lively 活泼的 
+liver 肝 
+lives 生活 
+livestock 牲畜 
+living-room 起居室 
+living 生活 
+lizard 蜥蜴 
+load 负载 
+loaf 面包 
+loan 贷款 
+loath 不 
+loathsome 令人憎恶的 
+lobby 游说团体 
+lobster 龙虾 
+local 当地的 
+locale 语言环境 
+locality 位置 
+locally 在本地 
+locate 定位 
+location 位置 
+lock 锁 
+locker 储物柜 
+locomotion 运动 
+locomotive 机车 
+lodge 洛奇 
+lofty 崇高的 
+log 日志 
+logic 逻辑 
+logical 逻辑 
+London 伦敦 
+lonely 孤独的 
+long-term 长期 
+long 长 
+longevity 长寿 
+longitude 经度 
+longitudinal 纵向 
+look 看 
+lookout 注意 
+loom 织机 
+loop 循环 
+loose 宽松的 
+loosely 松散 
+loosen 放松 
+lord 主 
+lore 传说 
+lorry 卡车 
+lose 失去 
+loss 损失 
+lost 失去了 
+lot 很多 
+lottery 彩票 
+lotto 洛托 
+loud 大声 
+loudspeaker 扬声器 
+lounge 休息室 
+love 爱 
+lovely 可爱的 
+lover 情人 
+low 低 
+lower 较低的 
+loyal 忠诚的 
+loyalty 忠诚 
+lubricant 润滑剂 
+lubricate 润滑 
+luck 运气 
+lucky 幸运的 
+luggage 行李 
+lull 间歇 
+lumber 木材 
+luminosity 光度 
+luminous 发光的 
+lump 肿块 
+lunar 月球 
+lunch 午餐 
+lung 肺 
+lure 吸引 
+luscious 甜美的 
+lush 郁郁葱葱的 
+luster 光泽 
+luxuriant 华丽的 
+luxury 奢侈品 
+lyric 歌词 
+ma 马 
+macaroni 通心粉 
+machine 机 
+machinery 机械 
+Macintosh 麦金塔电脑 
+mad 疯了 
+madam 夫人 
+madame 夫人 
+made 使 
+madrid 马德里 
+magazine 杂志 
+magic 魔法 
+magistrate 法官 
+maglev 磁悬浮 
+magma 岩浆 
+magnesium 镁 
+magnet 磁铁 
+magnetic 磁 
+magnetize 磁化 
+magnificent 华丽的 
+magnify 放大 
+magnitude 级 
+magpie 喜鹊 
+mahout mahout 
+maid 女仆 
+maiden 少女 
+maidservant 女佣 
+mail 邮件 
+mailbox 邮箱 
+main 主要 
+mainland 大陆 
+mainly 主要是 
+mainstream 主流 
+maintain 维护 
+maintenance 维护 
+maize 玉米 
+majestic 雄伟的 
+majesty 陛下 
+major 主要 
+majority 多数 
+make 使 
+male 男性 
+malevolent 恶毒的 
+malignant 恶性 
+mall 购物中心 
+malleable 可塑的 
+malnutrition 营养不良 
+malt 麦芽 
+mamba 曼巴 
+mammal 哺乳动物 
+mammoth 庞大的 
+man 男人 
+manage 管理 
+management 管理 
+manager 经理 
+managerial 管理 
+mandarin 普通话 
+maneuver 机动 
+mania 躁狂 
+manifest 清单 
+manifestation 表现 
+manipulate 操作 
+manipulative 操纵 
+mankind 人类 
+manly 男子气概的 
+manner 的方式 
+mannerism 怪癖 
+manoeuvre 策略 
+manor 庄园 
+mansion 大厦 
+mantle 地幔 
+manual 手册 
+manufacture 制造 
+manufacturer 制造商 
+manuscript 手稿 
+many 许多 
+map 地图 
+maple 枫木 
+marathon 马拉松 
+marble 大理石 
+march 3月 
+margin 保证金 
+marginal 边际 
+marginally 略 
+marine 海洋 
+mariner 水手 
+marital 婚姻 
+maritime 海上 
+mark 马克 
+marked 标志着 
+marker 标记 
+market 市场 
+marketplace 市场 
+marquis 侯爵 
+marriage 婚姻 
+married 结婚了 
+marry 结婚 
+Mars 火星 
+marsh 沼泽 
+marshal 元帅 
+marsupial 有袋类动物 
+marvel 奇迹 
+marvellous 不可思议的 
+marvelous 不可思议的 
+Marxism 马克思主义 
+Marxist 马克思主义 
+masculine 男性化的 
+mask 面具 
+mason 梅森 
+mass 质量 
+massacre 大屠杀 
+massive 巨大的 
+mast 桅杆 
+master 主 
+masterpiece 杰作 
+mastery 掌握 
+mat 垫 
+matador 斗牛士 
+match 匹配 
+mate 伴侣 
+material 材料 
+materialism 唯物主义 
+materialistic 唯物主义的 
+maternal 孕产妇 
+math 数学 
+mathematical 数学 
+mathematics 数学 
+maths 数学 
+matter 事 
+mattress 床垫 
+mature 成熟的 
+maturity 成熟 
+maximise 最大化 
+maximum 最大 
+May 可能 
+maybe 也许 
+mayor 市长 
+me 我 
+meadow 草地 
+meager 微薄的 
+meagre 微薄的 
+meal 餐 
+mean 的意思是 
+meaning 意义 
+meaningful 有意义的 
+means 意味着 
+meant 的意思 
+meantime 同时 
+meanwhile 与此同时 
+measles 麻疹 
+measurable 可衡量的 
+measure 测量 
+measurement 测量 
+meat 肉 
+mechanic 机械师 
+mechanical 机械 
+mechanically 机械 
+mechanics 力学 
+mechanism 机制 
+mechanist 机械技师 
+mechanize 用机械装置 
+medal 金牌 
+media 媒体 
+mediate 调解 
+medical 医疗 
+medication 药物治疗 
+medicine 医学 
+medieval 中世纪的 
+mediocre 平庸的 
+meditate 冥想 
+meditation 冥想 
+Mediterranean 地中海 
+medium 媒介 
+medusa 美杜莎 
+meet 满足 
+meeting 会议 
+megacity 大城市 
+megacycle 兆周 
+melanin 黑色素 
+melatonin 褪黑激素 
+melodic 旋律 
+melodie 歌曲 
+melodrama 情节剧 
+melody 旋律 
+melon 瓜 
+melt 融化 
+melting 融化 
+member 成员 
+membership 会员 
+membrane 膜 
+memo 备忘录 
+memorable 令人难忘的 
+memorandum 谅解备忘录 
+memorial 纪念 
+memorise 记住 
+memorize 记住 
+memory 内存 
+men 男人 
+menace 威胁 
+mend 修补 
+mental 精神 
+mentally 精神上 
+mention 提到 
+mentor 导师 
+menu 菜单 
+mercantile 商品 
+mercedes 梅塞德斯 
+merchandise 商品 
+merchandising 销售 
+merchant 商人 
+merciful 仁慈的 
+mercury 汞 
+mercy 怜悯 
+mere 仅仅是 
+merely 仅仅是 
+merge 合并 
+meridian 子午线 
+merit 优点 
+mermaid 美人鱼 
+merry 快乐 
+mesmerize 施催眠术 
+mess 混乱 
+message 消息 
+messenger 信使 
+messy 混乱的 
+met 见过 
+metabolic 代谢 
+metal 金属 
+metallic 金属 
+metaphor 比喻 
+metaphorical 隐喻性的 
+mete 给予 
+meteor 流星 
+meteorite 陨石 
+meteorological 气象 
+meteorologist 气象学家 
+meteorology 气象学 
+meter 计 
+methane 甲烷 
+methanol 甲醇 
+method 方法 
+meticulous 一丝不苟的 
+metre 米 
+metric 度规 
+metro 地铁 
+metropolis 大都市 
+metropolitan 大都会 
+miami 迈阿密 
+mice 老鼠 
+microbe 微生物 
+microbiology 微生物学 
+microcomputer 微机 
+microcosm 缩影 
+microorganism 微生物 
+microphone 麦克风 
+microprocessor 微处理器 
+microscope 显微镜 
+microscopic 微观 
+microsoft 微软 
+microwave 微波 
+midday 中午 
+middle-aged 中年 
+middle 中间 
+midnight 午夜 
+midst 中间 
+might 可能 
+mighty 强大的 
+migrant 移民 
+migrate 迁移 
+migration 迁移 
+migratory 迁徙 
+mild 温和的 
+mile 英里 
+milestone 里程碑 
+milieu 环境 
+militant 激进分子 
+military 军事 
+milk 牛奶 
+milkman 送奶工 
+mill 机 
+millennium 年 
+millimeter 毫米 
+million 几百万 
+millionaire 百万富翁 
+milometer 计程表 
+mime mime 
+mimic 模仿 
+mince 矫揉做作地说 
+mind 心 
+mine 我的 
+miner 矿业公司 
+mineral 矿物 
+mingle 打成一片 
+mini 迷你 
+miniature 微型 
+minibus 小型公共汽车 
+minimal 最小的 
+minimise 最小化 
+minimize 最小化 
+minimum 最低 
+minister 部长 
+ministry 部 
+minor 小 
+minority 少数民族 
+minstrel 吟游诗人 
+mint 薄荷 
+minus - 
+minute 一分钟 
+miracle 奇迹 
+mirror 镜子 
+mirth 欢笑 
+miscellaneous 杂项 
+mischief 恶作剧 
+misconception 误解 
+miserable 悲惨的 
+misery 痛苦 
+misfortune 不幸 
+mishandle 错误地处理 
+misjudge 误判 
+mislead 误导 
+miss 小姐 
+missile 导弹 
+missing 失踪 
+mission 任务 
+missionary 传教士 
+missouri 密苏里州 
+mist 雾 
+mistake 错误 
+mistaken 错误的 
+mister 先生 
+mistook 误以为 
+mistress 情妇 
+misunderstand 误解了 
+mite 螨 
+mix 混合 
+mixture 混合物 
+moan 呻吟 
+mob 暴徒 
+mobile 移动 
+mobilize 动员 
+mock 模拟 
+mode 模式 
+model 模型 
+modeling 建模 
+modem 调制解调器 
+moderate 温和的 
+moderation 适度 
+modern 现代 
+modernism 现代主义 
+modernization 现代化 
+modernize 现代化 
+modest 适度的 
+modification 修改 
+modify 修改 
+modish 流行的 
+modulate 调节 
+module 模块 
+moist 潮湿的 
+moisture 水分 
+mold 模具 
+molecular 分子 
+molecule 分子 
+molten 熔融 
+Mom 妈妈 
+moment 时刻 
+momentum 动力 
+monarch 君主 
+monastery 修道院 
+Monday 周一 
+monetary 货币 
+money 钱 
+monitor 监控 
+monk 和尚 
+monkey 猴子 
+monopoly 垄断 
+monotonous 单调的 
+monster 怪物 
+monstrous 巨大的 
+month 月 
+monthly 每月 
+monument 纪念碑 
+monumental 不朽的 
+mood 情绪 
+moon 月亮 
+moonlight 月光 
+moor 沼泽 
+moot 没有实际意义 
+moral 道德 
+morale 士气 
+morality 道德 
+morally 在道德上 
+more 更多的 
+moreover 此外 
+moribund 垂死的 
+morning 早.... 
+morocco 摩洛哥 
+mortal 凡人 
+mortality 死亡率 
+mortally 致命 
+mortgage 抵押贷款 
+mosaic 马赛克 
+moscow 莫斯科 
+Moslem 伊斯兰教的 
+mosquito 蚊子 
+moss 莫斯 
+most 大多数 
+mostly 主要是 
+motel 汽车旅馆 
+moth 蛾 
+mother 母亲 
+motherland 祖国 
+motif 主题 
+motion 运动 
+motionless 不动 
+motivate 激励 
+motivation 动机 
+motivational 动机 
+motive 动机 
+motor 电动机 
+motorcycle 摩托车 
+motorway 高速公路 
+mottled 斑驳的 
+motto 的座右铭 
+mould 模具 
+mount 山 
+mountain 山 
+mountainous 多山的 
+mourn 哀悼 
+mournful 悲哀的 
+mouse 鼠标 
+mouth 口 
+mouthful 一口 
+move 移动 
+movement 运动 
+movie 电影 
+Mr. 先生。 
+mr 先生 
+Mrs. 夫人。 
+mrs 夫人 
+Ms. Ms。 
+ms 女士 
+much 多 
+mud 泥 
+muddle 混乱 
+muddy 泥泞的 
+muffle 发低沉的声音 
+mug 杯子 
+muggy 闷热的 
+multimedia 多媒体 
+multinational 跨国公司 
+multiple 多个 
+multiply 乘 
+multitude 许多 
+mum 妈妈 
+mumble 听不清 
+mumps 流行性腮腺炎 
+mundane 平凡的 
+municipal 市政 
+municipality 直辖市 
+mural 壁画 
+murder 谋杀 
+murderer 凶手 
+murky 黑暗的 
+murmur 杂音 
+muscle 肌肉 
+muscular 肌肉发达的 
+museum 博物馆 
+mushroom 蘑菇 
+music 音乐 
+musical 音乐 
+musician 音乐家 
+musicologist 音乐学者 
+must 必须 
+mustard 芥末 
+muster 召集 
+musty 发霉的 
+mute 沉默的 
+mutter 低声含糊地说 
+mutton 羊肉 
+mutual 相互 
+muzzle 动物的鼻口 
+my 我的 
+myriad 无数 
+myself 我自己 
+mysterious 神秘的 
+mystery 神秘 
+myth 神话 
+mythical 神话 
+mythology 神话 
+myxomatosis 多发粘液瘤病 
+nag 唠叨 
+nail 指甲 
+naive 天真的 
+naked 裸体 
+name 的名字 
+namely 即 
+nap 午睡 
+napkin 餐巾 
+narrate 叙述 
+narrative 叙述 
+narrator 旁白 
+narrow 狭窄的 
+narrowly 以微弱优势 
+nasa 美国国家航空航天局 
+nasty 令人讨厌的 
+nation 国家 
+national 国家 
+nationalistic 民族主义 
+nationality 国籍 
+nationwide 在全国范围内 
+native 本机 
+natural 自然 
+naturalist 博物学家 
+naturally 自然 
+nature 自然 
+naughty 淘气的 
+nauseous 恶心 
+naval 海军 
+navigable 通航 
+navigate 导航 
+navigation 导航 
+navy 海军 
+near 附近 
+nearby 附近的 
+nearly 近 
+neat 整洁的 
+nebula 星云 
+necessarily 一定 
+necessary 必要的 
+necessitate 需要 
+necessity 必要性 
+neck 脖子 
+necklace 项链 
+nectar 花蜜 
+need 需要 
+needle 针 
+needless 不必要的 
+needy 有需要的 
+negate 否定 
+negative 负 
+neglect 忽视 
+negligible 可以忽略不计 
+negotiate 谈判 
+negotiation 谈判 
+Negro 黑人 
+neighbor 邻居 
+neighborhood 社区 
+neighbour 邻居 
+neighbourhood 附近 
+neighbouring 邻近的 
+neither 既不 
+neoclassical 新古典主义 
+neolithic 新石器时代 
+neon 霓虹灯 
+nephew 侄子 
+nerve 神经 
+nervous 紧张 
+nest 巢 
+net 净 
+network 网络 
+neuron 神经元 
+neurotoxic 神经毒性 
+neutral 中性 
+neutron 中子 
+never 从来没有 
+nevertheless 不过 
+new 新 
+newcastle 纽卡斯尔 
+newly 新 
+news 新闻 
+newsagent 报刊经销商 
+newsletter 通讯 
+newspaper 报纸 
+next 下一个 
+nice 不错的 
+niche 利基市场 
+nickel 镍 
+nickname 昵称 
+nicotine 尼古丁 
+niece 侄女 
+nigeria 尼日利亚 
+nigerian 尼日利亚 
+niggle 挑剔 
+night 晚上 
+nightmare 噩梦 
+nil 零 
+nine 9 
+ninepin ninepin 
+nineteen 19 
+nineteenth 19 
+ninety 九十年 
+ninth 第九 
+nitrogen 氮 
+no. 不。 
+no 没有 
+noble 高贵的 
+nobody 没有人 
+nocturnal 夜间活动的 
+nod 点头 
+noise 噪音 
+noisy 嘈杂的 
+nomad 游牧 
+nomadic 游牧民族的 
+nominal 名义上的 
+nominate 提名 
+nominee 候选人 
+none 没有一个 
+nonetheless 尽管如此 
+nonsense 废话 
+nonverbal 非语言的 
+noodle 面条 
+noon 中午 
+nor 也不 
+nordic 北欧 
+norm 规范 
+normal 正常的 
+normalization 归一化 
+normally 正常情况下 
+north 北 
+northeast 东北 
+northern 北部 
+northward 向北 
+northwest 西北 
+norway 挪威 
+norwegian 挪威 
+nose 鼻子 
+nostalgia 怀旧之情 
+nostalgic 怀旧 
+nostril 鼻孔 
+not 不 
+notable 值得注意的 
+notate 以符号表示 
+notation 符号 
+notch 切口 
+note 请注意 
+notebook 笔记本 
+noted 指出 
+nothing 没有什么 
+notice 请注意 
+noticeable 明显的 
+notify 通知 
+notion 概念 
+notoriety 名声 
+notorious 臭名昭著的 
+notwithstanding 尽管 
+noun 名词 
+nourish 滋养 
+nourishment 营养 
+novel 小说 
+novelist 小说家 
+novelty 新奇的事物 
+November 11月 
+novice 新手 
+now 现在 
+nowadays 现在 
+nowhere 地方 
+noxious 有害 
+nuclear 核 
+nucleus 核 
+nuisance 讨厌的东西 
+numb 麻木了 
+number 数量 
+numerical 数值 
+numerous 众多 
+nurse 护士 
+nursery 托儿所 
+nurture 培养 
+nut 螺母 
+nutrient 营养 
+nutrition 营养 
+nutritional 营养 
+nutritious 有营养的 
+nylon 尼龙 
+oak 橡木 
+oar 桨 
+oarfish 皇带鱼 
+oasis 绿洲 
+oath 誓言 
+obedience 服从 
+obedient 听话 
+obesity 肥胖 
+obey 服从 
+object 对象 
+objectify objectify 
+objection 反对 
+objective 客观的 
+objurgation 非难 
+obligation 义务 
+oblige 迫使 
+oblivious 无视 
+obscene 淫秽 
+obscure 晦涩难懂的 
+obscurity 默默无闻 
+observant 细心的 
+observation 观察 
+observatory 天文台 
+observe 观察 
+observer 观察者 
+obsess 为 
+obsession 痴迷 
+obsolete 过时了 
+obstacle 障碍 
+obstruct 阻碍 
+obstruction 阻塞 
+obtain 获得 
+obvious 明显的 
+obviously 很明显 
+occasion 场合 
+occasional 偶尔 
+occasionally 偶尔 
+occupation 占领 
+occupy 占领 
+occur 发生 
+occurrence 发生 
+ocean 海洋 
+oceanarium 海洋水族馆 
+Oceania 大洋洲 
+oceanographer 海洋学家 
+October 10月 
+octopus 章鱼 
+odd 奇怪的 
+oddly 奇怪的是 
+odds 几率 
+odor 气味 
+odour 气味 
+of 的 
+off 从 
+offence 犯罪 
+offend 冒犯 
+offender 罪犯 
+offense 进攻 
+offensive 进攻 
+offer 提供 
+office 办公室 
+officer 官 
+official 官方 
+officially 正式 
+officious 好管闲事的 
+offset 抵消 
+offshore 离岸 
+offspring 后代 
+often 经常 
+oh 哦 
+oil 石油 
+ointment 药膏 
+ok 好吧 
+okay 好吧 
+old 老 
+olfactory 嗅觉 
+olive 橄榄 
+olympic 奥运 
+ombudsman 监察专员 
+omen 预兆 
+omit 省略 
+on 在 
+once 一次 
+one 一个 
+oneself 自己 
+ongoing 正在进行的 
+onion 洋葱 
+online 在线 
+only 只有 
+onslaught 冲击 
+onto 到 
+onwards 起 
+ooze 软泥 
+opal 蛋白石 
+opaque 不透明的 
+open 开放 
+opening 开放 
+opera 歌剧 
+operate 操作 
+operation 操作 
+operational 操作 
+operator 操作符 
+opinion 的意见 
+opponent 对手 
+opportunity 机会 
+oppose 反对 
+opposed 反对 
+opposite 相反 
+oppress 压迫 
+opt 选择 
+optic 视 
+optical 光学 
+optimal 最优 
+optimism 乐观 
+optimistic 乐观 
+optimum 最优 
+option 选项 
+optional 可选 
+optometrist 验光师 
+opulence 富裕 
+opulent 华丽的 
+or 或 
+oral 口服 
+orange 橙色 
+oratorio 清唱剧 
+orbit 轨道 
+orbital 轨道 
+orchard 果园 
+orchestra 管弦乐队 
+orchid 兰花 
+order 订单 
+orderly 有序的 
+ordinary 普通的 
+ordnance 军械 
+ore 矿石 
+organ 器官 
+organic 有机 
+organisation 组织 
+organise 组织 
+organism 生物 
+organization 组织 
+organize 组织 
+orgy 狂欢 
+orient 东方 
+oriental 东方 
+orientate 定位 
+orientation 取向 
+origin 起源 
+original 原始 
+originally 最初 
+originate 产生 
+ornament 点缀 
+ornamental 观赏 
+ornithology 鸟类学 
+orphan 孤儿 
+orphanage 孤儿院 
+orthodox 正统的 
+other 其他 
+otherwise 否则 
+ought 应该 
+ounce 盎司 
+our 我们的 
+ours 我们的 
+ourselves 我们自己 
+out 出 
+outbreak 爆发 
+outcome 结果 
+outcry 强烈抗议 
+outdo 超越 
+outdoor 户外 
+outdoors 在户外 
+outer 外 
+outermost 最外层 
+outfit 装 
+outgas 除气 
+outing 郊游 
+outlandish 古怪的 
+outlaw 不法之徒 
+outlet 出口 
+outline 大纲 
+outlook 前景 
+outlying 边远 
+outpost 前哨 
+output 输出 
+outrage 愤怒 
+outrageous 令人发指的 
+outsell outsell 
+outset 一开始就 
+outside 外 
+outskirt 郊区 
+outskirts 郊区 
+outspoken 直言不讳的 
+outstanding 杰出的 
+outward 向外 
+outwards 向外 
+outweigh 超过 
+oval 椭圆形 
+oven 烤箱 
+over 在 
+overall 整体 
+overbalance 失去平衡 
+overcharge 过度充电 
+overcoat 大衣 
+overcome 克服 
+overdraft 透支 
+overdue 逾期 
+overestimate 高估 
+overfill 装得太多 
+overfish 过度捕捞 
+overflow 溢出 
+overgraze 过度放牧 
+overhaul 改革 
+overhead 开销 
+overhear 无意中听到 
+overland 陆路 
+overlap 重叠 
+overlie 躺在 
+overlook 忽视 
+overnight 在一夜之间 
+overpass 天桥 
+overrate 过高估计 
+overrun 泛滥 
+overseas 海外 
+oversee 监督 
+overshadow 蒙上阴影 
+oversleep 睡过头了 
+overt 公开的 
+overtake 超越 
+overthrow 推翻 
+overtime 加班 
+overturn 推翻 
+overview 概述 
+overweight 超重 
+overwhelm 压倒 
+overwhelming 压倒性的 
+overwork 过度劳累 
+owe 欠 
+owing 由于 
+owl 猫头鹰 
+own 自己的 
+owner 老板 
+ownership 所有权 
+ox 牛 
+oxide 氧化 
+oxygen 氧气 
+oyster 牡蛎 
+ozone 臭氧 
+pace 速度 
+pacific 太平洋 
+pack 包 
+package 包 
+packed 包装 
+packet 包 
+packing 包装 
+pact 协议 
+pad 垫 
+paddle 桨 
+pagan 异教徒 
+page 页面 
+paid 支付 
+pail 桶 
+pain 疼痛 
+painful 痛苦的 
+painstaking 艰苦的 
+paint 油漆 
+painter 画家 
+painting 绘画 
+pair 一对 
+palace 宫 
+palatable 美味 
+palate 口感 
+pale 苍白的 
+paleontological 古生物学 
+palm 棕榈 
+pamper 宠爱 
+pamphlet 小册子 
+pan 锅 
+pancake 煎饼 
+pancreas 胰腺 
+panda 熊猫 
+pane 窗格 
+panel 面板 
+panic 恐慌 
+panorama 全景 
+pant 裤子 
+pants 裤子 
+paper 纸 
+paperback 平装书 
+paperwork 文书工作 
+parachute 降落伞 
+parade 游行 
+paradise 天堂 
+paradox 悖论 
+paragraph 段 
+parallel 平行 
+paralyse 瘫痪 
+paralysis 麻痹 
+paralyze 麻痹 
+parameter 参数 
+paramount 派拉蒙 
+paraphrase 释义 
+parasite 寄生虫 
+paratrooper 伞兵 
+parcel 包裹 
+pardon 请再说一遍 
+parent 父 
+parental 父母的 
+Paris 巴黎 
+parishioner 教区居民 
+park 公园 
+parking 停车 
+parliament 议会 
+parliamentary 议会 
+parquet 拼花 
+parrot 鹦鹉 
+part-time 兼职 
+part 部分 
+partial 部分 
+partially 部分 
+participant 参与者 
+participate 参与 
+participation 参与 
+participle 分词 
+particle 粒子 
+particular 特定的 
+particularly 特别是 
+particulate 微粒 
+partition 分区 
+partly 部分 
+partner 合作伙伴 
+partnership 伙伴关系 
+partridge 帕特里奇 
+party 方 
+pass 通过 
+passage 通道 
+passenger 乘客 
+passer-by 路人 
+passion 激情 
+passionate 充满激情的 
+passive 被动 
+passport 护照 
+past 过去的 
+paste 粘贴 
+pastel 柔和的 
+pastime 消遣 
+pastoral 田园 
+pastry 糕点 
+pasture 牧场 
+pat 帕特 
+patch 补丁 
+patent 专利 
+path 路径 
+pathetic 可怜的 
+pathology 病理学 
+pathway 通路 
+patience 耐心 
+patient 病人 
+patriarch 族长 
+patriot 爱国者 
+patriotic 爱国 
+patriotism 爱国主义 
+patrol 巡逻 
+patron 赞助人 
+patronage 赞助 
+patronizing 屈尊俯就的 
+pattern 模式 
+paucity 缺乏 
+pause 暂停 
+pave 铺平道路 
+pavement 人行道上 
+paw 爪子 
+pay 支付 
+payable 应付 
+payment 付款 
+pc 个人电脑 
+pea 豌豆 
+peace 和平 
+peaceful 和平 
+peach 桃子 
+peak 峰 
+peanut 花生 
+pear 梨 
+pearl 珍珠 
+peasant 农民 
+pebble 卵石 
+peculiar 特有的 
+pedagogy 教育学 
+pedal 踏板 
+pedestal 基座 
+pedestrian 行人 
+pedigree 血统 
+peel 皮 
+peep 偷看 
+peer 同行 
+peg 挂钩 
+pen 笔 
+penalize 惩罚 
+penalty 点球 
+pence 便士 
+pencil 铅笔 
+pendant 吊坠 
+pendulum 摆 
+penetrate 穿透 
+penetration 渗透 
+penguin 企鹅 
+penholder 笔架 
+penicillin 青霉素 
+peninsula 半岛 
+penmanship 书法 
+pennant 彭南特 
+penny 一分钱 
+pension 养老金 
+pensive 沉思的 
+people 人 
+pepper 胡椒 
+per 每 
+perceive 感知 
+percent 百分比 
+percentage 百分比 
+perception 感知 
+perceptive 敏锐的 
+perch 鲈鱼 
+percussion 打击乐器 
+perfect 完美的 
+perfection 完美 
+perfectly 完美的 
+perform 执行 
+performance 性能 
+performer 表演者 
+perfume 香水 
+perhaps 也许 
+perilous 危险的 
+perimeter 周长 
+period 期 
+periodic 周期 
+periodical 期刊 
+peripheral 外围 
+periphery 外围 
+perish 灭亡 
+perishable 易腐烂的 
+permanent 永久 
+permanently 永久 
+permeate 渗透 
+permissible 允许的 
+permission 许可 
+permit 许可证 
+perpendicular 垂直的 
+perpetrate 实施 
+perpetual 永恒的 
+perpetuate 延续 
+perplex 使复杂化 
+perquisite 额外补贴 
+persecute 迫害 
+persevere 坚持下去 
+persist 坚持 
+persistent 持续的 
+person 人 
+personal 个人 
+personality 个性 
+personalize 个性化 
+personally 就我个人而言 
+personnel 人员 
+perspective 的角度来看 
+persuade 说服 
+persuasion 说服 
+persuasive 有说服力的 
+pertain 有关 
+pertinent 相关的 
+perturb 扰乱 
+pervasive 无处不在的 
+pessimistic 悲观 
+pest 害虫 
+pester 纠缠 
+pesticide 农药 
+pestilence 瘟疫 
+pet 宠物 
+petition 请愿书 
+petrify 石化 
+petrol 汽油 
+petroleum 石油 
+petty 小 
+peugeot 标致 
+pharmacy 药房 
+phase 阶段 
+phenomena 现象 
+phenomenon 现象 
+pheromone 信息素 
+philosopher 哲学家 
+philosophy 哲学 
+phone 电话 
+photo 照片 
+photocopy 复印 
+photodissociation 光离解 
+photograph 照片 
+photographer 摄影师 
+photographic 摄影 
+photography 摄影 
+photosynthesis 光合作用 
+phrase 短语 
+physical 物理 
+physician 医生 
+physicist 物理学家 
+physics 物理 
+physiological 生理 
+physiology 生理学 
+pianist 钢琴家 
+piano 钢琴 
+piccadilly 皮卡迪利大街 
+pick 选择 
+pickup 皮卡 
+picky 挑剔的 
+picnic 野餐 
+pictorial 图示 
+picture 图片 
+picturesque 风景如画的 
+pie 派 
+piece 一块 
+pierce 皮尔斯 
+pig 猪 
+pigeon 鸽子 
+pigment 色素 
+pile 桩 
+pilgrim 朝圣者 
+pill 药丸 
+pillar 支柱 
+pillow 枕头 
+pilot 飞行员 
+pin 销 
+pinch 捏 
+pine 松 
+pineapple 菠萝 
+ping-pong 乒乓球 
+pink 粉红色的 
+pinpoint 查明 
+pint 一品脱的量 
+pioneer 先锋 
+pious 虔诚的 
+pipe 管 
+pipeline 管道 
+pique 皮克 
+piracy 盗版 
+pirate 海盗 
+pistol 手枪 
+piston 活塞 
+pit 坑 
+pitch 球场 
+pitfall 陷阱 
+pity 遗憾 
+pivot 主 
+pivotal 关键的 
+pizza 披萨 
+place 的地方 
+plagiarism 剽窃 
+plague 瘟疫 
+plain 平原 
+plaintiff 原告 
+plan 计划 
+plane 飞机 
+planet 地球 
+planetary 行星 
+plank 板材 
+plankton 浮游生物 
+plant 植物 
+plantation 种植园 
+plaque 斑块 
+plasma 等离子体 
+plaster 石膏 
+plastic 塑料 
+plate 板 
+plateau 高原 
+platelike 层状的 
+platform 平台 
+platitude 陈词滥调 
+plausible 似是而非的 
+play 玩 
+player 球员 
+playground 操场上 
+playmate 玩伴 
+playwright 剧作家 
+plea 请求 
+plead 辩护 
+pleading 恳求 
+pleasant 愉快的 
+please 请 
+pleased 很高兴 
+pleasing 令人愉快的 
+pleasure 快乐 
+pledge 承诺 
+plentiful 丰富的 
+plenty 很多 
+pliable 柔软 
+plight 困境 
+plot 情节 
+plough 犁 
+plow 犁 
+pluck 摘下 
+plug 插头 
+plumage 羽毛 
+plumber 水管工 
+plump 丰满 
+plunge 跳水 
+plural 复数 
+plus + 
+plush 豪华的 
+ply 厚度 
+pneumatic 气动 
+pneumonia 肺炎 
+pocket 口袋里 
+pocketbook 钱包 
+poem 诗 
+poet 诗人 
+poetry 诗歌 
+point 点 
+pointed 指出 
+poison 毒药 
+poisonous 有毒的 
+poke 戳 
+poland 波兰 
+polar 极地 
+pole 极 
+police 警察 
+policeman 警察 
+policewoman 女警察 
+policy 政策 
+polish 波兰 
+polite 有礼貌的 
+political 政治 
+politician 政治家 
+politics 政治 
+poll 民意调查 
+pollen 花粉 
+pollinate 授粉 
+pollinator 传粉者 
+pollutant 污染物 
+pollute 污染 
+pollution 污染 
+polygon 多边形 
+polynesian 波利尼西亚 
+pond 池塘 
+ponder 思考 
+ponderous 笨重的 
+pool 池 
+poor 可怜的 
+pop 流行 
+popcorn 爆米花 
+pope 教皇 
+populace 民众 
+popular 受欢迎的 
+popularity 受欢迎程度 
+popularize 推广 
+populate 填充 
+population 人口 
+porcelain 瓷 
+porch 玄关 
+porcupine 豪猪 
+pore 孔隙 
+pork 猪肉 
+porous 多孔 
+porridge 粥 
+port 港口 
+portable 可移植的 
+porter 波特 
+portfolio 投资组合 
+portion 部分 
+portrait 肖像 
+portraiture 肖像画 
+portray 描述 
+Portuguese 葡萄牙语 
+pose 构成 
+posit 假定 
+position 位置 
+positive 积极的 
+possess 拥有 
+possession 占有 
+possibility 可能性 
+possible 可能的 
+possibly 可能 
+post 帖子 
+postage 邮资 
+postcard 明信片 
+postcode 邮政编码 
+poster 海报 
+postgraduate 研究生 
+posthumous 死后的 
+postman 邮递员 
+postmortem 后期 
+postpone 推迟 
+posture 的姿势 
+pot 锅 
+potassium 钾 
+potato 土豆 
+potency 效力 
+potential 潜在的 
+potentiality 潜力 
+potter 波特 
+pottery 陶器 
+poultry 家禽 
+pounce 突袭 
+pound 英镑 
+pour 倒 
+poverty 贫困 
+powder 粉 
+power 权力 
+powerful 强大的 
+practicable 可行的 
+practical 实用 
+practicality 实用性 
+practically 几乎 
+practice 实践 
+practise 练习 
+practitioner 医生 
+pragmatic 务实的 
+prairie 草原 
+praise 赞美 
+pray 祈祷 
+prayer 祈祷 
+preach 传 
+preacher 牧师 
+precarious 不稳定的 
+precaution 预防措施 
+precede 之前 
+precedent 先例 
+preceding 前 
+precious 珍贵的 
+precipitate 沉淀 
+precipitation 降水 
+precise 精确的 
+precision 精度 
+preclude 排除 
+precursor 前体 
+predator 捕食者 
+predatory 掠夺性 
+predecessor 前任 
+predict 预测 
+predictable 可预测的 
+prediction 预测 
+predispose 使 
+predominant 主要 
+predominantly 主要是 
+predominate 占主导地位 
+prefabricate 预制构件 
+preface 前言 
+prefer 更喜欢 
+preferable 更可取的 
+preference 偏好 
+preferential 优惠 
+pregnancy 怀孕 
+pregnant 怀孕了 
+prehistoric 史前 
+prejudice 偏见 
+prejudiced 偏见 
+preliminary 初步 
+premature 不成熟的 
+premier 总理 
+premise 前提 
+premium 溢价 
+preoccupation 关注 
+preparation 准备 
+prepare 准备 
+preponderance 优势 
+preposition 介词 
+prerequisite 先决条件 
+prescribe 开 
+prescription 处方 
+presence 存在 
+present 现在 
+presentation 演讲 
+presently 目前 
+preserve 保存 
+preside 主持 
+presidency 总统 
+president 总统 
+press 新闻 
+pressure 压力 
+prestige 声望 
+prestigious 著名的 
+presumably 大概 
+presume 假定 
+presumptuous 冒昧的 
+presuppose 假定 
+pretend 假装 
+pretension 自负 
+pretentious 自命不凡的 
+pretext 借口 
+pretty 漂亮的 
+prevail 占了上风 
+prevailing 流行的 
+prevalence 患病率 
+prevalent 普遍的 
+prevent 防止 
+preventative 预防 
+preview 预览 
+previous 以前的 
+previously 以前 
+prey 猎物 
+price 价格 
+prick 刺痛 
+pride 骄傲 
+priest 牧师 
+primal 原始的 
+primarily 主要是 
+primary 主 
+primate 灵长类动物 
+prime ' 
+primitive 原始的 
+primordial 原始的 
+prince 王子 
+princess 公主 
+princeton 普林斯顿大学 
+principal 主要 
+principle 原则 
+print 打印 
+prior 之前 
+priority 优先级 
+priory 修道院 
+prison 监狱 
+prisoner 囚犯 
+pristine 原始的 
+privacy 隐私 
+private 私人 
+privilege 特权 
+prize 奖 
+prizefighter 职业拳击手 
+probability 概率 
+probable 可能的 
+probably 可能 
+probation 缓刑 
+probe 探针 
+problem 问题 
+procedure 过程 
+proceed 继续进行 
+proceeding 进行 
+proceeds 收益 
+process 过程 
+procession 队伍 
+processor 处理器 
+proclaim 宣告 
+procrastinate 拖延 
+prodigious 惊人的 
+produce 生产 
+product 产品 
+production 生产 
+productive 富有成效的 
+productivity 生产力 
+profess 自称 
+profession 职业 
+professional 专业 
+professor 教授 
+proficiency 熟练 
+proficient 精通 
+profile 配置文件 
+profit 利润 
+profitable 盈利 
+profound 深刻的 
+program 程序 
+programme 计划 
+progress 进步 
+progressive 进步 
+prohibit 禁止 
+prohibitive 禁止的 
+project 项目 
+projector 投影仪 
+proliferate 增殖 
+proliferation 扩散 
+prolific 多产的 
+prolong 延长 
+prolonged 长时间的 
+prominence 突出 
+prominent 著名的 
+promiscuous 滥交 
+promise 承诺 
+promising 有前途的 
+promontory 海角 
+promote 促进 
+promotion 促销活动 
+prompt 提示 
+promptly 及时 
+prone 倾向 
+pronoun 代词 
+pronounce 发音 
+pronounceable 可断言的 
+pronounced 明显 
+pronunciation 发音 
+proof 证明 
+proofread 校对 
+propaganda 宣传 
+propagate 传播 
+propel 推动 
+propellant 推进剂 
+propensity 倾向 
+proper 适当的 
+properly 正确 
+property 财产 
+prophet 先知 
+proponent 支持者 
+proportion 比例 
+proportional 成比例的 
+proposal 建议 
+propose 提出 
+proposition 命题 
+proprietor 老板 
+propulsion 推进 
+prose 散文 
+prosecute 起诉 
+prospect 前景 
+prospective 未来的 
+prospectus 招股说明书 
+prosper 繁荣 
+prosperity 繁荣 
+prosperous 繁荣的 
+protagonist 主角 
+protect 保护 
+protection 保护 
+protective 保护 
+protein 蛋白质 
+protest 抗议 
+prototype 原型 
+protrude 突出 
+proud 骄傲 
+prove 证明 
+provenance 出处 
+provide 提供 
+provided 提供 
+province 省 
+provincialism 方言 
+provision 条款 
+provocation 挑衅 
+provoke 引发 
+prowess 实力 
+proximity 接近 
+prudent 谨慎的 
+prune 修剪 
+psychiatric 精神病学 
+psychiatrist 精神病学家 
+psychiatry 精神病学 
+psychoanalysis 精神分析 
+psychological 心理 
+psychologist 心理学家 
+psychology 心理学 
+Ptolemy 托勒密 
+pub 酒吧 
+public 公共 
+publication 出版 
+publicity 宣传 
+publicize 宣传 
+publish 发布 
+pudding 布丁 
+puddle 水坑 
+pueblo 普韦布洛 
+puff 泡芙 
+pull 拉 
+pulley 滑轮 
+pulp 纸浆 
+pulse 脉冲 
+pulverize 粉碎 
+puma 彪马 
+pumice 浮石 
+pump 泵 
+pumpkin 南瓜 
+punch 穿孔 
+punctual 守时 
+punctually 准时 
+punctuate 加标点 
+punctuation 标点符号 
+puncture 穿刺 
+punish 惩罚 
+punishment 惩罚 
+pupil 学生 
+puppet 木偶 
+purchasable 可买到的 
+purchase 购买 
+pure 纯 
+purely 纯粹的 
+purify 净化 
+purity 纯度 
+purple 紫色的 
+purpose 目的 
+purse 钱包 
+pursue 追求 
+pursuit 追求 
+push 推 
+put 把 
+puzzle 谜题 
+pyramid 金字塔 
+quaint 古雅的 
+qualification 资格 
+qualified 合格的 
+qualify 有资格 
+qualitative 定性 
+quality 质量 
+quantify 量化 
+quantitative 定量 
+quantity 数量 
+quarrel 争吵 
+quart 夸脱 
+quarter 季度 
+quarterly 季度 
+quartz 石英 
+quasar 类星体 
+queen 女王 
+queer 酷儿 
+quench 淬火 
+quest 追求 
+question 问题 
+questionnaire 问卷调查 
+queue 队列 
+quick 快速 
+quicken 加快 
+quickly 很快 
+quiescent 静 
+quiet 安静的 
+quilt 被子 
+quintuplet 五件一套 
+quit 辞职 
+quite 相当 
+quiver 箭袋 
+quiz 测试 
+quota 配额 
+quotation 报价 
+quote 报价 
+rabbit 兔子 
+race 比赛 
+racial 种族 
+racing 赛车 
+rack 架 
+racket 球拍 
+radar 雷达 
+radiance 光辉 
+radiant 辐射 
+radiate 辐射 
+radiation 辐射 
+radical 激进的 
+radically 从根本上 
+radio 广播 
+radioactive 放射性 
+radioactivity 放射性 
+radish 萝卜 
+radium 镭 
+radius 半径 
+raft 筏 
+rag 破布 
+rage 愤怒 
+raid 突袭 
+rail 铁路 
+railroad 铁路 
+railway 铁路 
+rain 雨 
+rainbow 彩虹 
+raincoat 雨衣 
+rainfall 降雨 
+rainy 多雨的 
+raise 提高 
+rake 耙 
+rally 集会 
+rambler 漫步者 
+rampant 猖獗的 
+ran 跑 
+ranch 牧场 
+rancher 牧场主 
+random 随机 
+rang 响了 
+range 范围 
+rank 排名 
+ransack 遍寻 
+ransom 赎金 
+rap 说唱 
+rape 强奸 
+rapid 快速 
+rapture 狂喜 
+rare 罕见的 
+rarely 很少 
+rarity 罕见 
+rash 皮疹 
+rat 老鼠 
+rate 率 
+rather 而 
+ratify 批准 
+rating 评级 
+ratio 比 
+ration 配给 
+rational 理性的 
+rattle 喋喋不休的人 
+rattlesnake 响尾蛇 
+raven 乌鸦 
+ravine 峡谷 
+raw 生 
+ray 雷 
+rayon 人造丝 
+razor 剃须刀 
+reach 达到 
+react 反应 
+reaction 反应 
+reactor 反应堆 
+read 读 
+reader 读者 
+readily 容易 
+reading 阅读 
+ready 准备好了 
+real 真正的 
+realise 意识到 
+realistic 现实的 
+reality 现实 
+realization 实现 
+realize 意识到 
+really 真的 
+realm 领域 
+reap 收获 
+rear 后 
+reason 原因 
+reasonable 合理的 
+reassure 安抚 
+rebel 反政府武装 
+rebellion 叛乱 
+rebound 反弹 
+recalcitrant 顽固的 
+recall 回忆 
+recapture 夺回 
+recede 退去 
+receipt 收据 
+receive 收到 
+receiver 接收机 
+recent 最近 
+recently 最近 
+receptacle 插座 
+reception 接待 
+receptionist 接待员 
+receptor 受体 
+recession 经济衰退 
+recharge 充电 
+recipe 配方 
+recipient 收件人 
+reciprocal 互惠 
+reciprocate 报答 
+reciprocity 互惠 
+recital 独奏会 
+recite 背诵 
+reckless 不计后果的 
+reckon 估计 
+reclaim 回收 
+recline 斜倚 
+recluse 隐士 
+recognition 识别 
+recognize 识别 
+recoil 反冲 
+recollect 回忆 
+recollection 回忆 
+recommend 推荐 
+recommendation 建议 
+reconcile 调和 
+reconciliation 和解 
+reconstruct 重建 
+reconstruction 重建 
+record 记录 
+recorder 录音机 
+recount 重新计票 
+recourse 追索权 
+recover 恢复 
+recovery 复苏 
+recreate 重新创建 
+recreation 娱乐 
+recreational 休闲 
+recruit 招募 
+recruitment 招聘 
+rectangle 矩形 
+rectangular 矩形 
+rectify 纠正 
+recuperation 恢复 
+recur 复发 
+recurring 反复出现的 
+recycle 回收 
+red 红色的 
+reddish 红色的 
+redeem 赎回 
+redevelopment 重建 
+reduce 减少 
+reduction 减少 
+redundant 冗余 
+reed 里德 
+reef 礁 
+reel 卷 
+refectory 食堂 
+refer 请参考 
+referee 裁判 
+reference 参考 
+refine 完善 
+refined 精制 
+refinement 细化 
+reflect 反映 
+reflection 反射 
+reflexion 反射 
+reform 改革 
+refraction 折射 
+refrain 不 
+refresh 刷新 
+refresher 复习 
+refreshing 让人耳目一新 
+refreshment 点心 
+refrigerate 冷藏 
+refrigerator 冰箱 
+refuge 避难所 
+refugee 难民 
+refund 退款 
+refundable 可退还的 
+refurbish 翻新 
+refusal 拒绝 
+refuse 拒绝 
+refute 反驳 
+regard 把 
+regarding 关于 
+regardless 不管 
+regenerate 再生 
+regent 丽晶 
+regime 政权 
+regiment 团 
+region 地区 
+regional 区域 
+register 注册 
+registration 登记 
+regret 后悔 
+regular 常规的 
+regularity 规律 
+regularly 定期 
+regulate 调节 
+regulation 监管 
+regurgitate 反刍 
+rehabilitate 恢复 
+rehearsal 彩排 
+rehearse 排练 
+reign 统治 
+rein 控制 
+reinforce 加强 
+reinforcement 强化 
+reiterate 重申 
+reject 拒绝 
+rejoice 喜乐 
+rejuvenate 恢复 
+rekindle 重新点燃 
+relate 联系 
+related 相关的 
+relation 关系 
+relationship 的关系 
+relative 相对 
+relatively 相对 
+relativity 相对论 
+relax 放松 
+relaxation 放松 
+relay 继电器 
+release 释放 
+relentless 无情的 
+relevance 相关性 
+relevant 有关 
+reliability 可靠性 
+reliable 可靠的 
+reliance 依赖 
+relic 遗迹 
+relief 救援 
+relieve 缓解 
+religion 宗教 
+religious 宗教 
+relish 享受 
+relocate 搬迁 
+reluctant 不情愿的 
+rely 依赖 
+remain 保持 
+remainder 剩余部分 
+remains 仍然是 
+remark 备注 
+remarkable 非凡的 
+remedy 补救措施 
+remember 还记得 
+remind 提醒 
+reminder 提醒 
+reminiscence 回忆 
+remnant 遗迹 
+remodel 改造 
+remonstrate 表示异议 
+remote 远程 
+removal 删除 
+remove 删除 
+remuneration 报酬 
+renaissance 文艺复兴时期的 
+render 渲染 
+rendezvous 会合 
+rendition 引渡 
+renew 更新 
+renewable 可再生 
+renewal 更新 
+renovate 翻新 
+rent 租金 
+rental 租赁 
+reorient 重新定位 
+repaint 重画 
+repair 修复 
+repatriate 遣返 
+repay 偿还 
+repeat 重复 
+repeatedly 反复 
+repel 排斥 
+repent 忏悔 
+repertoire 曲目 
+repertory 剧目 
+repetition 重复 
+repetitive 重复的 
+replace 取代 
+replacement 更换 
+replenish 补充 
+replicate 复制 
+reply 回复 
+report 报告 
+reporter 记者 
+represent 代表 
+representation 表示 
+representative 代表 
+repression 镇压 
+reprimand 谴责 
+reproach 责备 
+reproduce 繁殖 
+reptile 爬行动物 
+republic 共和国 
+republican 共和党人 
+repulsive 令人厌恶的 
+reputable 有信誉的 
+reputation 声誉 
+repute 名声 
+request 请求 
+require 需要 
+requirement 要求 
+requisite 必要的 
+requisition 征用 
+reschedule 重新安排 
+rescue 救援 
+research 研究 
+researcher 研究员 
+resemblance 相似之处 
+resemble 像 
+resent 怨恨 
+resentful 不满 
+reservation 预订 
+reserve 储备 
+reserved 保留 
+reservior 贮备 
+reservoir 储层 
+reside 驻留 
+residence 住宅 
+resident 居民 
+residential 住宅 
+residue 残留 
+resign 辞职 
+resignation 辞职 
+resilience 弹性 
+resin 树脂 
+resist 抵制 
+resistance 电阻 
+resistant 耐药 
+resit 补考 
+resolute 坚决 
+resolution 决议 
+resolve 解决 
+resonance 共振 
+resort 度假胜地 
+resource 资源 
+resourceful 足智多谋 
+respect 尊重 
+respectable 受人尊敬的 
+respectful 尊重 
+respective 各自的 
+respectively 分别 
+respond 回应 
+respondent 被调查者 
+response 响应 
+responsibility 责任 
+responsible 负责任的 
+rest 休息 
+restaurant 餐厅 
+restless 不安分的 
+restoration 恢复 
+restore 恢复 
+restrain 抑制 
+restraint 克制 
+restrict 限制 
+restricted 限制 
+restriction 限制 
+result 结果 
+resultant 合成 
+resume 的简历 
+retail 零售 
+retailing 零售业 
+retain 保留 
+retaliate 报复 
+retell 复述 
+retention 保留 
+retire 退休 
+retort 反驳 
+retrace 追溯 
+retreat 撤退 
+retrenchment 紧缩 
+retrieve 检索 
+retrospect 回顾 
+return 返回 
+reunion 团聚 
+reunite 团聚 
+reveal 揭示 
+revegetate 再生长 
+revelation 启示 
+revenge 复仇 
+revenue 收入 
+revere 里维尔 
+reverse 反向 
+revert 回复 
+review 审查 
+revise 修改 
+revision 修订 
+revitalize 振兴 
+revival 复兴 
+revive 恢复 
+revoke 撤销 
+revolt 反抗 
+revolution 革命 
+revolutionary 革命 
+revolve 旋转 
+revulsion 厌恶 
+reward 奖励 
+rewind 倒带 
+rhinoceros 犀牛 
+rhyme 押韵 
+rhythm 节奏 
+rib 肋骨 
+ribbon 丝带 
+rice 大米 
+rich 丰富的 
+rickety 摇摇晃晃的 
+rid 掉 
+ridden 骑 
+riddle 谜题 
+ride 骑 
+ridge 脊 
+ridiculous 荒谬的 
+rifle 步枪 
+rig 钻井平台 
+right 正确的 
+righteous 公义的 
+rigid 刚性 
+rigor 严格 
+rigorous 严格的 
+rim rim 
+ring 环 
+rinse 冲洗 
+riot 防暴 
+rip 把 
+ripe 成熟的 
+ripen 成熟 
+rise 上升 
+risen 上升 
+risk 风险 
+rite 仪式 
+ritual 仪式 
+rival 竞争对手 
+rivalry 竞争 
+river 河 
+road 路 
+roam 漫游 
+roar 咆哮 
+roast 烤 
+rob 罗伯 
+robber 强盗 
+robbery 抢劫 
+robe 长袍 
+robot 机器人 
+robotic 机器人 
+robust 健壮的 
+rock 岩石 
+rocket 火箭 
+rod 杆 
+rode 骑 
+rodent 啮齿动物 
+rodeo 牛仔竞技表演 
+roe 罗伊 
+role 角色 
+roll 卷 
+roller 辊 
+Roman 罗马 
+romance 浪漫 
+romantic 浪漫的 
+rome 罗马 
+roof 屋顶 
+room 房间 
+roost 栖息 
+root 根 
+rope 绳子 
+rose 玫瑰 
+rot 腐烂 
+rotary 旋转 
+rotate 旋转 
+rotation 旋转 
+rotten 腐烂的 
+rough 粗糙的 
+roughly 约 
+round 轮 
+roundabout 环形交叉路口 
+rouse 劳斯 
+route 路线 
+routine 例程 
+row 行 
+royal 皇家 
+royalty 皇室 
+rub 摩擦 
+rubber 橡胶 
+rubbish 垃圾 
+rubble 废墟 
+ruby ruby 
+rudder 舵 
+rude 粗鲁的 
+rudimentary 基本的 
+rug 地毯 
+rugged 崎岖的 
+ruin 毁了 
+rule 规则 
+ruler 统治者 
+rumor 谣言 
+rumour 谣言 
+run-down 破败的 
+run 运行 
+rung 响 
+rupture 破裂 
+rural 农村 
+rush 冲 
+Russia 俄罗斯 
+Russian 俄罗斯 
+rust 生锈 
+rustic 乡村 
+rustproof 不锈的 
+rusty 生锈的 
+ruthless 无情的 
+sac 囊 
+sack 袋 
+sacred 神圣的 
+sacrifice 牺牲 
+sacrificial 牺牲 
+sad 悲伤的 
+saddle 鞍 
+sadly 可悲的是 
+sadness 悲伤 
+safe 安全 
+safeguard 维护 
+safekeeping 保管 
+safety 安全 
+saga 传奇 
+said 说 
+sail 帆 
+sailor 水手 
+saint 圣 
+sake 为了 
+salad 沙拉 
+salamander 火蜥蜴 
+salary 工资 
+sale 出售 
+salesgirl 女售货员 
+salesman 推销员 
+salient 突出 
+saline 生理盐水 
+salinity 盐度 
+salmon 大马哈鱼 
+salmonella 沙门氏菌 
+salon 沙龙 
+salt 盐 
+salty 咸 
+salute 敬礼 
+salvation 救恩 
+same 相同 
+sample 样本 
+sanction 制裁 
+sanctuary 圣所 
+sand 沙子 
+sandwich 三明治 
+sandy 桑迪 
+sane 理智的 
+sang 唱 
+sanguine 乐观 
+sanitary 卫生 
+sanitation 环境卫生 
+sap sap 
+sapphire 蓝宝石 
+sarcastic 讽刺的 
+sarcastically 讽刺地 
+sardine 沙丁鱼 
+sat 坐 
+satellite 卫星 
+satiation 饱食 
+satire 讽刺 
+satiric 讽刺的 
+satisfaction 满意度 
+satisfactory 令人满意的 
+satisfy 满足 
+saturate 饱和 
+saturation 饱和 
+Saturday 周六 
+Saturn 土星 
+sauce 酱汁 
+saucer 飞碟 
+sauerkraut 泡菜 
+sausage 香肠 
+savage 野蛮人 
+savannah 萨凡纳 
+save 保存 
+saving 储蓄 
+savour 品味 
+saw 看到 
+say 说 
+saying 说 
+scale 规模 
+scaly 有鳞的 
+scan 扫描 
+scandal 丑闻 
+scanty 稀疏的 
+scar 疤痕 
+scarce 稀缺的 
+scarcely 几乎没有 
+scare 恐慌 
+scarf 围巾 
+scatter 散射 
+scavenger 食腐动物 
+scenario 场景 
+scene 场景 
+scenery 风景 
+scent 气味 
+sceptical 持怀疑态度 
+schedule 时间表 
+scheme 计划 
+scholar 学者 
+scholarship 奖学金 
+school 学校 
+schoolbag 书包 
+schoolboy 小学生 
+schoolgirl 女学生 
+schoolmate 同学 
+science 科学 
+scientific 科学 
+scientist 科学家 
+scissors 剪刀 
+scold 骂 
+scoop 独家新闻 
+scope 范围 
+scorch 烧焦 
+scorching 灼热的 
+score 分数 
+scorn 嘲笑 
+scornfully 轻蔑地 
+scour 冲刷 
+scout 童子军 
+scramble 争夺 
+scrap 废 
+scrape 刮 
+scratch 刮伤 
+scream 尖叫 
+screen 屏幕 
+screw 螺杆 
+script 脚本 
+scrub 擦洗 
+scruffy 邋遢的 
+scrupulous 一丝不苟的 
+scrutiny 审查 
+scuba 潜水 
+scuffle 混战 
+sculpt 雕刻 
+sculptor 雕塑家 
+sculpture 雕塑 
+scurry 匆匆 
+sea 海 
+seagull 海鸥 
+seal 密封 
+seam 缝 
+seaman 水手 
+seaport 海港 
+search 搜索 
+seashell 海贝 
+seashore 海滨 
+seasick 晕船 
+seaside 海边 
+season 季节 
+seasonal 季节性 
+seasoning 调味料 
+seat 座位 
+seaweed 海藻 
+seclude 使隔绝 
+seclusion 隐居 
+second 第二个 
+secondary 二次 
+secondly 其次 
+secret 秘密 
+secretary 秘书 
+secretive 秘密 
+section 部分 
+sector 部门 
+secure 安全 
+security 安全 
+sedentary 久坐不动的 
+sediment 沉积物 
+sedimentary 沉积 
+seduce 勾引 
+see 看到 
+seed 种子 
+seek 寻求 
+seem 似乎 
+seemingly 看似 
+seen 见过 
+seep 渗透 
+segment 段 
+segregate 隔离 
+seismic 地震 
+seismograph 地震仪 
+seismology 地震学 
+seismometer 地震检波器 
+seize 抓住 
+seldom 很少 
+select 选择 
+selection 选择 
+selective 有选择性的 
+self-discipline 自律 
+self-esteem 自尊 
+self-respecting 有自尊心的 
+self 自我 
+selfish 自私的 
+sell 出售 
+seller 卖方 
+semantic 语义 
+semester 学期 
+semicircle 半圆 
+semiconductor 半导体 
+seminar 研讨会 
+senate 参议院 
+senator 参议员 
+send 发送 
+senior 高级 
+sensation 感觉 
+sensational 轰动一时的 
+sense 感觉 
+sensible 明智的 
+sensitive 敏感的 
+sensor 传感器 
+sensory 感觉 
+sensual 性感的 
+sent 发送 
+sentence 句子 
+sentient 有知觉的 
+sentiment 情绪 
+sentimental 伤感 
+seoul 首尔 
+separate 单独的 
+separately 分别 
+separation 分离 
+September 9月 
+sequence 序列 
+sequoia 红杉资本 
+serenity 宁静 
+sergeant 中士 
+serial 串行 
+series 系列 
+serious 严重的 
+seriously 认真 
+servant 仆人 
+serve 服务 
+service 服务 
+session 会话 
+set 集 
+setback 挫折 
+setting 设置 
+settle 解决 
+settlement 结算 
+settler 定居者 
+seven 七个 
+seventeen 十七岁 
+seventh 第七 
+seventy 七十年 
+several 几个 
+severe 严重的 
+severely 严重 
+sew 缝 
+sewage 污水 
+sewerage 污水 
+sex 性 
+sexual 性 
+shabby 破旧的 
+shade 阴影 
+shadow 影子 
+shady 阴暗的 
+shaft 轴 
+shake 摇 
+shaken 动摇了 
+shall 应 
+shallow 浅 
+sham 虚假的 
+shame 羞愧 
+shampoo 洗发水 
+shape 形状 
+share 分享 
+shareholder 股东 
+shark 鲨鱼 
+sharp 锋利的 
+sharpen 锐化 
+sharply 大幅 
+shatter 粉碎 
+shave 刮胡子 
+shaver 剃须刀 
+shawl 披肩 
+she 她 
+shear 剪切 
+sheath 鞘 
+shed 流 
+sheep 羊 
+sheer 纯粹的 
+sheet 表 
+shelf 架子上 
+shell 壳牌 
+shellfish 贝类 
+shelter 避难所 
+sheltered 庇护 
+shelves 货架上 
+shepherd 牧羊人 
+sheriff 治安官 
+shield 盾 
+shift 转变 
+shilling 先令 
+shin 胫骨 
+shine 发光 
+shined 照耀 
+shining 闪亮的 
+ship 船 
+shipment 装运 
+shipwright 造船工人 
+shirt 衬衫 
+shiver 颤抖 
+shoal shoal 
+shock 冲击 
+shoe 鞋 
+shone 照 
+shook 摇了摇 
+shoot 拍摄 
+shop 商店 
+shopkeeper 店主 
+shopping 购物 
+shore 海岸 
+short-term 短期 
+short 短 
+shortage 短缺 
+shortcoming 缺点 
+shorthand 速记 
+shortly 不久 
+shorts 短裤 
+shot 拍摄 
+should 应该 
+shoulder 肩膀 
+shout 喊 
+shove 推 
+shovel 铲 
+show 显示 
+showed 显示 
+shower 淋浴 
+shown 所示 
+shrewd 精明的 
+shriek 尖叫 
+shrimp 虾 
+shrink 缩小 
+shrivel 枯萎 
+shroud 裹尸布 
+shrub 灌木 
+shrug 耸耸肩 
+shudder 不寒而栗 
+shuffle 洗牌 
+shun 避开 
+shut 关闭 
+shutter 快门 
+shuttle 航天飞机 
+shy 害羞的 
+siberian 西伯利亚 
+sick 生病的 
+sickness 病 
+side 一边 
+sidewalk 人行道上 
+sideways 横盘整理 
+siege 围攻 
+siesta 午睡 
+sieve 筛 
+sift 筛选 
+sigh 叹息 
+sight 视线 
+sightseeing 观光 
+sign 标志 
+signal 信号 
+signature 签名 
+significance 意义 
+significant 重要的 
+significantly 显著 
+signify 表示 
+signor 已婚男性 
+signpost 路标 
+silence 沉默 
+silent 沉默 
+silica 硅 
+silicate 硅酸盐 
+silicon 硅 
+silk 丝绸 
+silly 愚蠢的 
+silt 淤泥 
+silver 银 
+silversmith 银匠 
+silverware 银器 
+similar 类似的 
+similarity 相似 
+similarly 类似的 
+simmer 炖 
+simple 简单的 
+simplicity 简单 
+simplify 简化 
+simplistic 简单的 
+simply 简单的 
+simulate 模拟 
+simulation 模拟 
+simultaneous 同时 
+sin 罪 
+since 自 
+sincere 真诚的 
+sincerely 真诚 
+sincerity 真诚 
+sinew 筋 
+sing 唱 
+singer 歌手 
+single 单 
+singular 单数 
+sinister 邪恶的 
+sink 水槽 
+sinuous 蜿蜒的 
+sip sip 
+sir 先生 
+sire 陛下 
+siren 塞壬 
+sister 妹妹 
+sit 坐 
+site 网站 
+situated 位于 
+situation 情况 
+six 六个 
+sixteen 十六岁 
+sixteenth 16 
+sixth 第六 
+sixty 六十 
+sizable 相当大的 
+size 大小 
+sizeable 相当大的 
+skate 滑冰 
+skeletal 骨骼 
+skeleton 骨架 
+skeptical 持怀疑态度 
+sketch 草图 
+skew 斜 
+ski 滑雪 
+skier 滑雪 
+skilful 技术娴熟的 
+skill 技能 
+skilled 熟练的 
+skillful 熟练的 
+skim 脱脂 
+skin 皮肤 
+skip 跳过 
+skirmish 冲突 
+skirt 裙子 
+skull 头骨 
+sky 天空 
+skyscraper 摩天大楼 
+slack 松弛 
+slacken 放松 
+slam 大满贯 
+slander 诽谤 
+slap 耳光 
+slash 削减 
+slat 板条 
+slaughter 屠杀 
+slave 奴隶 
+slavery 奴隶制 
+sled 雪橇 
+sledding 滑雪橇 
+sledge 雪橇 
+sleek 光滑的 
+sleep 睡眠 
+sleeper 卧铺 
+sleepy 困了 
+sleeve 袖 
+slender 纤细的 
+slept 睡 
+slice 片 
+slick 浮油 
+slide 幻灯片 
+slight 轻微的 
+slightly 略 
+slim 苗条的 
+slip 滑 
+slipper 拖鞋 
+slippery 湿滑的 
+slit 狭缝 
+slog 步履艰难地行 
+slogan 口号 
+slope 坡 
+slot 槽 
+sloth 懒惰 
+slothful 懒惰的 
+slouch 懒散的样子 
+slow 慢 
+slowly 慢慢地 
+sluggish 缓慢 
+slum 贫民窟 
+slumber 睡眠 
+slump 衰退 
+slur 拖着脚走 
+slurry 泥浆 
+sluttish 不端庄的 
+sly 狡猾的 
+small 小 
+smart 聪明的 
+smash 粉碎 
+smear 涂片 
+smell 气味 
+smelled 闻起来 
+smelt 胡瓜鱼 
+smile 微笑 
+smog 烟雾 
+smoke 烟 
+smooth 光滑的 
+smoothly 顺利 
+smother 令人窒息的 
+smuggle 走私 
+smuggler 走私者 
+snack 零食 
+snag 障碍 
+snail 蜗牛 
+snake 蛇 
+snap 提前 
+snatch 抓举 
+sneak 偷偷摸摸的行为 
+sneaker 运动鞋 
+sneer 冷笑 
+sneeze 打喷嚏 
+sniff 嗅嗅 
+snob 势利小人 
+snobbery 势利 
+snobbish 势利的 
+snore 打鼾 
+snout 鼻子 
+snow 雪 
+snowflake 雪花 
+snowstorm 暴风雪 
+snowy 雪 
+so-called 所谓的 
+so 所以 
+soak 浸泡 
+soap 肥皂 
+soar 高飞 
+sob 发出呜咽声 
+sober 清醒的 
+soccer 足球 
+sociable 善于交际 
+social 社会 
+socialism 社会主义 
+socialist 社会主义 
+socialize 社交 
+society 社会 
+sociologist 社会学家 
+sociology 社会学 
+sock 袜子 
+socket 套接字 
+soda 苏打水 
+sodium 钠 
+sofa 沙发 
+soft 软 
+software 软件 
+soil 土壤 
+solar 太阳能 
+sold 出售 
+solder 焊料 
+soldier 士兵 
+sole 唯一的 
+solely 仅仅 
+solemn 庄严的 
+solicit 征求 
+solicitor 律师 
+solid 固体 
+solidarity 团结 
+solidify 巩固 
+solitary 孤独的 
+solitude 孤独 
+solo 独奏 
+soloist 独奏者 
+soluble 可溶性 
+solution 解决方案 
+solve 解决 
+some 一些 
+somebody 有人 
+somehow 在某种程度上 
+someone 一个人 
+something 的东西 
+sometime 的某个时候 
+sometimes 有时 
+somewhat 有些 
+somewhere 的某个地方 
+son 儿子 
+song 首歌 
+soon 很快 
+soothe 安抚 
+sophisticate 久经世故的人 
+sophisticated 复杂的 
+sophistication 复杂 
+sophomore 二年级学生 
+soprano 女高音 
+sore 痛 
+sorrow 悲伤 
+sorry 对不起 
+sort 排序 
+soul 灵魂 
+sound 声音 
+sounding 听起来 
+soundly 得很熟 
+soup 汤 
+sour 酸 
+source 源 
+south 南 
+southeast 东南 
+southern 南部 
+southwest 西南 
+souvenir 纪念品 
+sovereign 主权 
+Soviet 苏联 
+sow 播种 
+soybean 大豆 
+space 空间 
+spacecraft 宇宙飞船 
+spaceship 宇宙飞船 
+spacious 宽敞的 
+spade 铲 
+spaghetti 意大利面 
+Spain 西班牙 
+span 跨度 
+Spanish 西班牙语 
+spare 备用 
+spark 火花 
+sparkle 闪耀 
+sparrow 麻雀 
+sparse 稀疏的 
+spasm 痉挛 
+spasmodic 间歇性的 
+spatial 空间 
+spawn 产卵 
+speak 说话 
+speaker 演讲者 
+spear 矛 
+special 特殊的 
+specialise 专门研究 
+specialist 专家 
+speciality 专业 
+specialize 专业 
+specialized 专业 
+specially 特别 
+specialty 专业 
+species 物种 
+specific 具体的 
+specifically 具体地说 
+specification 规范 
+specify 指定 
+specimen 标本 
+spectacle 场面 
+spectacular 壮观的 
+spectator 观众 
+spectrum 光谱 
+speculate 推测 
+speculation 投机 
+speculative 投机 
+speech 演讲 
+speed 速度 
+speedboat 快艇 
+spell 拼写 
+spelling 拼写 
+spend 花 
+spent 花了 
+spew 排放 
+sphere 球 
+spherical 球形 
+spice 香料 
+spicy 辣的 
+spider 蜘蛛 
+spill 泄漏 
+spin 自旋 
+spine 脊柱 
+spinet 小型立式钢琴 
+spinning 旋转 
+spiny 多刺的 
+spiral 螺旋 
+spire 尖塔 
+spirit 精神 
+spiritual 精神上的 
+spit 随地吐痰 
+spite 尽管 
+spiteful 恶意的 
+splash 飞溅 
+splendid 灿烂的 
+splint 夹板 
+split 分裂 
+spoil 破坏 
+spoilage 腐败 
+spoke 说话 
+spoken 口语 
+spokesman 发言人 
+spokeswoman 发言人 
+sponge 海绵 
+sponsor 赞助商 
+spontaneity 自发性 
+spontaneous 自发的 
+spoon 勺子 
+sport 体育运动 
+sportsman 运动员 
+spot 现货 
+spouse 配偶 
+sprawl 扩张 
+spray 喷雾 
+spread 传播 
+sprig 用钉子钉上 
+spring 春天 
+springtime 春天 
+sprinkle 撒上 
+sprout 发芽 
+spun 旋转 
+spur 刺激 
+spy 间谍 
+squabble 争吵 
+squad 队 
+squadron 中队 
+squall 暴风 
+square 广场 
+squash 南瓜 
+squeak 吱吱声 
+squeeze 挤压 
+squid 鱿鱼 
+squint 斜视 
+squirrel 松鼠 
+squirt 喷射 
+stab 刺 
+stabilise 稳定 
+stability 稳定 
+stabilize 稳定 
+stable 稳定的 
+stack 堆栈 
+stadium 体育场 
+staff 工作人员 
+stage 阶段 
+stagger 错开 
+staggering 惊人的 
+stagnant 停滞不前的 
+stagnate 停滞不前 
+stain 染色 
+stainless 不锈钢 
+stair 楼梯 
+staircase 楼梯 
+stairway 楼梯 
+stake 股份 
+stalactite 钟乳石 
+stalagmite 石笋 
+stale 不新鲜的 
+stalk 茎 
+stall 摊位 
+stammer 结结巴巴地说 
+stamp 邮票 
+stance 的立场 
+stand 站 
+standard 标准 
+standpoint 的角度来看 
+stanza 节 
+staple 主食 
+star 明星 
+starboard 右舷 
+starch 淀粉 
+starchy 淀粉类 
+stardom 明星 
+stare 盯着看 
+stark 斯塔克 
+start 开始 
+startle 惊吓 
+startling 令人吃惊的 
+starvation 饥饿 
+starve 饿死 
+stash 藏 
+state 状态 
+statement 声明 
+statesman 政治家 
+static 静态 
+station 站 
+stationary 静止的 
+stationery 文具 
+statistic 统计 
+statistical 统计 
+statistics 统计数据 
+statue 雕像 
+stature 身材 
+status 状态 
+statute 法令 
+stay 保持 
+steadily 稳步 
+steady 稳定的 
+steak 牛排 
+steal 偷 
+steam 蒸汽 
+steamer 轮船 
+steamship 轮船 
+steel 钢 
+steep 陡峭的 
+steepen 变陡峭 
+steer 引导 
+stellar 恒星 
+stem 阀杆 
+step 一步 
+stereo 立体声 
+stereoscopic 立体 
+stereotype 刻板印象 
+sterile 无菌 
+sterilize 消毒 
+stern 斯特恩 
+stew 炖肉 
+steward 管家 
+stewardess 空姐 
+stick 坚持 
+sticky 黏糊糊的 
+stiff 僵硬的 
+stiffen 变硬 
+still 仍然 
+stimulate 刺激 
+stimulation 刺激 
+stimulus 刺激 
+sting 刺痛 
+stint 工作 
+stipulate 规定 
+stir 搅拌 
+stitch 针 
+stock 股票 
+stockholm 斯德哥尔摩 
+stocking 长袜 
+stockpile 储备 
+stole 偷了 
+stolen 偷来的 
+stomach 胃 
+stone 石头 
+stony 多石的 
+stood 站在 
+stool 凳子 
+stoop 弯腰 
+stop 停止 
+storage 存储 
+store 商店 
+storey 层 
+storm 风暴 
+stormy 狂风暴雨的 
+story 故事 
+storyline 故事情节 
+stout 结实的 
+stove 炉子 
+straggle 迷路 
+straight 直 
+straightforward 直截了当的 
+strain 应变 
+strait 海峡 
+strand 链 
+strange 奇怪的 
+stranger 陌生人 
+strap 带 
+strata 地层 
+strategic 战略 
+strategist 策略师 
+strategy 策略 
+stratigraphy 地层学 
+stratum 地层 
+straw 稻草 
+strawberry 草莓 
+stray 流浪 
+streak 条纹 
+stream 流 
+streamline 简化 
+street 街 
+strength 强度 
+strengthen 加强 
+strenuous 艰苦的 
+stress 压力 
+stretch 拉伸 
+strict 严格的 
+strictly 严格 
+stride 步 
+strife 冲突 
+strike 罢工 
+striking 引人注目的 
+string 字符串 
+stringent 严格的 
+strip 带 
+stripe 条纹 
+strive 努力 
+stroke 中风 
+stroll 漫步 
+strong-minded 有主见的 
+strong 强大的 
+strongly 强烈 
+struck 了 
+structural 结构 
+structure 结构 
+struggle 斗争 
+strychnine 马钱子碱 
+stubborn 顽固的 
+stuck 卡住了 
+student 学生 
+studio 工作室 
+studious 好学 
+study 研究 
+stuff 的东西 
+stuffy 闷热的 
+stumble 跌倒 
+stump 树桩 
+stun 眩晕 
+stunt 特技 
+stupid 愚蠢的 
+sturdy 坚固的 
+style 风格 
+stylish 时尚的 
+stylistic 文体 
+subdue 制服 
+subject 主题 
+subjective 主观的 
+subliminal 阈下 
+submarine 潜艇 
+submerge 淹没 
+submission 提交 
+submissive 顺从的 
+submit 提交 
+subordinate 下属 
+subscribe 订阅 
+subscription 订阅 
+subsequent 后续 
+subservient 有帮助的 
+subsidiary 子公司 
+subsidise 补贴 
+subsidize 补贴 
+subsidy 补贴 
+subsist 生存 
+subsistence 生存 
+subsoil 底土 
+subspecies 亚种 
+substance 物质 
+substantial 实质性的 
+substantiate 证实 
+substantive 实质性的 
+substitute 替代 
+substitution 替换 
+subtle 微妙的 
+subtract 减去 
+subtropical 亚热带 
+suburb 郊区 
+suburban 郊区 
+subversive 颠覆性的 
+subway 地铁 
+succeed 成功 
+success 成功 
+successful 成功的 
+succession 继承 
+successive 连续的 
+successor 的继任者 
+succumb 屈服 
+such 这样的 
+suck 吸 
+sucker 抽油 
+sudden 突然 
+suddenly 突然 
+sue 苏 
+suffer 遭受 
+suffering 痛苦 
+suffice 足够了 
+sufficient 足够的 
+sufficiently 足够 
+suffragist 妇女政权论者 
+sugar 糖 
+suggest 建议 
+suggestion 建议 
+suicidal 自杀 
+suicide 自杀 
+suit 西装 
+suitable 合适的 
+suitcase 手提箱 
+suite 套件 
+sulfur 硫 
+sulphur 硫 
+sum 总和 
+summarise 总结 
+summarize 总结 
+summary 总结 
+summer 夏天 
+summit 峰会 
+summon 召唤 
+sumptuous 华丽的 
+sun 太阳 
+Sunday 周日 
+sundial 日晷 
+sung 唱 
+sunken 沉 
+sunlight 阳光 
+sunny 阳光明媚的 
+sunrise 日出 
+sunset 日落 
+sunshine 阳光 
+super 超级 
+superb 一流的 
+superficial 肤浅的 
+superfluous 多余的 
+superintendent 负责人 
+superior 优越的 
+superiority 优势 
+supermarket 超市 
+supernatural 超自然的 
+supersede 取代 
+supersonic 超音速 
+superstition 迷信 
+superstitious 迷信的 
+supervise 监督 
+supervision 监督 
+supervisor 主管 
+supper 晚餐 
+supplant 取代 
+supplement 补充 
+supplementary 补充 
+supply 供应 
+support 支持 
+supportive 支持 
+suppose 假设 
+suppress 抑制 
+suppression 抑制 
+supreme 最高 
+sure 确定 
+surf 冲浪 
+surface 表面 
+surge 飙升 
+surgeon 外科医生 
+surgery 手术 
+surname 姓 
+surpass 超越 
+surplus 盈余 
+surprise 惊喜 
+surprising 令人惊讶的 
+surprisingly 令人惊讶的是 
+surrender 投降 
+surround 环绕 
+surrounding 周围 
+surroundings 周围的环境 
+surveillance 监测 
+survey 调查 
+survival 生存 
+survive 生存 
+survivor 幸存者 
+susceptible 易受影响 
+suspect 怀疑 
+suspend 暂停 
+suspension 悬架 
+suspicion 怀疑 
+suspicious 可疑的 
+sustain 维持 
+sustainable 可持续发展的 
+sustenance 食物 
+swallow 吞下 
+swam 游 
+swamp 沼泽 
+swan 天鹅 
+swap 交换 
+swarm 群 
+sway 影响 
+swear 发誓 
+sweat 汗水 
+sweater 毛衣 
+sweden 瑞典 
+swedish 瑞典 
+sweep 扫描 
+sweeping 全面 
+sweet 甜蜜的 
+swell 膨胀 
+swept 横扫 
+swerve 偏离的程度 
+swift 斯威夫特 
+swim 游泳 
+swimming 游泳 
+swing 摇摆不定的 
+Swiss 瑞士 
+switch 开关 
+swivel 旋转 
+swoop 突然袭击 
+sword 剑 
+swum 游 
+sydney 悉尼 
+syllable 音节 
+symbol 象征 
+symbolic 象征性的 
+symbolism 象征意义 
+symbolize 象征着 
+symmetry 对称 
+sympathetic 富有同情心的 
+sympathetically 同情地 
+sympathise 同情 
+sympathize 同情 
+sympathy 同情 
+symphony 交响乐团 
+symposium 研讨会 
+symptom 症状 
+synchronise 同步 
+synchronize 同步 
+syndrome 综合症 
+synonym 同义词 
+synthesis 合成 
+synthesize 合成 
+synthetic 合成 
+syrup 糖浆 
+system 系统 
+systematic 系统的 
+T-shirt t恤 
+tab 选项卡 
+table 表 
+tableland 高原 
+tablet 平板电脑 
+taboo 禁忌 
+tack 策略 
+tackle 解决 
+tactic 策略 
+tadpole 蝌蚪 
+tag 标签 
+tail 尾巴 
+tailor 裁缝 
+take 取 
+taken 采取 
+tale 故事 
+talent 人才 
+talk 说话 
+tall 高 
+tally 理货 
+tame 驯服 
+tan 棕褐色 
+tangible 有形的 
+tangibly 明白地 
+tangle 纠结 
+tank 坦克 
+tanker 油轮 
+tannish 浅棕色的 
+tantalizing 诱人的 
+tap 利用 
+tape 磁带 
+tar 焦油 
+target 目标 
+tariff 关税 
+tarnish 玷污 
+task 任务 
+taste 味道 
+tasteless 无味的 
+tasty 美味的 
+taught 教 
+taunt 嘲讽 
+tavern 酒馆 
+tax 税 
+taxi 出租车 
+taxpayer 纳税人 
+tea 茶 
+teach 教 
+teacher 老师 
+team 团队 
+teamwork 团队合作 
+teapot 茶壶 
+tear 眼泪 
+tease 取笑 
+teaspoonful 一茶匙的量 
+technical 技术 
+technically 从技术上讲 
+technician 技术员 
+technique 技术 
+technological 技术 
+technology 技术 
+tectonics 构造 
+tedious 单调乏味的 
+tedium 单调乏味 
+teem 倒出 
+teenager 少年 
+teeth 牙齿 
+telecommunication 电信 
+telegram 电报 
+telegraph 电报 
+telephone 电话 
+telescope 望远镜 
+television 电视 
+tell 告诉 
+temper 脾气 
+temperament 气质 
+temperate 温带 
+temperature 温度 
+temple 寺庙 
+tempo 节奏 
+temporary 临时 
+tempt 诱惑 
+temptation 诱惑 
+ten 十 
+tenable 站得住脚的 
+tenant 租户 
+tend 往往 
+tendency 趋势 
+tender 温柔的 
+tendon 肌腱 
+tenement 租房子 
+tennis 网球 
+tense 紧张的 
+tensile 抗拉 
+tension 张力 
+tent 帐篷 
+tentacle 触手 
+tentative 试探性的 
+tenth 第十 
+tenuous 脆弱的 
+term 术语 
+terminal 终端 
+terminate 终止 
+terminology 术语 
+terminus 终点站 
+termite 白蚁 
+terrace 阳台 
+terrain 地形 
+terrestrial 陆地 
+terrible 可怕的 
+terribly 非常 
+terrific 很棒的 
+terrify 吓到 
+territory 领土 
+terror 恐怖 
+test 测试 
+testify 作证 
+testimony 证词 
+tether 系绳 
+text 文本 
+textbook 教科书 
+textile 纺织 
+texture 纹理 
+thai 泰国 
+thailand 泰国 
+than 比 
+thank 谢谢 
+thankful 感激 
+thanks 谢谢 
+Thanksgiving 感恩节 
+that 那 
+thaw 解冻 
+the 的 
+theater 剧院 
+theatre 剧院 
+theft 盗窃 
+their 他们的 
+theirs 他们的 
+them 他们 
+theme 主题 
+themselves 自己 
+then 然后 
+theoretical 理论 
+theory 理论 
+therapy 治疗 
+there 在那里 
+thereafter 之后 
+thereby 从而 
+therefore 因此 
+thermal 热 
+thermodynamics 热力学 
+thermometer 温度计 
+thermos 热水瓶 
+these 这些 
+thesis 论文 
+they 他们 
+thick 厚 
+thickness 厚度 
+thief 小偷 
+thigh 大腿 
+thin 薄 
+thing 的事情 
+think 认为 
+thinking 思考 
+third 第三 
+thirst 渴 
+thirstily 如饥似渴地 
+thirsty 渴了 
+thirteen 13 
+thirteenth 十三 
+thirtieth 第三十 
+thirty 三十 
+this 这 
+thither 那里 
+thorn 刺 
+thorny 棘手的 
+thorough 彻底的 
+those 那些 
+though 虽然 
+thought 认为 
+thoughtful 深思熟虑的 
+thousand 千 
+thread 线程 
+threat 威胁 
+threaten 威胁 
+three 三个 
+thresh 打 
+threshold 阈值 
+threw 扔了 
+thrift 节俭 
+thrifty 节俭的 
+thrill 兴奋 
+thrive 茁壮成长 
+throat 喉咙 
+throne 宝座 
+throng 人群 
+through 通过 
+throughout 在 
+throw 扔 
+thrown 扔 
+thrust 推力 
+thumb 拇指 
+thunder 雷声 
+thunderstorm 雷雨 
+Thursday 周四 
+thus 因此 
+thwart 阻挠 
+tick 蜱虫 
+ticket 票 
+tickle 逗 
+ticklish 痒 
+tide 潮 
+tidy 整洁 
+tie 领带 
+tiger 老虎 
+tight 紧 
+tighten 收紧 
+tile 瓷砖 
+till 直到 
+tillable 可耕种的 
+tilt 倾斜 
+timber 木材 
+time 时间 
+timely 及时的 
+timetable 时间表 
+timid 胆小 
+tin 锡 
+tinker 修改 
+tint 色彩 
+tiny 小 
+tip 提示 
+tipster 情报贩子 
+tire 轮胎 
+tired 累了 
+tiresome 烦人的 
+tissue 组织 
+title 标题 
+to 来 
+toast 烤面包 
+tobacco 烟草 
+today 今天 
+toe 脚趾 
+toed 用脚尖踢 
+together 在一起 
+toil 辛劳 
+toilet 厕所。。。 
+token 令牌 
+Tokyo 东京 
+told 告诉 
+tolerance 宽容 
+tolerant 宽容 
+tolerate 容忍 
+toll 人数 
+tomato 番茄 
+tomb 墓 
+tome 多美 
+tomorrow 明天 
+ton 吨 
+tone 语气 
+tongue 舌头 
+tonight 今晚 
+too 太 
+took 花了 
+tool 工具 
+tooth 牙 
+toothache 牙痛 
+toothbrush 牙刷 
+toothpaste 牙膏 
+top 前 
+topic 主题 
+topographical 地形 
+topography 地形 
+topple 推翻 
+topsoil 表层土 
+torch 火炬 
+torchlight 手电筒的光 
+torment 折磨 
+tornado 龙卷风 
+torpedo 鱼雷 
+torpor 麻木 
+torrent 洪流 
+tortoise 乌龟 
+torture 酷刑 
+toss 扔 
+total 总 
+touch 触摸 
+tough 艰难的 
+tour 之旅 
+tourism 旅游 
+tourist 旅游 
+tournament 比赛 
+tow 拖 
+toward 向 
+towards 对 
+towel 毛巾 
+tower 塔 
+towering 高耸的 
+town 小镇 
+townscape 城镇的风景 
+toxic 有毒 
+toxin 毒素 
+toy 玩具 
+toyota 丰田 
+trace 跟踪 
+track 跟踪 
+tract 束 
+tractor 拖拉机 
+trade 贸易 
+trademark 商标 
+tradition 传统 
+traditional 传统的 
+traffic 交通 
+tragedy 悲剧 
+tragic 悲剧 
+trail 小道 
+train 火车 
+training 培训 
+trait 特征 
+traitor 叛徒 
+tram 有轨电车 
+tramp 流浪汉 
+tranquility 宁静 
+transaction 事务 
+transcend 超越 
+transcribe 抄写 
+transcript 成绩单 
+transcription 转录 
+transfer 转移 
+transform 变换 
+transformation 转换 
+transformer 变压器 
+transient 瞬态 
+transistor 晶体管 
+transit 交通 
+transition 过渡 
+translate 翻译 
+translation 翻译 
+translator 翻译 
+translucent 半透明的 
+transmission 传输 
+transmit 传输 
+transmitter 发射机 
+transmute 转化 
+transparent 透明的 
+transplant 移植 
+transport 运输 
+transportation 运输 
+transverse 横向 
+trap 陷阱 
+trapeze 秋千 
+trash 垃圾 
+travel 旅行 
+traverse 遍历 
+tray 托盘 
+tread 胎面 
+treadmill 跑步机 
+treason 叛国罪 
+treasure 宝 
+treat 治疗 
+treatise 论文 
+treatment 治疗 
+treaty 条约 
+tree 树 
+trek 长途跋涉 
+tremble 颤抖 
+tremendous 巨大的 
+tremor 地震 
+trench 沟 
+trend 趋势 
+trespass 侵权行为 
+trial 试验 
+triangle 三角形 
+tribal 部落 
+tribe 部落 
+tributary 支流 
+tribute 致敬 
+trick 技巧 
+trickle 细流 
+tricycle 三轮车 
+trifle 蛋糕 
+trifling 微不足道的 
+trigger 触发 
+trilogy 三部曲 
+trim 修剪 
+trimester 三个月 
+trinket 小装饰品 
+trip 旅行 
+triple 三倍 
+triumph 胜利 
+triumphant 胜利的 
+trivial 微不足道的 
+trivialize 使平凡 
+trolley 电车 
+trolleybus 无轨电车 
+troop 部队 
+tropic 热带 
+tropical 热带 
+tropospheric 对流层 
+trouble 麻烦 
+troublesome 麻烦 
+trough 槽 
+troupe 剧团 
+trousers 裤子 
+truant 逃学的 
+truce 停火协议 
+truck 卡车 
+true 真正的 
+truly 真正的 
+trumpet 小号 
+trunk 树干 
+trust 信任 
+trustworthy 值得信赖的 
+truth 真理 
+try 试一试 
+tub 浴缸 
+tube 管 
+tuck 塔克 
+Tuesday 周二 
+tug 拖轮 
+tuition 学费 
+tumble 下跌 
+tumour 肿瘤 
+tundra 苔原 
+tune 调优 
+tunnel 隧道 
+turbid 浑浊的 
+turbine 涡轮 
+turbulent 动荡不安的 
+turkey 土耳其 
+turkish 土耳其 
+turmoil 动荡 
+turn 转 
+turning 把 
+turnip 萝卜 
+turnover 营业额 
+turnpike 收费高速公路 
+turret 炮塔 
+turtle 乌龟 
+tusk 图斯克 
+tussle 争斗 
+tutor 导师 
+tutorial 教程 
+TV 电视 
+twelfth 十二 
+twelve 十二个 
+twentieth 二十 
+twenty 二十 
+twice 两次 
+twin 双胞胎 
+twine 线 
+twinkle 闪烁 
+twinkling 闪烁的 
+twist 扭 
+twitter 推特 
+two 两个 
+twofold 双重的 
+tycoon 大亨 
+type 类型 
+typewriter 打字机 
+typhoon 台风 
+typical 典型的 
+typify 代表 
+typist 打字员 
+tyre 轮胎 
+ugly 丑陋的 
+ulterior 不可告人的 
+ultimate 最终 
+ultimately 最终 
+ultimatum 最后通牒 
+ultraviolet 紫外线 
+umbrella 伞 
+unable 不能 
+unacceptable 不可接受的 
+unadorned 朴素的 
+unanimous 一致 
+unaware 不知道 
+unbearable 难以忍受的 
+unbeatable 无与伦比的 
+unbelievable 令人难以置信的 
+unbiased 无偏见的 
+unblemished 无缺点的 
+uncanny 不可思议的 
+uncertain 不确定的 
+uncertainty 不确定性 
+uncle 叔叔 
+uncomfortable 不舒服 
+unconcerned 不关心的 
+unconquerable 不可征服的 
+unconscious 无意识的 
+unconsolidated 疏松的 
+uncover 发现 
+undeniable 不可否认的 
+under 下 
+underclothes 内衣 
+undercurrent 暗流 
+underestimate 低估 
+undergo 接受 
+undergraduate 本科 
+underground 地下 
+underlie 基础 
+underline 下划线 
+underling 下属 
+underlying 潜在的 
+undermine 破坏 
+underneath 下面 
+underpin 支撑 
+underscore 下划线 
+underside 下面 
+understand 理解 
+understandable 可以理解的 
+understanding 理解 
+understood 理解 
+undertake 承担 
+undertaking 事业 
+underwater 水下 
+underwear 内衣 
+undetected 未被发现 
+undisguised 公开的 
+undo 撤销 
+undoing 毁灭的原因 
+undoubtedly 毫无疑问 
+undue 过度的 
+undulate 波浪形的 
+unduly 过度 
+unearth 发掘 
+uneasy 不安 
+unemployment 失业 
+unequal 不平等的 
+uneven 不均匀 
+unexpected 意想不到的 
+unfair 不公平的 
+unfold 展开 
+unfortunate 不幸的 
+unfortunately 不幸的是 
+uniform 统一的 
+uniformity 均匀性 
+unify 统一 
+union 联盟 
+unique 独特的 
+uniquely 独特的 
+unit 单位 
+unite 团结起来 
+united 曼联 
+unity 团结 
+universal 通用 
+universe 宇宙 
+university 大学 
+unjust 不公正的 
+unkind 不友善的 
+unknown 未知的 
+unless 除非 
+unlike 不像 
+unlikely 不太可能 
+unload 卸载 
+unlucky 不幸的 
+unnecessary 不必要的 
+unobtrusive 不引人注目的 
+unpack 解压缩 
+unparalleled 无与伦比的 
+unpleasant 不愉快的 
+unprecedented 前所未有的 
+unquote 结束 
+unravel 解开 
+unrealistic 不现实的 
+unreasoning 不讲理的 
+unrelenting 无情的 
+unrest 动荡 
+unsatisfactory 令人不满意的 
+unscrew 旋开 
+unsettle 不安 
+unstable 不稳定 
+unsuitable 不合适的 
+untapped 未开发的 
+untidy 不整洁的 
+until 直到 
+untold 数不清的 
+unusual 不寻常的 
+unusually 不同寻常的 
+unutterable 说不出口的 
+unveil 公布 
+unwilling 不愿 
+unwrap 打开 
+unyielding 不屈的 
+up-to-date 最新的 
+up 了 
+update 更新 
+upgrade 升级 
+upheaval 剧变 
+uphill 艰苦的 
+uphold 维护 
+upon 在 
+upper 上 
+uppermost 最 
+upright 正直的 
+uproar 一片哗然 
+upset 心烦意乱 
+upside-down 乱七八糟的 
+upside 上行 
+upstairs 楼上 
+upward 向上 
+urban 城市 
+urbanization 城市化 
+urge 冲动 
+urgent 紧急的 
+urine 尿液 
+us 我们 
+usage 使用 
+use 使用 
+used 使用 
+useful 有用的 
+useless 无用的 
+user-friendly 用户友好的 
+user 用户 
+usual 通常 
+usually 通常 
+utah 犹他州 
+utensil 用具 
+utilise 利用 
+utilitarian 功利主义 
+utility 实用程序 
+utilization 利用 
+utilize 利用 
+utmost 最大限度 
+utter 彻底的 
+utterance 话语 
+utterly 完全 
+vacancy 空缺 
+vacant 空 
+vacate 腾出 
+vacation 假期 
+vaccine 疫苗 
+vacuum 真空 
+vague 模糊的 
+vain 是徒劳的 
+valiant 勇敢的 
+valid 有效的 
+validate 验证 
+validity 有效性 
+valley 谷 
+valuable 有价值的 
+value 价值 
+valve 阀 
+van 范 
+vanish 消失 
+vanity 虚荣 
+vapor 蒸汽 
+vapour 蒸汽 
+variability 可变性 
+variable 变量 
+variant 变体 
+variation 变异 
+varied 多种多样的 
+variety 各种 
+various 各种各样的 
+varnish 清漆 
+vary 不同 
+vascular 血管 
+vase 花瓶 
+vast 巨大的 
+vault 库 
+vegetable 蔬菜 
+vegetarian 素食者 
+vegetation 植被 
+vegetative 营养 
+vehicle 车辆 
+veil 面纱 
+vein 静脉 
+velocity 速度 
+velvet 天鹅绒 
+venom 毒液 
+venomous 有毒的 
+vent 发泄 
+ventilate 通风 
+ventilation 通风 
+venture 合资企业 
+venue 场地 
+Venus 金星 
+verb 动词 
+verbal 口头 
+verdict 判决 
+verge 边缘 
+verification 验证 
+verify 验证 
+veritable 名副其实的 
+vernacular 方言 
+versatile 多才多艺的 
+verse 节 
+version 版本 
+versus 与 
+vertebrate 脊椎动物 
+vertical 垂直 
+vertically 垂直 
+very 非常 
+vessel 船 
+vest 背心 
+vested 既定的 
+vestige 遗迹 
+vet 兽医 
+veteran 经验丰富的 
+veterinarian 兽医 
+veterinary 兽医 
+veto 否决 
+vex 烦恼 
+via 通过 
+viable 可行的 
+vibrant 充满活力的 
+vibrate 振动 
+vibration 振动 
+vicar 牧师 
+vice 副 
+vicinity 附近 
+vicious 恶性 
+victim 受害者 
+victimize 使受害 
+victorian 维多利亚时代 
+victorious 胜利的 
+victory 胜利 
+video 视频 
+videophone 可视电话 
+vie 可变利益实体 
+view 视图 
+viewpoint 的观点 
+vigilance 警惕 
+vigorous 充满活力的 
+vile 卑鄙的 
+village 村 
+villager 村民 
+vine 葡萄树 
+vinegar 醋 
+violate 违反 
+violence 暴力 
+violent 暴力 
+violet 紫罗兰色的 
+violin 小提琴 
+violinist 小提琴家 
+viper 毒蛇 
+viperine 毒蛇的 
+viral 病毒 
+virgin 维珍 
+virtual 虚拟 
+virtually 几乎 
+virtue 美德 
+virtuous 良性 
+virus 病毒 
+visa 签证 
+viscous 粘性 
+visible 可见 
+vision 愿景 
+visit 访问 
+visitor 游客 
+visual 视觉 
+visualize 可视化 
+vital 至关重要的 
+vitality 活力 
+vitamin 维生素 
+vivid 生动的 
+vivify 使活跃 
+vocabulary 词汇表 
+vocal 直言不讳的 
+vocation 职业 
+vocational 职业 
+voice 的声音 
+void 无效 
+volatile 挥发性 
+volcano 火山 
+vole 田鼠 
+volleyball 排球 
+volt 伏特 
+voltage 电压 
+volume 体积 
+voluntary 自愿的 
+volunteer 志愿者 
+volvo 沃尔沃 
+vomit 呕吐物 
+voracious 贪婪的 
+vote 投票 
+vowel 元音 
+voyage 航行 
+vulgar 粗俗的 
+vulnerable 脆弱的 
+wade 韦德 
+wage 工资 
+wagon 马车 
+waist 腰 
+wait 等待 
+waiter 服务员 
+waitress 女服务员 
+wake 之后 
+waken 唤醒 
+walk 走 
+wall 墙 
+wallet 钱包 
+walnut 胡桃木 
+wander 漫步 
+wandering 流浪的 
+wane 减弱 
+wanna 想要 
+want 想要 
+war 战争 
+ward 病房 
+wardrobe 衣柜 
+ware 制品 
+warehouse 仓库 
+warfare 战争 
+warm 温暖的 
+warmth 温暖 
+warn 警告 
+warp 经 
+warrant 保证 
+wary 持谨慎态度 
+wash 洗 
+washroom 卫生间 
+wasp 黄蜂 
+wastage 浪费 
+waste 浪费 
+watch 看 
+watchdog 监管机构 
+water 水 
+watercourse 水道 
+waterfall 瀑布 
+waterfront 海滨 
+waterlogged 浸满水 
+watermelon 西瓜 
+waterproof 防水 
+waterspout 海龙卷 
+watertight 水密 
+watt 瓦特 
+wave 波 
+wavelength 波长 
+wax 蜡 
+way 的方式 
+we 我们 
+weak 弱 
+weaken 削弱 
+weakness 弱点 
+wealth 财富 
+wealthy 富有的 
+wean 使 
+weapon 武器 
+wear 穿 
+weariness 疲倦 
+weary 疲惫的 
+weather 天气 
+weathering 风化 
+weave 织 
+web 网络 
+wedding 婚礼 
+wedge 楔 
+Wednesday 周三 
+weed 杂草 
+week 周 
+weekday 工作日 
+weekend 周末 
+weekly 每周 
+weep 哭泣 
+weigh 重 
+weight 重量 
+weird 奇怪的 
+welcome 欢迎 
+weld 焊接 
+welfare 福利 
+well-being 幸福 
+well-known 著名的 
+well 好吧 
+Welsh 威尔士 
+went 去了 
+west 西 
+western 西方 
+westwards 向西 
+wet 湿 
+whale 鲸鱼 
+whaling 捕鲸 
+wharf 码头 
+what 什么 
+whatever 无论 
+whatsoever 任何 
+wheat 小麦 
+wheel 轮 
+wheelbarrow 独轮手推车 
+wheelchair 轮椅 
+when 当 
+whenever 每当 
+where 在哪里 
+whereas 而 
+whereby 即 
+wherever 无论 
+whether 是否 
+which 哪一个 
+whichever 无论 
+while 而 
+whilst 同时 
+whimsical 反复无常的 
+whine 抱怨 
+whip 鞭子 
+whirl 旋转 
+whisky 威士忌 
+whisper 耳语 
+whistle 吹口哨 
+white 白色的 
+whitewash 粉饰 
+who 谁 
+whoever 谁 
+whole 整个 
+wholesome 有益健康的 
+wholly 完全 
+whom 谁 
+whose 谁的 
+why 为什么 
+wick 芯 
+wicked 邪恶的 
+wide 宽 
+widely 广泛 
+widen 扩大 
+widespread 广泛的 
+widow 寡妇 
+width 宽度 
+wield 行使 
+wife 妻子 
+wild 野生 
+wildlife 野生动物 
+will 将 
+willful 任性的 
+willing 愿意 
+willow 柳树 
+win 赢得 
+winch 绞车 
+wind 风 
+window 窗口 
+windowsill 窗台上 
+windscreen 挡风玻璃 
+windy 多风的 
+wine 酒 
+wing 翼 
+wink 眨眼 
+winkle 剔出 
+winner 赢家 
+winter 冬天 
+wipe 擦 
+wire 线 
+wireless 无线 
+wisdom 智慧 
+wise 明智的 
+wish 希望 
+wispy 纤细的 
+wit 智慧 
+witch 女巫 
+with 与 
+withdraw 撤回 
+wither 枯萎 
+withhold 保留 
+within 在 
+without 没有 
+withstand 承受 
+witness 见证 
+witty 机智的 
+woke 醒来 
+woken 中醒来 
+wolf 狼 
+woman 女人 
+womb 子宫 
+women 女性 
+wonder 想知道 
+wonderful 美妙的 
+wood 木 
+wooden 木 
+wool 羊毛 
+woollen 羊毛 
+word 词 
+wore 穿 
+work 工作 
+workaholic 工作狂 
+worker 工人 
+workforce 劳动力 
+workman 工人 
+workshop 车间 
+workstation 工作站 
+world-wide 全球范围内 
+world 世界 
+worldwide 在世界范围内 
+worm 蠕虫 
+worn 穿 
+worried 担心 
+worry 担心 
+worse 更糟糕的是 
+worship 敬拜 
+worst 最糟糕的 
+worth 价值 
+worthless 一文不值 
+worthwhile 有价值的 
+worthy 有价值的 
+would 将 
+wound 伤口 
+wrap 包装 
+wreath 花环 
+wreck 沉船 
+wrench 扳手 
+wrestle 摔跤 
+wretched 可怜的 
+wriggle 蜿蜒而行 
+wrinkle 皱纹 
+wrist 手腕 
+write 写 
+writer 作家 
+writing 写作 
+written 写 
+wrong 错误的 
+wrote 写了 
+X-ray x射线 
+yacht 游艇 
+yard 院子里 
+yarn 纱 
+yawn 打哈欠 
+year 一年 
+yearly 每年 
+yeast 酵母 
+yell 大喊 
+yellow 黄色的 
+yes 是的 
+yesterday 昨天 
+yet 然而, 
+yield 收益率 
+yoghurt 酸奶 
+yogurt 酸奶 
+you 你 
+young 年轻的 
+youngster 年轻人 
+your 你的 
+yours 你的 
+yourself 你自己 
+yourselves 你们自己 
+youth 青年 
+youthful 年轻的 
+yummy 美味的 
+zeal 热情 
+zealous 热心的 
+zebra 斑马 
+zero 零 
+zigzag 锯齿形 
+zinc 锌 
+zip 邮政编码 
+zone 区 
+zoo 动物园 
+zoological 动物 
+zoom 变焦 
+zoomorphic 动物形的
