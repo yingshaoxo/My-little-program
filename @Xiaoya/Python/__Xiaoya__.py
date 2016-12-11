@@ -128,7 +128,11 @@ class xiaoya():
         return ("My name is {name}.\nAnd I'm {age} years old now.\n".format(name=self.name, age=self.age))
 
     def reply(self, msg):
-        return msg
+        from Plugins.Extensions.GetEnglish.SplitSentenceAndTranslate import main as translate
+        if msg[:10] == '#translate':
+            return translate(msg.replace('#translate', ''))
+        else:
+            return self.knowledge()
 
     def knowledge(self):
         k = knowledge()

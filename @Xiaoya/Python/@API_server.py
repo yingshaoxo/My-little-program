@@ -18,7 +18,7 @@ def chat_reply(msg):
         print('Fail to store saying.')
     from __Xiaoya__ import xiaoya
     x = xiaoya('xiaoya', 17)
-    return x.knowledge()
+    return x.reply(msg)
 
 def run_codes(codes):
     from __RunPY__ import run_py_codes
