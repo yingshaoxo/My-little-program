@@ -63,4 +63,4 @@ def youdao_translate2(text):
     translation = r.text.split('result=')[1][:-2]
     return text + '\n' + translation
 
-print(youdao_translate1('sky'))
+print(youdao_translate1('sky is blue, I know it'))
