@@ -90,16 +90,22 @@ class knowledge():
             try:
                 part = split_txt(self.dir + book)[num]
             except:
-                part = 'Your reading was finished with this book.'
-                os.rename(self.dir + book, self.dir + book.replace('.txt', '.bak'))
-#            print(part)
-
+                #part = 'Your reading was finished with this book.'
+                if book[:1] != '#':
+                    os.rename(self.dir + book, self.dir + book.replace('.txt', '.bak'))
+                else:
+                    import time #获取当前时间
+                    time_now = int(time.time()) #转换成localtime
+                    time_local = time.localtime(time_now) #转换成新的时间格式(2016-05-09 18:59:20)
+                    dt = time.strftime("%Y%m%d%H%M%S",time_local)
+                    os.rename(self.dir + book, self.dir + '#Function ' + dt + '.txt')
+                    # There has problems!!!!
             num += 1
             books.update({book: num})
             setting.update({'books': books})
             print(setting, '\n')
             write_setting(setting)
-
+            
             return part
 
         return which_part().replace('\n', '\n\n')
@@ -129,14 +135,22 @@ class xiaoya():
 
     def reply(self, msg):
         from Plugins.Extensions.GetEnglish.SplitSentenceAndTranslate import main as translate
+        from Plugins.Extensions.GetEnglish.SplitSentence import split_sentence
         if msg[:10] == '#translate':
             return translate(msg.replace('#translate', ''))
+        elif msg[:6] == '#split':
+            return split_sentence(msg.replace('#split', ''))
         else:
             return self.knowledge()
 
     def knowledge(self):
         k = knowledge()
-        return k.get_knowledge()
+        text = k.get_knowledge()
+        if text[:6] == '#codes':
+            from __RunPY__ import run_py_codes
+            return run_py_codes(text)
+        else:
+            return text
 
 
 #x = xiaoya('xiaoya', 17)
