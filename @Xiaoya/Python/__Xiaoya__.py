@@ -65,7 +65,7 @@ class knowledge():
 
         def split_txt(dirname):
             try:
-                with open(dirname, 'r',  encoding='utf-8', errors='replace') as f:
+                with open(dirname, 'r',  encoding='utf-8', errors='ignore') as f: #replace
                     text = f.read()
             except Exception as e:
                 print(e)

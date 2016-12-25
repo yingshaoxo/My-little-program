@@ -1,11 +1,13 @@
 {
     "books": {
-        "2015\u5e74\u516d\u7ea7\u8bcd\u6c47[Ramdom].txt": 112,
-        "The Great Gatsby[3].txt": 122,
-        "[simple]\u300a\u4e16\u8bf4\u65b0\u8bed\u300b\u2014YS remix.txt": 15,
-        "\u4e2d\u534e\u767e\u5e74\u7ecf\u5178\u6563\u6587\u3010\u52b1\u5fd7\u4fee\u8eab\u3011.txt": 67,
-        "\u4eba\u751f[3].txt": 139,
-        "\u8fd9\u4e2a\u5386\u53f2\u633a\u9760\u8c31[7].txt": 107,
-        "\u9707\u64bc\u4eba\u751f\u7684101\u7bc7\u6563\u6587\u2014YS\u4fee\u8ba2\u7248.txt": 22
+        "#Function 20161221064239.txt": 7,
+        "2015\u5e74\u516d\u7ea7\u8bcd\u6c47[Ramdom].txt": 119,
+        "Python\u81ea\u5b66\u7b14\u8bb0.txt": 3,
+        "Story of your life.txt": 4,
+        "[simple]\u300a\u4e16\u8bf4\u65b0\u8bed\u300b\u2014YS remix.txt": 31,
+        "\u4e2d\u534e\u767e\u5e74\u7ecf\u5178\u6563\u6587\u3010\u52b1\u5fd7\u4fee\u8eab\u3011.txt": 79,
+        "\u4eba\u751f[3].txt": 150,
+        "\u8fd9\u4e2a\u5386\u53f2\u633a\u9760\u8c31[7].txt": 115,
+        "\u9707\u64bc\u4eba\u751f\u7684101\u7bc7\u6563\u6587\u2014YS\u4fee\u8ba2\u7248.txt": 30
     }
 }
