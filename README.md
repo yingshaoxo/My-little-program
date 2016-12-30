@@ -1,3 +1,3 @@
 # My little program
 
-Based on windows, some programs made by myself.
+Based on Easy Programming Language or Python, some programs made by myself.
