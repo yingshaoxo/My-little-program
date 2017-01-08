@@ -12,7 +12,7 @@ def chat_room(msg):
 
 def chat_reply(msg):
     try:
-        with open('SayingOfYingshaoxo.txt', 'a', encoding='utf-8') as f:
+        with open('SayingOfYingshaoxo.txt', 'a', encoding='utf-8', errors='replace') as f:
             f.write(msg + '\n\n——————————————\n\n')
     except:
         print('Fail to store saying.')

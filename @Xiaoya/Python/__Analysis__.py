@@ -66,27 +66,25 @@ def split_txt(dirname):
 
     return result
 
+def list_to_split_text(_list, num_of_line):
+    text = ''
+    for num, i in enumerate(_list, start=1):
+        if num % num_of_line != 0:
+             text += i.replace('\n', '\n\n') + '\n'
+        else:
+              text += i.replace('\n', '\n\n') + '\n\n——————————————\n\n'
+    return text[:-16]
+
 def search(word):
     txt_files = [path + i for i in os.listdir(path) if '.txt' in i]
     result_list = []
     for i in txt_files:
         a_list = split_txt(i)
         result_list.append(max_close(word, a_list))
-
-    import random
-    num = random.randrange(0, len(result_list))
-    return result_list[num].replace('\n', '\n\n')
-
-'''while True:
+        
+    return list_to_split_text(result_list, 1)
+'''
+while True:
     word = input('What you want to search?   ')
-    
-    txt_files = [path + i for i in os.listdir(path) if '.txt' in i]
-    result_list = []
-    for i in txt_files:
-        a_list = split_txt(i)
-        result_list.append(max_close(word, a_list))
-
-    import random
-    num = random.randrange(0, len(result_list))
-    print(result_list[num])
+    print(search(word))
 '''
