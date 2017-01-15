@@ -113,6 +113,7 @@ class knowledge():
     def get_knowledge(self):
         from Plugins.Core.HandleText import EnglishOrNot, OrganizeText
         knowledge = self.get_knowledge0()
+        '''
         if EnglishOrNot(knowledge):
             from Plugins.Core.NaturalLanguageProcessing import from_ariticle_get_word
             try:
@@ -121,6 +122,7 @@ class knowledge():
                     knowledge += '\n\n' + '——————————————' + '\n\n' + en_words
             except Exception as e:
                 print(e)
+        ''' # Auto get English translation in article
         return knowledge
  
 class xiaoya():
