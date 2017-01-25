@@ -29,33 +29,10 @@ class TXT_tool():
                 text += i + '\n\n——————————————\n\n'
         return text
 
-
 tool = TXT_tool()
 #print(tool.list_to_split_text(['ddddd', 'gggggggg', 'wwwwwww', 'bbbbb', 'cccc'], 2))
-name = '中华百年经典散文【励志修身】.txt'
-_list = tool.split_txt_by_special_words(name)
-for num, i in enumerate(_list, start=0):
-    try:
-        min_list = i.split('\n')
-        base = 0
-        min_list[base] = '《' + min_list[base] + '》' + ' - ' + min_list[base+1]
-        print(min_list[base])
-        min_list[base+1] = ''
-        min_list[base+2] = ''
-        del min_list[1]
-        #del min_list[2]
-        text = ''
-        for ii in min_list:
-            text += ii + '\n'
-        text = text[:-1]
-        _list[num] = text
-    except Exception as e:
-        print(e)
-        _list[num] = ''
-_list = [i for i in _list if i != '']
+_list = tool.split_txt_by_line('[E]历史答题术语.bak')
 #_list = list(set(_list))
-text = tool.list_to_split_text(_list, 1)
-tool.write_txt('2'+name, text)
+text = tool.list_to_split_text(_list, 7)
+tool.write_txt('[E]历史答题术语.txt', text)
 print('ok')
-exit()
-
