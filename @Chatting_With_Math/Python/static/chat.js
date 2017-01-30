@@ -3,7 +3,7 @@ $(document).ready(function() {
     if (!window.console.log) window.console.log = function() {};
 
     $("#messageform").on("submit", function() {
-        newMessage($(this));
+        newMessage($(this)); //send messageform's argument to python
         return false;
     });
     $("#messageform").on("keypress", function(e) {
@@ -26,7 +26,7 @@ function newMessage(form) {
         if (message.id) {
             form.parent().remove();
         } else {
-            form.find("input[type=text]").val("").select();
+            form.find("input[type=text]").val("").select(); //empty text in input box
             disabled.enable();
         }
     });

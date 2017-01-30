@@ -8,6 +8,7 @@
  html,body{font:normal 0.9em arial,helvetica;}
  #inbox {width:440px; height:200px; border:1px solid #7F9DB9; overflow:auto;}
  #input {width:330px;}
+ #id {width:134px}
 </style>
 
     <link rel="stylesheet" href="{{ static_url("chat.css") }}" type="text/css">
@@ -23,12 +24,17 @@
         <form action="/a/message/new" method="post" id="messageform">
           <table>
             <tr>
+              <br>Your name: 
+              <tr><input type="nontext" name="name" id="id"></tr>
+              
+              <td>Msg:<br>
               <td><input type="text" name="body" id="message"></td>
               <td style="padding-left:6px">
                 <input type="submit" value="{{ _("Send") }}">
                 <input type="hidden" name="next" value="{{ request.path }}">
                 {% module xsrf_form_html() %}
               </td>
+            </td>
             </tr>
           </table>
         </form>

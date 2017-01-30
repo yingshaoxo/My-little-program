@@ -9,13 +9,7 @@ from tornado.concurrent import Future
 from tornado import gen
 from tornado.options import define, options, parse_command_line
 
-
-import socket
-local_host = socket.gethostbyname(socket.gethostname())
-tip = '''http://{host}:5277'''.format(host=local_host)
-print(tip)
-
-define("port", default=5277, help="run on the given port", type=int)
+define("port", default=8888, help="run on the given port", type=int)
 define("debug", default=False, help="run in debug mode")
 
 
@@ -71,7 +65,8 @@ class MessageNewHandler(tornado.web.RequestHandler):
     def post(self):
         message = {
             "id": str(uuid.uuid4()),
-            "body":  'Someone say: ' + self.get_argument("body"),
+            "body": self.get_argument("body"),
+            "who": self.get_argument("name"), # get argument from http-sending massage
         }
         # to_basestring is necessary for Python 3's json encoder,
         # which doesn't accept byte strings.
