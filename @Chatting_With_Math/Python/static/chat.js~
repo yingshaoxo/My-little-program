@@ -118,7 +118,5 @@ var updater = {
         node.hide();
         $("#inbox").append(node);
         node.slideDown();
-
-        window.scrollTo(10%,document.body.scrollHeight);
     }
 };

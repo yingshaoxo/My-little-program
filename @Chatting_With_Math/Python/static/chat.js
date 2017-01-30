@@ -105,110 +105,7 @@ var updater = {
         updater.cursor = response.cursor;
         var messages = response.messages;
         updater.cursor = messages[messages.length - 1].id;
-        console.log(messages.leng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-th, "new messages, cursor:", updater.cursor);
+        console.log(messages.length, "new messages, cursor:", updater.cursor);
         for (var i = 0; i < messages.length; i++) {
             updater.showMessage(messages[i]);
         }
@@ -222,6 +119,6 @@ th, "new messages, cursor:", updater.cursor);
         $("#inbox").append(node);
         node.slideDown();
 
-        window.scrollTo(10%,document.body.scrollHeight);
+        //window.scrollTo(10%,document.body.scrollHeight)
     }
 };

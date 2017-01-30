@@ -1,1 +1,6 @@
-<div class="message" id="m{{ message["id"] }}">{% module linkify(<strong>message["who"]</strong> + ": " + message["body"]) %}</div>
+<script>
+window.scrollTo(10%,document.body.scrollHeight)
+</script>
+<div class="message" id="m{{ message["id"] }}">{% module linkify(message["who"] + ": " + message["body"]) %}</div>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
+
