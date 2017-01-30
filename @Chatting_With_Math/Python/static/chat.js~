@@ -3,7 +3,7 @@ $(document).ready(function() {
     if (!window.console.log) window.console.log = function() {};
 
     $("#messageform").on("submit", function() {
-        newMessage($(this));
+        newMessage($(this)); //send messageform's argument to python
         return false;
     });
     $("#messageform").on("keypress", function(e) {
@@ -118,5 +118,7 @@ var updater = {
         node.hide();
         $("#inbox").append(node);
         node.slideDown();
+
+        window.scrollTo(10%,document.body.scrollHeight);
     }
 };

@@ -1,10 +1,10 @@
 body {
-  background: white;
+  background: powderblue;
 }
 
 body,
 input {
-  font: normal 100% Helvetica, Arial, sans-serif;
+  font-family:verdana, sans-serif;
   color: black;
 }
 

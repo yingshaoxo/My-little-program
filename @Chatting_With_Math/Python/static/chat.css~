@@ -4,8 +4,7 @@ body {
 
 body,
 input {
-  font-family: sans-serif;
-  font-size: 10pt;
+  font-family:verdana, sans-serif;
   color: black;
 }
 

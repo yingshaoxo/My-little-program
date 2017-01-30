@@ -8,8 +8,12 @@ import uuid
 from tornado.concurrent import Future
 from tornado import gen
 from tornado.options import define, options, parse_command_line
-
-define("port", default=8888, help="run on the given port", type=int)
+"""
+import socket
+local_host = socket.gethostbyname(socket.gethostname())
+tip = '''http://{host}:5277/'''.format(host=local_host)
+"""
+define("port", default=5277, help="run on the given port", type=int)
 define("debug", default=False, help="run in debug mode")
 
 
@@ -114,4 +118,5 @@ def main():
 
 
 if __name__ == "__main__":
+    #print(tip)
     main()
