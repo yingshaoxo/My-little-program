@@ -4,11 +4,23 @@ $(document).ready(function() {
 
     $("#messageform").on("submit", function() {
         newMessage($(this)); //send messageform's argument to python
+
+    var Days = 30; 
+    var exp = new Date(); 
+    exp.setTime(exp.getTime() + Days*24*60*60*1000); 
+    document.cookie = "chatname" + "="+ escape (document.getElementById("id").value) + ";expires=" + exp.toGMTString(); 
+
         return false;
     });
     $("#messageform").on("keypress", function(e) {
         if (e.keyCode == 13) {
             newMessage($(this));
+
+    var Days = 30; 
+    var exp = new Date(); 
+    exp.setTime(exp.getTime() + Days*24*60*60*1000); 
+    document.cookie = "chatname" + "="+ escape (document.getElementById("id").value) + ";expires=" + exp.toGMTString(); 
+
             return false;
         }
         return true;
