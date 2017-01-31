@@ -62,6 +62,8 @@ global_message_buffer = MessageBuffer()
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
+        global_message_buffer.cache = [i for i in global_message_buffer.cache if str(i).count("'body': ''") < 1]
+        #print(global_message_buffer.cache)
         global_message_buffer.cache = global_message_buffer.cache[-10:] #Only show 10 Msg_text
         self.render("index.html", messages=global_message_buffer.cache)
 

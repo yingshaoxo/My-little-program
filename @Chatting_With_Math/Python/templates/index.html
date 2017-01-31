@@ -26,7 +26,7 @@
         <form action="/a/message/new" method="post" id="messageform">
           <table>
             <br>
-            <tr>Your name: <input type="nontext" name="name" id="id" value="Someone"></tr>
+            <tr>Your name: <input type="nontext" name="name" id="id"></tr>
             <tr><td>Msg: <input type="text" name="body" id="message"></td>
               <td style="padding-left:6px">
                 <input type="submit" value="{{ _("Send") }}">
@@ -41,10 +41,6 @@
    <!--[if lt IE 9]>
 　　　　<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
 　　<![endif]-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript"></script>
-    <script src="{{ static_url("chat.js") }}" type="text/javascript"></script>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
-
 <script>
 function getCookie(name) 
 { 
@@ -58,6 +54,9 @@ function getCookie(name)
 } 
 document.getElementById("id").value = getCookie("chatname");
 </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js" type="text/javascript"></script>
+    <script src="{{ static_url("chat.js") }}" type="text/javascript"></script>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML"></script>
 
   </body>
 </html>
