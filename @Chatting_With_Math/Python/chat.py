@@ -62,6 +62,7 @@ global_message_buffer = MessageBuffer()
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
+        global_message_buffer.cache = global_message_buffer.cache[-10:] #Only show 10 Msg_text
         self.render("index.html", messages=global_message_buffer.cache)
 
 
@@ -79,6 +80,7 @@ class MessageNewHandler(tornado.web.RequestHandler):
         if self.get_argument("next", None):
             self.redirect(self.get_argument("next"))
         else:
+            #print(message)
             self.write(message)
         global_message_buffer.new_messages([message])
 
@@ -93,6 +95,7 @@ class MessageUpdatesHandler(tornado.web.RequestHandler):
         messages =yield self.future
         if self.request.connection.stream.closed():
             return
+        #print(messages)
         self.write(dict(messages=messages))
 
     def on_connection_close(self):
