@@ -12,7 +12,7 @@ try:
     r = requests.get(url)
     hosts = r.text
 except:
-    print("I can't get the hosts. Can you give me a hosts url?")
+    print("I can't get the hosts. Can you give me another hosts url?")
 
 try:
     with open('/etc/hosts', 'w') as f:
