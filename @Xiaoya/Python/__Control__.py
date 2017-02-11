@@ -6,17 +6,20 @@ path = 'Coding/temp.py'
 def read():
     with open(path, 'r+t', encoding='utf-8') as f:
         result = f.read()
-    return result
+    return result.replace('\n\n', '\n')
     
 def start(text):
     os.remove(path)
     with open(path, 'w+t', encoding='utf-8') as f:
-        f.write('#coding start...\n\n' + text)
+        f.write('#Programming start...\n\n' + text)
     return read()
 
 def coding(text):
     with open(path, 'a+t', encoding='utf-8') as f:
-        f.write('\n' + text)
+        if read()[-1:] != '\n':
+            f.write('\n' + text)
+        else:
+            f.write(text)
     return read()
 
 def end(text):
@@ -24,7 +27,7 @@ def end(text):
     with open(path, 'a+t', encoding='utf-8') as f:
         f.write(text)
     all_codes = read()
-    return all_codes +'\n\n#coding end...'  + '\n\n——————————————\n\n' + run_py_codes(all_codes)
+    return all_codes +'\n\n#Programming end...'  + '\n\n——————————————\n\n' + run_py_codes(all_codes)
         
 def save(text):
     import pprint
