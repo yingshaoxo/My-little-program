@@ -16,10 +16,7 @@ def start(text):
 
 def coding(text):
     with open(path, 'a+t', encoding='utf-8') as f:
-        if read()[-1:] != '\n':
-            f.write('\n' + text)
-        else:
-            f.write(text)
+        f.write('\n\n# Go on programming\n\n' + text)
     return read()
 
 def end(text):
@@ -27,7 +24,7 @@ def end(text):
     with open(path, 'a+t', encoding='utf-8') as f:
         f.write(text)
     all_codes = read()
-    return all_codes +'\n\n#Programming end...'  + '\n\n——————————————\n\n' + run_py_codes(all_codes)
+    return '#codes\n' + all_codes +'\n\n#Programming end...\n'  + '\"\"\"\n\n——————————————\n\n' + run_py_codes(all_codes) + '\n\n——————————————\n\n\"\"\"'
         
 def save(text):
     import pprint
@@ -36,6 +33,17 @@ def save(text):
     return pprint.pformat(os.listdir('Coding'))
 
 def look(text):
+    from __RunPY__ import run_py_codes
     with open('Coding/' + text, 'r+t', encoding='utf-8') as f:
-        result = f.read()
-    return result
+        all_codes = f.read()
+    return '#codes\n' +all_codes  + '\n'  + '\"\"\"\n\n——————————————\n\n' + run_py_codes(all_codes) + '\n\n——————————————\n\n\"\"\"'
+
+def run(text):
+    from __RunPY__ import run_py_codes
+    old = '''
+import os
+os.system('{codes}')
+'''
+    new = old.format(codes=text)
+    print(new)
+    return run_py_codes(new)  

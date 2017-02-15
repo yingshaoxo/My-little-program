@@ -158,6 +158,8 @@ class xiaoya():
             return __Control__.save(msg[len('#save'):].strip('\r\n '))
         elif os.path.exists('state0') and msg[:len('#look')] == '#look':
             return __Control__.look(msg[len('#look'):].strip('\r\n '))
+        elif os.path.exists('state0') and msg[:len('#run')] == '#run':
+            return __Control__.run(msg[len('#run'):].strip('\r\n '))
         elif os.path.exists('state0'):
             return self.knowledge()
 
