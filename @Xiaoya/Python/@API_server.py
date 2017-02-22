@@ -3,7 +3,8 @@ from flask import Flask, request, redirect
 
 import socket
 local_host = socket.gethostbyname(socket.gethostname())
-tip = '''[Handle Message & Reply] POST text message to http://{host}:5000/Chat/
+tip = '''Only receive "content_type='text; charset=utf-8'" and "Accept-Encoding='utf-8'"!!!
+[Handle Message & Reply] POST text message to http://{host}:5000/Chat/
 [Run Python Codes] POST Python codes to http://{host}:5000/Python/
 [Search data] POST key word to http://{host}:5000/Search/'''.format(host=local_host)
 
@@ -44,12 +45,12 @@ def chat_with_xiaoya():
         return 'Now, you can POST chat-message to me.'
     if request.method == 'POST':
         msg = decode(request.data)
-
+        
         if msg == '':
             print('Nothing received.')
             return ''
         else:
-            return chat_reply(msg) 
+            return chat_reply(msg)
 
 @app.route('/Search/', methods=['GET', 'POST'])
 def search_data():
