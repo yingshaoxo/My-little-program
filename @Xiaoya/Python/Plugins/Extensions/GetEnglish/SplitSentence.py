@@ -29,3 +29,6 @@ def split_sentence(text):
  
     text = list_to_text(a_list, 1)
     return text
+
+def main(text):
+    return split_sentence(text)
