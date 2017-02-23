@@ -82,6 +82,20 @@ def run_python():
         else:
             return run_codes(codes)
 
+
+def split_sentence():
+    from Plugins.Extensions.GetEnglish.SplitSentence import main as _split
+    msg = decode(request.data) 
+    return _split(msg.replace(' ', ' '))
+app.add_url_rule('/Tools/split', view_func=split_sentence, methods=['POST'])
+
+def translate_sentence():
+    from Plugins.Extensions.GetEnglish.SplitSentenceAndTranslate import main as _translate
+    msg = decode(request.data)
+    return _translate(msg.replace(' ', ' '))
+app.add_url_rule('/Tools/translate', view_func=translate_sentence, methods=['POST'])
+
+
 app.register_error_handler(500, lambda e: '')  # Fail to run the codes!\nPlease check it carefully.
 
 if __name__ == '__main__':
