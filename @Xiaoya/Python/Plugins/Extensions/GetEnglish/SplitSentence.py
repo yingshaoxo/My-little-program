@@ -28,7 +28,8 @@ def split_sentence(text):
     a_list = [OT(i) for i in a_list if re.match(r'^\s*$', i) == None]
  
     text = list_to_text(a_list, 1)
-    return text
+    return text.strip('  　\n ')
 
 def main(text):
+    text = re.sub(r'[(（]\s*\w*\d*\s*[)）]', '', text)
     return split_sentence(text)

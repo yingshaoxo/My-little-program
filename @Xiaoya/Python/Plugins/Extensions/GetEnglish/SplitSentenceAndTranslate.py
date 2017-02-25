@@ -36,7 +36,7 @@ def SplitSentences(text):
         sentences_list[num] = one_sentence
         all_sentences += one_sentence
         
-    return sentences_list
+    return [i for i in sentences_list if i.strip('  　\n ')!='']
 
 def youdao_translate(text):
     r = requests.get('http://fanyi.youdao.com/openapi.do?keyfrom=yingshaoxo&key=61881981&type=data&doctype=text&version=1.0&q=' \
@@ -71,7 +71,10 @@ def google_translate(text):
     r = requests.get('http://translate.google.cn/translate_a/t?client=j&text=' + text + '&hl=zh-CN&multires=1&otf=1&pc=0&sc=1&sl=en&tl=zh-CN', verify=False)
     translation = r.text[1:-1]
     if translation.find('!DOCTYPE') == -1:
-        return text + '\n' + translation
+        if translation[-1:] == "。":
+            return text + '\n' + translation
+        else:
+            return text + '\n' + translation + '。'
     else:
         return youdao_translate(text)
 
@@ -89,57 +92,56 @@ def main(msg):
             if random.randrange(0, 1) == 0:
                 result += google_translate(sentence)
             else:
-                result += baidu_translate(sentence)
+                result += '\n' #baidu_translate(sentence)
         except:
             result += sentence
         if num != len(sentence_lists)-1:
             result += '\n' * 2
         else:
-            result += '\n' * 2
+            result += ''
     return OrganizeText(result)
-#"""
+"""
 text = '''
-When I was 13 my only purpose was to become the star on our football team.
+Good News Beats Bad on Social Networks.
 
-That meant beating out Miller King, who was the best player at our school.
 
-Football season started in September and all summer long I worked out.
+Bad news sells.
 
-I carried my football everywhere for practice.
+If it bleeds, it leads.
 
-Just before September, Miller was struck by a car and lost his right arm.
+No news is good news, and good news is no news.
 
-I went to see him after he came back from hospital.
+Those are the classic rules for the evening broadcasts and the morning papers.
 
-He looked very pale, but he didn't cry.
+But now that information is being spread and monitored in different ways, researchers are discovering new rules.
 
-That season, I broke all of Miller's records while he watched the home games from the bench.
+By tracking people's e-mails and online posts, scientists have found that good news can spread faster and farther than disasters and sob stories.
 
-We went 10-1 and I was named most valuable player, but I often had crazy dreams in which I was to blame for Miller's accident.
+"The 'if it bleeds' rule works for mass media," says Jonah Berger, a scholar at the University of Pennsylvania.
 
-One afternoon, I was crossing the field to go home and saw Miller stuck going over a fence — which wasn't hard to climb if you had both arms.
+"They want your eyeballs and don't care how you're feeling. But when you share a story with your friends, you care a lot more how they react. You don't want them to think of you as a Debbie Downer."
 
-I'm sure I was the last person in the world he wanted to accept assistance from.
+Researchers analyzing word-of-mouth communication — e-mails, Web posts and reviews, face-to-face conversations — found that it tended to be more positive than negative, but that didn't necessarily mean people preferred positive news.
 
-But even that challenge he accepted.
+Was positive news shared more often simply because people experienced more good things than bad things?
 
-I helped him move slowly over the fence.
+To test for that possibility, Dr.Berger looked at how people spread a particular set of news stories: thousands of articles on The New York Times' website.
 
-When we were finally safe on the other side, he said to me, "You know, I didn't tell you this during the season, but you did fine. Thank you for filling in for me."
+He and a Penn colleague analyzed the "most e-mailed" list for six months.
 
-His words freed me from my bad dreams.
+One of his first findings was that articles in the science section were much more likely to make the list than non-science articles.
 
-I thought to myself, how even without an arm he was more of a leader.
+He found that science amazed Times' readers and made them want to share this positive feeling with others.
 
-Damaged but not defeated, he was still ahead of me.
+Readers also tended to share articles that were exciting or funny, or that inspired negative feelings like anger or anxiety, but not articles that left them merely sad.
 
-I was right to have admired him.
+They needed to be aroused one way or the other, and they preferred good news to bad.
 
-From that day on, I grew bigger and a little more real.
+The more positive an article, the more likely it was to be shared, as Dr.Berger explains in his new book, "Contagious: Why Things Catch On."
 
 '''
-text = OrganizeText(text).replace('\n\n','\n')
+text = OrganizeText(text)
 with open('article.txt', 'w', encoding='utf-8', errors='ignore') as f:
     f.write(main(text))
 print('OK~')
-#"""
+"""
