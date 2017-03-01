@@ -42,7 +42,7 @@ def home_page():
 @app.route('/Chat/', methods=['GET', 'POST'])
 def chat_with_xiaoya():
     if request.method =='GET':
-        return 'Now, you can POST chat-message to me.'
+        return 'Now IP:' + request.remote_addr + ', you can POST a chat-message to me.'
     if request.method == 'POST':
         msg = decode(request.data)
         
@@ -94,6 +94,11 @@ def translate_sentence():
     msg = decode(request.data)
     return _translate(msg.replace(' ', ' '))
 app.add_url_rule('/Tools/translate', view_func=translate_sentence, methods=['POST'])
+
+def tools_run_python():
+    msg = decode(request.data)
+    return run_codes(msg)
+app.add_url_rule('/Tools/python', view_func=tools_run_python, methods=['POST'])
 
 
 app.register_error_handler(500, lambda e: '')  # Fail to run the codes!\nPlease check it carefully.
