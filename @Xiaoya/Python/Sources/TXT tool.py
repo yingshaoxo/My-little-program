@@ -31,8 +31,8 @@ class TXT_tool():
 
 tool = TXT_tool()
 #print(tool.list_to_split_text(['ddddd', 'gggggggg', 'wwwwwww', 'bbbbb', 'cccc'], 2))
-_list = tool.split_txt_by_line('[E]历史答题术语.bak')
+_list = tool.split_txt_by_line('人生.bak')
 #_list = list(set(_list))
 text = tool.list_to_split_text(_list, 7)
-tool.write_txt('[E]历史答题术语.txt', text)
+tool.write_txt('人生7.txt', text)
 print('ok')

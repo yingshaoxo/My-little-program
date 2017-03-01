@@ -136,31 +136,6 @@ class xiaoya():
         return ("My name is {name}.\nAnd I'm {age} years old now.\n".format(name=self.name, age=self.age))
 
     def reply(self, msg):
-        from Plugins.Extensions.GetEnglish.SplitSentenceAndTranslate import main as translate
-        from Plugins.Extensions.GetEnglish.SplitSentence import split_sentence
-        import __Control__
-        import os
-        '''
-        if msg[:10] == '#translate':
-            return translate(msg.replace('#translate', ''))
-        elif msg[:6] == '#split':
-            return split_sentence(msg.replace('#split', ''))
-        elif'''
-        if os.path.exists('state0') and msg[:len('#start')] == '#start':
-            os.rename('state0', 'state1')
-            return __Control__.start(msg[len('#start'):])
-        elif os.path.exists('state1') and msg[-len('#end'):] == '#end':
-            os.rename('state1', 'state0')
-            return __Control__.end(msg[:-len('#end')])
-        elif os.path.exists('state1'):
-            return __Control__.coding(msg)
-        elif os.path.exists('state0') and msg[:len('#save')] == '#save':
-            return __Control__.save(msg[len('#save'):].strip('\r\n '))
-        elif os.path.exists('state0') and msg[:len('#look')] == '#look':
-            return __Control__.look(msg[len('#look'):].strip('\r\n '))
-        elif os.path.exists('state0') and msg[:len('#run')] == '#run':
-            return __Control__.run(msg[len('#run'):].strip('\r\n '))
-        elif os.path.exists('state0'):
             return self.knowledge()
 
     def knowledge(self):
