@@ -8,18 +8,15 @@ tip = '''Only receive "content_type='text; charset=utf-8'" and "Accept-Encoding=
 [Run Python Codes] POST Python codes to http://{host}:5000/Python/
 [Search data] POST key word to http://{host}:5000/Search/'''.format(host=local_host)
 
-def chat_room(msg):
-    return ''
 
 def chat_reply(msg):
-    try:
-        with open('SayingOfYingshaoxo.txt', 'a', encoding='utf-8', errors='replace') as f:
-            f.write(msg + '\n\n——————————————\n\n')
-    except:
-        print('Fail to store saying.')
     from __Xiaoya__ import xiaoya
     x = xiaoya('xiaoya', 17)
     return x.reply(msg).strip('  　\n ')
+
+def chat_send(msg):
+    from __Message__ import get_message
+    return get_message()
 
 def run_codes(codes):
     from __RunPY__ import run_py_codes
@@ -42,7 +39,7 @@ def home_page():
 @app.route('/Chat/', methods=['GET', 'POST'])
 def chat_with_xiaoya():
     if request.method =='GET':
-        return 'Now IP:' + request.remote_addr + ', you can POST a chat-message to me.'
+        return 'Now IP=' + request.remote_addr + ', you can POST a chat-message to me.'
     if request.method == 'POST':
         msg = decode(request.data)
         
@@ -51,6 +48,14 @@ def chat_with_xiaoya():
             return ''
         else:
             return chat_reply(msg)
+        
+@app.route('/Send/', methods=['GET', 'POST'])
+def send_with_xiaoya():
+    if request.method =='GET':
+        return 'This is for server itself, other language could POST a message ask me which is needed to send directly.'
+    if request.method == 'POST':
+        msg = decode(request.data)
+        return chat_send(msg)
 
 @app.route('/Search/', methods=['GET', 'POST'])
 def search_data():

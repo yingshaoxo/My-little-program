@@ -1,3 +1,4 @@
+# encoding=utf-8
 import os
 from difflib import SequenceMatcher 
 from difflib import get_close_matches
@@ -83,6 +84,49 @@ def search(word):
         result_list.append(max_close(word, a_list))
         
     return list_to_split_text(result_list, 1)
+
+
+def similar_myway(seg_list, b):
+    '''
+    num = 0
+    for word in seg_list:
+        num += b.count(word)
+    return num
+    '''
+    num = 0
+    for word in seg_list:
+        num += similar(word, b)
+    return num
+    
+
+def seg_close(text, a_list):
+    import jieba
+    #seg_list = list(jieba.cut_for_search(text))
+    seg_list = list(jieba.cut(text))
+    max = [0,0.0]
+    if len(a_list) == 0:
+        return ''
+    for num, text in enumerate(a_list, start=0):
+        similarity = similar_myway(seg_list, a_list[num])
+        #print(similarity,'\n')
+        if similarity > 0:
+            if similarity > max[1]:
+                max[1] = similarity
+                max[0] = num
+    if max[1] == 0:
+        return ''
+    else:
+        return a_list[max[0]]    
+
+def search2(text):
+    txt_files = [path + i for i in os.listdir(path) if '.txt' in i]
+    result_list = []
+    for i in txt_files:
+        a_list = split_txt(i)
+        result_list.append(seg_close(text, a_list))
+        
+    return list_to_split_text(result_list, 1)
+
 '''
 while True:
     word = input('What you want to search?   ')

@@ -11,7 +11,7 @@ def run_py_file(py_path):
 
 def run_py_codes(py_codes):
     codes = str(py_codes)
-    if codes.count('print') == 0 and codes.count('import ') == 0:
+    if codes.count('print') == 0 and codes.count('import') == 0:
         try:
             result = str(eval(codes))
         except Exception as e:
