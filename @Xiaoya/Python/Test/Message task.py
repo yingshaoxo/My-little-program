@@ -42,6 +42,8 @@ while 1:
             old_time = new_time
             minute = old_time.split(':')[1]
             print(minute)
-            send_message(all_list[:num+1])
-            all_list = all_list[num+1:]
+            send_message(all_list[:num])
+            all_list = all_list[num:]
+            if len(all_list) == 0:
+                exit()
             break
