@@ -1,16 +1,16 @@
 import sys
 import time
 import telepot
-from Xiaoya import xiaoya
+from __Xiaoya__ import xiaoya
 
 
-x = xiaoya('xiaoya', 17)
+x = xiaoya('xiaoya', 17, 'telegram')
 
 def handle(msg):
 	content_type, chat_type, chat_id = telepot.glance(msg)
 	print(content_type, chat_type, chat_id)
 
-	if content_type == 'text':
+	if chat_type == 'private':
 		bot.sendMessage(chat_id, x.reply(msg['text']))
 
 TOKEN = '121899714:AAGAp0rdqSbqzP8-j1wqnUfWJ-lx-L9NLrQ'
