@@ -1,5 +1,8 @@
 {
     "books": {
-        "Python\u81ea\u5b66\u7b14\u8bb0.txt": 2
+        "Python\u81ea\u5b66\u7b14\u8bb0.txt": 5
+    },
+    "telegram": {
+        "Maths.txt": 2
     }
 }

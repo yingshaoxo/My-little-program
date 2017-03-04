@@ -39,17 +39,20 @@ class in_or_out():
 
 
 class update(in_or_out):
-    def __init__(self):
+    def __init__(self, user_id):
         super().__init__()
+        self.user_id = str(user_id)
+
         if os.path.exists(self.dir) == False:
             os.mkdir(self.dir)
         if os.path.exists(self.setting_file_path) == False:
             self.write_setting({'NO':0})
+
         self.update_setting()
 
     def update_setting(self):
         setting = self.get_setting()
-        old_books = setting.get('books')
+        old_books = setting.get(self.user_id)
 
         txt_files = [i for i in os.listdir(self.dir) if '.txt' in i]
 
@@ -68,17 +71,17 @@ class update(in_or_out):
         for i in [i for i in old_books.keys() if i not in txt_files]:
             del old_books[i]
 
-        setting.update({'books': old_books})
+        setting.update({self.user_id: old_books})
         self.write_setting(setting)
 
 
 class knowledge(update):
-    def __init__(self):
-        super().__init__()
+    def __init__(self, user_id):
+        super().__init__(user_id)
 
     def get_random_one(self):
         setting = self.get_setting()
-        books = setting.get('books')
+        books = setting.get(self.user_id)
 
         if books == {}:
             return ''
@@ -101,7 +104,7 @@ class knowledge(update):
 
         num += 1
         books.update({book_name: num})
-        setting.update({'books': books})
+        setting.update({self.user_id: books})
         self.write_setting(setting)
         
         return one.strip('  　\n ')
@@ -109,8 +112,11 @@ class knowledge(update):
 
 
 class skill():
+    def __init__(self, user_id):
+    	self.user_id = user_id
+
     def knowledge(self):
-        k = knowledge()
+        k = knowledge(self.user_id)
         text = k.get_random_one()
         return text.replace('\n', '\n'*2)
 
@@ -121,9 +127,10 @@ class skill():
 
 class xiaoya(skill):
     '''A real xiaoya class'''
-    def __init__(self, name, age):
+    def __init__(self, name, age, user_id):
         self.name = name
         self.age = age
+        super().__init__(user_id)
         print(self.about())
 
     def about(self):

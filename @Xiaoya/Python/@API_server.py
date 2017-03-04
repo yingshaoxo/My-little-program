@@ -11,7 +11,7 @@ tip = '''Only receive "content_type='text; charset=utf-8'" and "Accept-Encoding=
 
 def chat_reply(msg):
     from __Xiaoya__ import xiaoya
-    x = xiaoya('xiaoya', 17)
+    x = xiaoya('xiaoya', 17, 'books')
     return x.reply(msg).strip('  　\n ')
 
 def chat_send(msg):
