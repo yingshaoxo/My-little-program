@@ -4,131 +4,122 @@ import json
 
 
 global path
-path = os.path.dirname(__file__) + '\\'
+path = os.path.dirname(__file__) 
 
 
-class knowledge():
-    '''Get knowledge from txt file.'''
+class in_or_out():
     def __init__(self):
-        self.dir = path + 'Sources\\'
+        self.dir = os.path.join(path, 'Sources')
+        self.setting_file_name = 'setting.json'
+        self.setting_file_path = os.path.join(self.dir, self.setting_file_name)
+        
+    def get_setting(self):
+        with open(self.setting_file_path, 'r') as f:
+            text = f.read()
+        return json.loads(text)
 
-        def get_setting():
-            with open(self.dir + 'setting.json', 'r') as f:
+    def write_setting(self, a_dict):
+        with open(self.setting_file_path, 'w') as f:
+            f.write(json.dumps(a_dict, sort_keys=True, indent=4))
+
+    def split_txt(self, file_name):
+        try:
+            with open(file_name, 'r',  encoding='utf-8', errors='ignore') as f: 
                 text = f.read()
-            return json.loads(text)
-        
-        def write_setting(a_dict):
-            with open(self.dir + 'setting.json', 'w') as f:
-                f.write(json.dumps(a_dict, sort_keys=True, indent=4))
-
-        def update_setting():
-            setting = get_setting()
-            old_books = setting.get('books')
-
-            txt_files = [i for i in os.listdir(self.dir) if '.txt' in i]
-#            print(txt_files)
-            if old_books == None:
-                new_txt = txt_files
-                old_books = {'NO': 0}
-            else:
-                new_txt = [i for i in txt_files if i not in old_books]
+        except Exception as e:
+            print(e)
+            print('We only support UTF_8!')
             
-            for i in new_txt:
-                old_books.update({i: 0})
-            if 'NO' in old_books:
-                del old_books['NO']
+        result = text.split('\n\n' + '——————————————' + '\n\n')
+        if result == [text]:
+            result = text.split('\n')
+        result = [i for i in result if re.match(r'^\s*$', i) == None]
 
-            for i in [i for i in old_books.keys() if i not in txt_files]:
-                del old_books[i]
-        
-            setting.update({'books': old_books})
-            write_setting(setting)
+        return result
 
-        if not os.path.exists(self.dir):
+
+class update(in_or_out):
+    def __init__(self):
+        super().__init__()
+        if os.path.exists(self.dir) == False:
             os.mkdir(self.dir)
-        if not os.path.exists(self.dir + 'setting.json'):
-            write_setting({'books': {'NO': 0}})
-        
-        update_setting()
+        if os.path.exists(self.setting_file_path) == False:
+            self.write_setting({'NO':0})
+        self.update_setting()
 
-    def get_knowledge0(self):
-        self.dir = path + 'Sources\\'
+    def update_setting(self):
+        setting = self.get_setting()
+        old_books = setting.get('books')
 
-        def get_setting():
-            with open(self.dir + 'setting.json', 'r') as f:
-                text = f.read()
-            return json.loads(text)
-        
-        def write_setting(a_dict):
-            with open(self.dir + 'setting.json', 'w') as f:
-                f.write(json.dumps(a_dict, sort_keys=True, indent=4))
+        txt_files = [i for i in os.listdir(self.dir) if '.txt' in i]
 
-        def split_txt(dirname):
+        if old_books == None:
+            new_txt = txt_files
+            old_books = {'NO': 0}
+        else:
+            new_txt = [i for i in txt_files if i not in old_books]
+
+        for i in new_txt:
+            old_books.update({i: 0})
+
+        if 'NO' in setting:
+            del setting['NO']
+
+        for i in [i for i in old_books.keys() if i not in txt_files]:
+            del old_books[i]
+
+        setting.update({'books': old_books})
+        self.write_setting(setting)
+
+
+class knowledge(update):
+    def __init__(self):
+        super().__init__()
+
+    def get_random_one(self):
+        setting = self.get_setting()
+        books = setting.get('books')
+
+        if books == {}:
+            return ''
+
+        import random
+        book_name = random.choice(list(books.keys()))
+        book_path = os.path.join(self.dir, book_name)
+
+        num = books.get(book_name)
+        print(book_name,num)
+
+        try:
+            one = self.split_txt(book_path)[num]
+        except:
+            one = 'You finished your reading with ' + book_name + '.'
             try:
-                with open(dirname, 'r',  encoding='utf-8', errors='ignore') as f: #replace
-                    text = f.read()
-            except Exception as e:
-                print(e)
-                print('We only support UTF_8!')
-                
-            result = text.split('\n\n' + '——————————————' + '\n\n')
-            if result == [text]:
-                result = text.split('\n')
-            result = [i for i in result if re.match(r'^\s*$', i) == None]
-
-            return result
-
-        def which_part():
-            setting = get_setting()
-            books = setting.get('books')
-
-            import random
-            book = random.choice(list(books.keys()))
-            print(book)
-            num = books.get(book)
-            print(num)
-            try:
-                part = split_txt(self.dir + book)[num]
+                os.rename(book_path, book_path.replace('.txt', '.bak'))
             except:
-                #part = 'Your reading was finished with this book.'
-                if book[:1] != '#':
-                    try:
-                        os.rename(self.dir + book, self.dir + book.replace('.txt', '.bak'))
-                    except:
-                        os.remove(self.dir + book)
-                else:
-                    import time #获取当前时间
-                    time_now = int(time.time()) #转换成localtime
-                    time_local = time.localtime(time_now) #转换成新的时间格式(2016-05-09 18:59:20)
-                    dt = time.strftime("%Y%m%d%H%M%S",time_local)
-                    os.rename(self.dir + book, self.dir + '#Function ' + dt + '.txt')
-                    # There has problems!!!!
-            num += 1
-            books.update({book: num})
-            setting.update({'books': books})
-            print(setting, '\n')
-            write_setting(setting)
-            
-            return part
+                os.remove(book_path)
 
-        return which_part().replace('\n', '\n\n')
-    
-    def get_knowledge(self):
-        from Plugins.Core.HandleText import EnglishOrNot, OrganizeText
-        knowledge = self.get_knowledge0()
-        '''
-        if EnglishOrNot(knowledge):
-            from Plugins.Core.NaturalLanguageProcessing import from_ariticle_get_word
-            try:
-                en_words = from_ariticle_get_word(knowledge)
-                if OrganizeText(en_words) != '':
-                    knowledge += '\n\n' + '——————————————' + '\n\n' + en_words
-            except Exception as e:
-                print(e)
-        ''' # Auto get English translation in article
-        return knowledge
- 
-class xiaoya():
+        num += 1
+        books.update({book_name: num})
+        setting.update({'books': books})
+        self.write_setting(setting)
+        
+        return one.strip('  　\n ')
+
+
+
+class skill():
+    def knowledge(self):
+        k = knowledge()
+        text = k.get_random_one()
+        return text.replace('\n', '\n'*2)
+
+    def run_python(self, codes):
+        from __RunPY__ import run_py_codes
+        return run_py_codes(codes)    
+
+
+class xiaoya(skill):
     '''A real xiaoya class'''
     def __init__(self, name, age):
         self.name = name
@@ -139,17 +130,13 @@ class xiaoya():
         return ("My name is {name}.\nAnd I'm {age} years old now.\n".format(name=self.name, age=self.age))
 
     def reply(self, msg):
+        if msg[:6] == '#codes':
+            return self.run_python(msg)
+        else:
             return self.knowledge()
 
-    def knowledge(self):
-        k = knowledge()
-        text = k.get_knowledge()
-        if text[:6] == '#codes':
-            from __RunPY__ import run_py_codes
-            return run_py_codes(text)
-        else:
-            return text
+
 
 
 #x = xiaoya('xiaoya', 17)
-#print(x.knowledge())
+#print(x.reply('#codes\nimport os\nprint(os.system("ls"))'))
