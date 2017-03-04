@@ -92,7 +92,10 @@ class knowledge():
             except:
                 #part = 'Your reading was finished with this book.'
                 if book[:1] != '#':
-                    os.rename(self.dir + book, self.dir + book.replace('.txt', '.bak'))
+                    try:
+                        os.rename(self.dir + book, self.dir + book.replace('.txt', '.bak'))
+                    except:
+                        os.remove(self.dir + book)
                 else:
                     import time #获取当前时间
                     time_now = int(time.time()) #转换成localtime

@@ -18,7 +18,7 @@ def run_py_codes(py_codes):
             result = str(e)
         return result
     else:
-        py_path = os.path.dirname(os.path.realpath(__file__)) + '\\codes.txt'
+        py_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'codes.txt')
         code_bytes = codes.encode('utf-8', 'ignore')
         open(py_path, 'wb').write(code_bytes)
         result = str(run_py_file(py_path))
