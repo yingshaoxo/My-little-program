@@ -120,6 +120,10 @@ class skill():
         text = k.get_random_one()
         return text.replace('\n', '\n'*2)
 
+    def baike(self, key_word):
+        from Plugins.Extensions.GetBaike.Baike import main as baike
+        return baike(key_word)
+        
     def run_python(self, codes):
         from __RunPY__ import run_py_codes
         return run_py_codes(codes)    
@@ -139,11 +143,15 @@ class xiaoya(skill):
     def reply(self, msg):
         if msg[:6] == '#codes':
             return self.run_python(msg)
+        elif msg[:6] == '#baike':
+            msg = msg.replace('#baike', '').strip('  　\n ')
+            return self.baike(msg)
         else:
             return self.knowledge()
 
 
 
 
-#x = xiaoya('xiaoya', 17)
+#x = xiaoya('xiaoya', 17, 'test')
 #print(x.reply('#codes\nimport os\nprint(os.system("ls"))'))
+#print(x.reply('#baike good'))
