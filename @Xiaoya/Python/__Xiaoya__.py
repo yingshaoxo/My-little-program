@@ -143,8 +143,8 @@ class xiaoya(skill):
     def reply(self, msg):
         if msg[:6] == '#codes':
             return self.run_python(msg)
-        elif msg[:6] == '#baike':
-            msg = msg.replace('#baike', '').strip('  　\n ')
+        elif msg[:6] == '/baike':
+            msg = msg.replace('/baike', '').strip('  　\n ')
             return self.baike(msg)
         else:
             return self.knowledge()
