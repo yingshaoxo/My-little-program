@@ -21,7 +21,10 @@ def BaiduBaike(key_word):
     return result
 
 def main(key_word):
-    return BaiduBaike(key_word)
+    if key_word != '':
+        return BaiduBaike(key_word)
+    else:
+        return ''
 
 '''
 key_word = '百度'

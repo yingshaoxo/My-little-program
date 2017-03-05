@@ -141,9 +141,10 @@ class xiaoya(skill):
         return ("My name is {name}.\nAnd I'm {age} years old now.\n".format(name=self.name, age=self.age))
 
     def reply(self, msg):
-        if msg[:6] == '#codes':
+        msg = msg.strip('  　\n ')
+        if msg[:6] == '#codes' and msg[6:] != '':
             return self.run_python(msg)
-        elif msg[:6] == '/baike':
+        elif msg[:6] == '/baike' and msg[6:] != '':
             msg = msg.replace('/baike', '').strip('  　\n ')
             return self.baike(msg)
         else:
