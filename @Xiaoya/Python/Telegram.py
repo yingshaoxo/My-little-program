@@ -10,12 +10,11 @@ def handle(msg):
     print(content_type, chat_type, chat_id)
 
     if content_type == 'text':
-        text = msg['text']
-        print(text)
+        text = str(msg['text'].replace('@XiaoyaBot', '').strip('  　\n '))
+        #print(text)
         if chat_type == 'private':
             bot.sendMessage(chat_id, x.reply(text))
-        if text.count('@XiaoyaBot') > 0 and text.count('remove') == 0 and text.count('rm') == 0:
-            text = text.replace('@XiaoyaBot', '').strip('  　\n ')
+        if chat_type == 'supergroup' and (text[:1] in ['/', '#']):
             bot.sendMessage(chat_id, x.reply(text))
 
 TOKEN = '121899714:AAF3xShKMc52iV5yN93fiIjOH98ZXP1zcOc'

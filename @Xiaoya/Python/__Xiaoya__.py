@@ -122,7 +122,8 @@ class skill():
 
     def baike(self, key_word):
         from Plugins.Extensions.GetBaike.Baike import main as baike
-        return baike(key_word)
+        from Plugins.Extensions.GetChinese.SplitSentence import main as split_Ch
+        return split_Ch(baike(key_word))
         
     def run_python(self, codes):
         from __RunPY__ import run_py_codes
@@ -141,16 +142,17 @@ class xiaoya(skill):
         return ("My name is {name}.\nAnd I'm {age} years old now.\n".format(name=self.name, age=self.age))
 
     def reply(self, msg):
+        print('replying...')
         msg = msg.strip('  　\n ')
-        if msg[:6] == '#codes' and msg[6:] != '':
-            return self.run_python(msg)
-        elif msg[:6] == '/baike' and msg[6:] != '':
+        if msg[:6] == '#codes':
+            msg = msg.replace('#codes', '').strip('  　\n ')
+            if msg != '':
+                return self.run_python(msg)
+        elif msg[:6] == '/baike':
             msg = msg.replace('/baike', '').strip('  　\n ')
-            return self.baike(msg)
-        else:
-            return self.knowledge()
-
-
+            if msg != '':
+                return self.baike(msg)
+        return self.knowledge()
 
 
 #x = xiaoya('xiaoya', 17, 'test')
