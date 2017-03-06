@@ -14,7 +14,7 @@ def handle(msg):
         #print(text)
         if chat_type == 'private':
             bot.sendMessage(chat_id, x.reply(text))
-        if chat_type == 'supergroup' and (text[:1] in ['/', '#']):
+        if chat_type == 'supergroup' and (text[:1] in ['/']):
             bot.sendMessage(chat_id, x.reply(text))
 
 TOKEN = '121899714:AAF3xShKMc52iV5yN93fiIjOH98ZXP1zcOc'
