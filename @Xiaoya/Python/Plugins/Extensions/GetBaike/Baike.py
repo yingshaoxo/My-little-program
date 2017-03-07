@@ -9,7 +9,13 @@ def BaiduBaike(key_word):
     r = requests.get(url+key_word)
     result = r.text
 
-    true_id = json.loads(result)['lemmaId']
+    try:
+        true_id = json.loads(result)['lemmaId']
+    except:
+        search_word = json.loads(result)['queryString']
+        r = requests.get('http://baike.baidu.com/client/searchresult/?' + search_word)
+        result = r.text
+        true_id = json.loads(result)['searchResult'][0]['lemmaId']
 
     r = requests.get('http://baike.baidu.com/client/view/'+str(true_id)+'.htm')
     r.encoding = 'url'
@@ -24,6 +30,6 @@ def main(key_word):
     return BaiduBaike(key_word)
 
 '''
-key_word = '985'
+key_word = '淤积泥沙'
 print(BaiduBaike(key_word))
 '''
