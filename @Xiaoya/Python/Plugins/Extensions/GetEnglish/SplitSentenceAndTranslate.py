@@ -29,6 +29,7 @@ def SplitSentences(text):
         text = text.replace('; ', ';\n')
     
     text = OrganizeText(text)
+    
     sentences_list = text.split('\n')
     all_sentences = ''
     for num, each in enumerate(sentences_list, start=0):
