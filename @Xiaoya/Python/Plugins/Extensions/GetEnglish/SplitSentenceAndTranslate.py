@@ -40,7 +40,7 @@ def SplitSentences(text):
     return [i for i in sentences_list if i.strip('  　\n ')!='']
 
 def handle_result(text):
-    text += text.replace(',', '，').replace(';', '；')
+    text = text.replace(',', '，').replace(';', '；')
     if "。" not in text[-6:]:
         text += '。'
     return text
