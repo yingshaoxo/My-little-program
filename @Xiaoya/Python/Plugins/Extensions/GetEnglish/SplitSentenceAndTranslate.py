@@ -39,6 +39,12 @@ def SplitSentences(text):
         
     return [i for i in sentences_list if i.strip('  　\n ')!='']
 
+def handle_result(text):
+    text += text.replace(',', '，').replace(';', '；')
+    if "。" not in text[-6:]:
+        text += '。'
+    return text
+
 def youdao_translate(text):
     r = requests.get('http://fanyi.youdao.com/openapi.do?keyfrom=yingshaoxo&key=61881981&type=data&doctype=text&version=1.0&q=' \
      + text)
@@ -62,22 +68,22 @@ def baidu_translate(text):
  
     try:
         r = requests.get(myurl)
-        rr =  json.loads(r.text)['trans_result'][0]['dst']
-        return rr
+        translation =  json.loads(r.text)['trans_result'][0]['dst']
+        translation = handle_result(translation)
+        return text + '\n' + translation
     except Exception as e:
         print (e)
+        return ''
 
 def google_translate(text):
     requests.packages.urllib3.disable_warnings()
     r = requests.get('http://translate.google.cn/translate_a/t?client=j&text=' + text + '&hl=zh-CN&multires=1&otf=1&pc=0&sc=1&sl=en&tl=zh-CN', verify=False)
     translation = r.text[1:-1]
     if translation.find('!DOCTYPE') == -1:
-        if translation[-1:] == "。":
-            return text + '\n' + translation
-        else:
-            return text + '\n' + translation + '。'
+        translation = handle_result(translation)
+        return text + '\n' + translation
     else:
-        return youdao_translate(text)
+        return baidu_translate(text)
 
 '''
 def main(msg):
