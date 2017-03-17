@@ -1,3 +1,4 @@
+from Plugins.HandleText import text_tool
 import os
 import re
 import json
@@ -5,6 +6,8 @@ import json
 
 global path
 path = os.path.dirname(__file__) 
+
+tool = text_tool()
 
 
 class in_or_out():
@@ -124,7 +127,11 @@ class skill():
         from Plugins.Extensions.GetBaike.Baike import main as baike
         from Plugins.Extensions.GetChinese.SplitSentence import main as split_Ch
         return split_Ch(baike(key_word))
-        
+    
+    def translate(self, text):
+        from Plugins.Extensions.GetEnglish.SplitSentenceAndTranslate import main as translate
+        return translate(text)
+
     def run_python(self, codes):
         from __RunPY__ import run_py_codes
         return run_py_codes(codes)    
@@ -148,10 +155,20 @@ class xiaoya(skill):
             msg = msg.replace('#codes', '').strip('  　\n ')
             if msg != '':
                 return self.run_python(msg)
+        if tool.language_check(msg) == 'Chinese':
+            if len(msg) <= 10:
+                return self.baike(msg)
+            else:
+                return tool.text_to_sentences(msg).replace('\n', '\n'*2)
+        else:
+            if len(msg) <= 15 and '\n' not in msg:
+                return self.translate(msg)
+        '''
         elif msg[:6] == '/baike':
             msg = msg.replace('/baike', '').strip('  　\n ')
             if msg != '':
                 return self.baike(msg)
+        '''
         return self.knowledge()
 
 

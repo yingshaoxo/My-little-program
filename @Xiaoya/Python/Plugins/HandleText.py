@@ -44,5 +44,10 @@ class text_tool(in_or_out, split):
         a_list = [self.pure(i) for i in a_list if re.match(r'^\s*$', i) == None]
         text = '\n'.join(a_list)
         return self.pure(text)
-
-    
+"""
+text = '''
+hello?kkkkk
+'''
+tool = text_tool()
+print(tool.text_to_sentences(text))
+"""

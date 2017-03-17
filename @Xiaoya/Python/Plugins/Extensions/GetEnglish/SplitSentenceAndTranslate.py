@@ -40,10 +40,13 @@ def SplitSentences(text):
     return [i for i in sentences_list if i.strip('  　\n ')!='']
 
 def handle_result(text):
-    text = text.replace(',', '，').replace(';', '；')
-    if "。" not in text[-6:]:
-        text += '。'
-    return text
+    if ' ' in text:
+        text = text.replace(',', '，').replace(';', '；')
+        if "。" not in text[-6:]:
+            text += '。'
+        return text
+    else:
+        return text
 
 def youdao_translate(text):
     r = requests.get('http://fanyi.youdao.com/openapi.do?keyfrom=yingshaoxo&key=61881981&type=data&doctype=text&version=1.0&q=' \

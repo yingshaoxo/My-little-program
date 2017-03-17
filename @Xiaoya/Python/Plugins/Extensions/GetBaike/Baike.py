@@ -15,7 +15,10 @@ def BaiduBaike(key_word):
         search_word = json.loads(result)['queryString']
         r = requests.get('http://baike.baidu.com/client/searchresult/?' + search_word)
         result = r.text
-        true_id = json.loads(result)['searchResult'][0]['lemmaId']
+        try:
+            true_id = json.loads(result)['searchResult'][0]['lemmaId']
+        except:
+            return ''
 
     r = requests.get('http://baike.baidu.com/client/view/'+str(true_id)+'.htm')
     r.encoding = 'url'
