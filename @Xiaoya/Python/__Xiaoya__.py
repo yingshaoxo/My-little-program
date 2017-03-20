@@ -158,10 +158,8 @@ class xiaoya(skill):
         if tool.language_check(msg) == 'Chinese':
             if len(msg) <= 10:
                 return self.baike(msg)
-            else:
-                return tool.text_to_sentences(msg).replace('\n', '\n'*2)
         else:
-            if len(msg) <= 15 and '\n' not in msg:
+            if len(msg) <= 20 and '\n' not in msg:
                 return self.translate(msg)
         '''
         elif msg[:6] == '/baike':
