@@ -1,6 +1,8 @@
-﻿Python自学笔记
+Python自学笔记
 
-教材：Oreilly.Introducing.Python.2014
+教材：Oreilly.Introducing.Python.2014_Bill_Lubanovic
+
+翻译整理txt作者: yingshaoxo
 
 
 ——————————————
@@ -1466,7 +1468,7 @@ comprehension
 
 iterable
 
-网络可迭代的; 可重复的; 迭代的;
+网络可迭代的; 可重复的; 迭代的;
 
 ——————————————
 
@@ -2215,7 +2217,7 @@ https://pypi.python.org/pypi
 
 ——————————————
 
-Chapter 6. Oh Oh: Objects and Classes
+Chapter 6. Oh Oh: Objects and Classes
 
 
 No object is mysterious. The mystery is your eye.
@@ -3274,7 +3276,7 @@ A_robot.does(a, b, c)
 
 ——————————————
 
-Chapter 7. Mangle Data Like a Pro
+Chapter 7. Mangle Data Like a Pro
 
 
 In this chapter, you’ll learn many techniques for taming data. Most of them concern these built-in Python data types:
@@ -4213,10 +4215,10 @@ pint 品脱(干量或液量的单位)
 Encoding
 
 
-You encode a string to bytes. The string encode() function’s first argument is the encoding name. The choices include those presented in Table 7-1.
+You encode a string to bytes. The string encode() function’s first argument is the encoding name. The choices include those presented in Table 7-1.
 
 
-Table 7-1. Encodings
+Table 7-1. Encodings
 
 'ascii'
 Good old seven-bit ASCII
@@ -4341,7 +4343,7 @@ The moral of this story: whenever possible, use UTF-8 encoding. It works, is sup
 Format
 
 
-We’ve pretty much ignored text formatting—until now. Chapter 2 shows a few string alignment functions, and the code examples have used simple print() statements, or just let the interactive interpreter display values. But it’s time we look at how to interpolate data values into strings—in other words, put the values inside the strings—using various formats. You can use this to produce reports and other outputs for which appearances need to be just so.
+We’ve pretty much ignored text formatting—until now. Chapter 2 shows a few string alignment functions, and the code examples have used simple print() statements, or just let the interactive interpreter display values. But it’s time we look at how to interpolate data values into strings—in other words, put the values inside the strings—using various formats. You can use this to produce reports and other outputs for which appearances need to be just so.
 
 Python has two ways of formatting strings, loosely called old style and new style. Both styles are supported in Python 2 and 3 (new style in Python 2.6 and up). Old style is simpler, so we’ll begin there.
 
@@ -4350,10 +4352,10 @@ Python has two ways of formatting strings, loosely called old style and new styl
 Old style with %
 
 
-The old style of string formatting has the form string % data. Inside the string are interpolation sequences. Table 7-2 illustrates that the very simplest sequence is a % followed by a letter indicating the data type to be formatted.
+The old style of string formatting has the form string % data. Inside the string are interpolation sequences. Table 7-2 illustrates that the very simplest sequence is a % followed by a letter indicating the data type to be formatted.
 
 
-Table 7-2. Conversion types
+Table 7-2. Conversion types
 
 %s
 string
@@ -4539,7 +4541,7 @@ The final option is the fill character. If you want something other than spaces 
 Match with Regular Expressions
 
 
-Chapter 2 touched on simple string operations. Armed with that introductory information, you’ve probably used simple “wildcard” patterns on the command line, such as ls *.py, which means list all filenames ending in .py.
+Chapter 2 touched on simple string operations. Armed with that introductory information, you’ve probably used simple “wildcard” patterns on the command line, such as ls *.py, which means list all filenames ending in .py.
 
 It’s time to explore more complex pattern matching by using regular expressions. These are provided in the standard module re, which we’ll import. You define a string pattern that you want to match, and the source string to match against. For simple matches, usage looks like this:
 
@@ -4699,10 +4701,10 @@ You’ve seen the basics:
 ● Any number (including zero) with * 
 ● Optional (zero or one) with ? 
 
-First, special characters are shown in Table 7-3:
+First, special characters are shown in Table 7-3:
 
 
-Table 7-3. Special characters
+Table 7-3. Special characters
 
 Pattern
 Matches
@@ -4780,11 +4782,11 @@ As expected, this pattern found only the letters:
 Patterns: using specifiers(1)
 
 
-Now, let’s make “punctuation pizza,” using the main pattern specifiers for regular expressions, which are presented in Table 7-4.
+Now, let’s make “punctuation pizza,” using the main pattern specifiers for regular expressions, which are presented in Table 7-4.
 
 In the table, expr and the other italicized words mean any valid regular expression.
 
-Table 7-4. Pattern specifiers
+Table 7-4. Pattern specifiers
 
 
 Pattern
@@ -4941,7 +4943,7 @@ There are a few cases in which the regular expression pattern rules conflict wit
 >>>re.findall('\bfish',source)
 []
 
-Why doesn’t it? As is discussed in Chapter 2, Python employs a few special escape characters for strings. For example, \b means backspace in strings, but in the mini-language of regular expressions it means the beginning of a word. Avoid the accidental use of escape characters by using Python’s raw strings when you define your regular expression string. Always put an r character before your regular expression pattern string, and Python escape characters will be disabled, as demonstrated here:
+Why doesn’t it? As is discussed in Chapter 2, Python employs a few special escape characters for strings. For example, \b means backspace in strings, but in the mini-language of regular expressions it means the beginning of a word. Avoid the accidental use of escape characters by using Python’s raw strings when you define your regular expression string. Always put an r character before your regular expression pattern string, and Python escape characters will be disabled, as demonstrated here:
 
 >>>re.findall(r'\bfish',source)
 ['fish']
@@ -5418,7 +5420,7 @@ gif=binascii.unhexlify(hex_str)
 
 ——————————————
 
-Chapter 8. Data Has to Go Somewhere
+Chapter 8. Data Has to Go Somewhere
 
 
 An active program accesses data that is stored in Random Access Memory, or RAM. RAM is very fast, but it is expensive and requires a constant supply of power; if the power goes out, all the data in memory is lost. Disk drives are slower than RAM but have more capacity, cost less, and retain data even after someone trips over the power cord. Thus, a huge amount of effort in computer systems has been devoted to making the best tradeoffs between storing data on disk and RAM. As programmers, we need persistence: storing and retrieving data using nonvolatile media such as disks.
@@ -6051,7 +6053,7 @@ Enormous
 HTML
 
 
-Enormous amounts of data are saved as Hypertext Markup Language (HTML), the basic document format of the Web. The problem is so much of it doesn’t follow the HTML rules, which can make it difficult to parse. Also, much of HTML is intended more to format output than interchange data. Because this chapter is intended to describe fairly well-defined data formats, I have separated out the discussion about HTML to Chapter 9.
+Enormous amounts of data are saved as Hypertext Markup Language (HTML), the basic document format of the Web. The problem is so much of it doesn’t follow the HTML rules, which can make it difficult to parse. Also, much of HTML is intended more to format output than interchange data. Because this chapter is intended to describe fairly well-defined data formats, I have separated out the discussion about HTML to Chapter 9.
 
 ——————————————
 
@@ -6067,7 +6069,7 @@ dump
 JSON(1)
 
 
-JavaScript Object Notation (JSON) has become a very popular data interchange format, beyond its JavaScript origins. The JSON format is a subset of JavaScript, and often legal Python syntax as well. Its close fit to Python makes it a good choice for data interchange among programs. You’ll see many examples of JSON for web development in Chapter 9.
+JavaScript Object Notation (JSON) has become a very popular data interchange format, beyond its JavaScript origins. The JSON format is a subset of JavaScript, and often legal Python syntax as well. Its close fit to Python makes it a good choice for data interchange among programs. You’ll see many examples of JSON for web development in Chapter 9.
 
 Unlike the variety of XML modules, there’s one main JSON module, with the unforgettable name json. This program encodes (dumps) data to a JSON string and decodes (loads) a JSON string back to data. In this next example, let’s build a Python data structure containing the data from the earlier XML example:
 
@@ -7190,7 +7192,7 @@ Get a range of values (use 0 to -1 for all) by using lrange():
 [b'alligator', b'marmoset', b'bear', b'cassowary']
 
 
-Chapter 10 shows you how you can use Redis lists and publish-subscribe to implement job queues.
+Chapter 10 shows you how you can use Redis lists and publish-subscribe to implement job queues.
 
 ——————————————
 
@@ -7353,7 +7355,7 @@ Secondary indexes
 Timeseries, using timestamps as scores
 
 
-We’ll show the last use case, tracking user logins via timestamps. We’re using the Unix epoch value (more on this in Chapter 10) that’s returned by the Python time() function:
+We’ll show the last use case, tracking user logins via timestamps. We’re using the Unix epoch value (more on this in Chapter 10) that’s returned by the Python time() function:
 
 >>> import time
 >>> now = time.time()
@@ -7687,7 +7689,7 @@ Look at it. It's doesn't matter whether or not you remember it because you'll fi
 
 ——————————————
 
-8.11. Install the Redis server (see Appendix D) and the Python redis library (pip install redis) on your machine. Create a Redis hash called test with the fields count (1) and name ('Fester Bestertester'). Print all the fields for test.
+8.11. Install the Redis server (see Appendix D) and the Python redis library (pip install redis) on your machine. Create a Redis hash called test with the fields count (1) and name ('Fester Bestertester'). Print all the fields for test.
 
 
 >>> import redis
@@ -7812,7 +7814,7 @@ explosive
 
 ——————————————
 
-Chapter 9. The Web, Untangled
+Chapter 9. The Web, Untangled
 
 
 Straddling the French-Swiss border is CERN—a particle physics research institute that would seem a good lair for a Bond villain. Luckily, its quest is not world domination but to understand how the universe works. This has always led CERN to generate prodigious amounts of data, challenging physicists and computer scientists just to keep up.
@@ -8035,7 +8037,7 @@ straightforward
 Python’s Standard Web Libraries
 
 
-In Python 2, web client and server modules were a bit scattered. One of the Python 3 goals was to bundle these modules into two packages (remember from Chapter 5 that a package is just a directory containing module files):
+In Python 2, web client and server modules were a bit scattered. One of the Python 3 goals was to bundle these modules into two packages (remember from Chapter 5 that a package is just a directory containing module files):
 
 
 ■http manages all the client-server HTTP details:
@@ -8134,7 +8136,7 @@ wordy
 Beyond the Standard Library: Requests
 
 
-At the beginning of Chapter 1, there’s a program that accesses a YouTube API by using the standard libraries urllib.request and json. Following that example is a version that uses the third-party module requests. The requests version is shorter and easier to understand.
+At the beginning of Chapter 1, there’s a program that accesses a YouTube API by using the standard libraries urllib.request and json. Following that example is a version that uses the third-party module requests. The requests version is shorter and easier to understand.
 
 For most purposes, I think web client development with requests is easier. You can browse the documentation (which is pretty good) for full details. I’ll show the basics of requests in this section and use it throughout this book for web client tasks.
 
@@ -8217,7 +8219,7 @@ This implements a bare-bones Python HTTP server. If there are no problems, this 
 Serving HTTP on 0.0.0.0 port 8000 ...
 
 
-That 0.0.0.0 means any TCP address, so web clients can access it no matter what address the server has. There’s more low-level details on TCP and other network plumbing for you to read about in Chapter 11.
+That 0.0.0.0 means any TCP address, so web clients can access it no matter what address the server has. There’s more low-level details on TCP and other network plumbing for you to read about in Chapter 11.
 
 You can now request files, with paths relative to your current directory, and they will be returned. If you type http://localhost:8000 in your web browser, you should see a directory listing there, and the server will print access log lines such as this:
 
@@ -8245,7 +8247,7 @@ The HTTP version (HTTP/1.1)
 ■The final 200 is the HTTP status code returned by the web server
 
 
-Click any file. If your browser can recognize the format (HTML, PNG, GIF, JPEG, and so on) it should display it, and the server will log the request. For instance, if you have the file oreilly.png in your current directory, a request for http://localhost:8000/oreilly.png should return the image of the unsettling fellow in Figure 7-1, and the log should show something such as this:
+Click any file. If your browser can recognize the format (HTML, PNG, GIF, JPEG, and so on) it should display it, and the server will log the request. For instance, if you have the file oreilly.png in your current directory, a request for http://localhost:8000/oreilly.png should return the image of the unsettling fellow in Figure 7-1, and the log should show something such as this:
 
 127.0.0.1 - - [20/Feb/2013 22:03:48] "GET /oreilly.png HTTP/1.1" 200 -
 
@@ -8465,7 +8467,7 @@ You should see this in your terminal:
 It worked! That almost never happens!
 
 
-This is a little example of a unit test. Chapter 8 provides more details on why tests are good and how to write them in Python.
+This is a little example of a unit test. Chapter 8 provides more details on why tests are good and how to write them in Python.
 
 There’s more to bottle than I’ve shown here. In particular, you can try adding these arguments when you call run():
 
@@ -8955,7 +8957,7 @@ gevent
 gunicorn
 
 
-I have more to say about events in the discussion about concurrency in Chapter 11.
+I have more to say about events in the discussion about concurrency in Chapter 11.
 
 ——————————————
 
@@ -9047,7 +9049,7 @@ Web APIs and Representational State Transfer
 
 Often, data is only available within web pages. If you want to access it, you need to access the pages through a web browser and read it. If the authors of the website made any changes since the last time you visited, the location and style of the data might have changed.
 
-Instead of publishing web pages, you can provide data through a web application programming interface (API). Clients access your service by making requests to URLs and getting back responses containing status and data. Instead of HTML pages, the data is in formats that are easier for programs to consume, such as JSON or XML (refer to Chapter 8 for more about these formats).
+Instead of publishing web pages, you can provide data through a web application programming interface (API). Clients access your service by making requests to URLs and getting back responses containing status and data. Instead of HTML pages, the data is in formats that are easier for programs to consume, such as JSON or XML (refer to Chapter 8 for more about these formats).
 
 Representational State Transfer (REST) was defined by Roy Fielding in his doctoral thesis. Many products claim to have a REST interface or a RESTful interface. In practice, this often only means that they have a web interface—definitions of URLs to access a web service.
 
@@ -9156,7 +9158,7 @@ enumerate
 Scrape HTML with BeautifulSoup
 
 
-If you already have the HTML data from a website and just want to extract data from it, BeautifulSoup is a good choice. HTML parsing is harder than it sounds. This is because much of the HTML on public web pages is technically invalid: unclosed tags, incorrect nesting, and other complications. If you try to write your own HTML parser by using regular expressions (discussed in Chapter 7) you’ll soon encounter these messes.
+If you already have the HTML data from a website and just want to extract data from it, BeautifulSoup is a good choice. HTML parsing is harder than it sounds. This is because much of the HTML on public web pages is technically invalid: unclosed tags, incorrect nesting, and other complications. If you try to write your own HTML parser by using regular expressions (discussed in Chapter 7) you’ll soon encounter these messes.
 
 To install BeautifulSoup, type the following command (don’t forget the final 4, or pip will try to install an older version and probably fail):
 
@@ -9316,7 +9318,7 @@ insomnia
 
 ——————————————
 
-Additional Chapter -1. Application Programming Interfaces
+Additional Chapter -1. Application Programming Interfaces
 
 
 In recent years, there has been a trend in web applications to move more and more of the business logic to the client side, producing an architecture that is known as Rich Internet Application (RIA). In RIAs, the server’s main (and sometimes only) function is to provide the client application with data retrieval and storage services. In this model, the server becomes a web service or Application Programming Interface (API).
@@ -9531,7 +9533,7 @@ The real important thing is how to use it, and make it work in reality. Reading 
 
 ——————————————
 
-Chapter 10. Systems
+Chapter 10. Systems
 
 
 In your everyday use of a computer, you do such things as list the contents of a folder or directory, create and remove files, and other housekeeping that’s necessary if not particularly exciting. You can also carry out these tasks, and more, within your own Python programs. Will this power drive you mad or cure your insomnia? We’ll see.
@@ -10753,7 +10755,7 @@ coroutines
 
 ——————————————
 
-Chapter 11. Concurrency and Networks
+Chapter 11. Concurrency and Networks
 
 
 Time is nature’s way of keeping everything from happening at once. Space is what prevents everything from happening to me.
@@ -10773,7 +10775,7 @@ Communication
 It’s just plain fun to send your footloose bytes to distant places, and bring friends back with them.
 
 
-We’ll start with concurrency, first building on the non-networking techniques that are described in Chapter 10—processes and threads. Then we’ll look at other approaches, such as callbacks, green threads, and coroutines. Finally, we’ll arrive at networking, initially as a concurrency technique, and then spreading outward.
+We’ll start with concurrency, first building on the non-networking techniques that are described in Chapter 10—processes and threads. Then we’ll look at other approaches, such as callbacks, green threads, and coroutines. Finally, we’ll arrive at networking, initially as a concurrency technique, and then spreading outward.
 
 
 Note
@@ -11942,7 +11944,7 @@ TCP sends streams of bytes, not messages. You don’t know how many bytes the sy
 
 To exchange entire messages with TCP, you need some extra information to reassemble the full message from its segments: a fixed message size (bytes), or the size of the full message, or some delimiting character.
 
-Because messages are bytes, not Unicode text strings, you need to use the Python bytes type. For more information on that, see Chapter 7.
+Because messages are bytes, not Unicode text strings, you need to use the Python bytes type. For more information on that, see Chapter 7.
 
 After all of this, if you find yourself fascinated by socket programming, check out the Python socket programming HOWTO for more details.
 
@@ -12816,7 +12818,7 @@ print(result)
 
 ——————————————
 
-Chapter 12. Be a Pythonista
+Chapter 12. Be a Pythonista
 
 
 Always wanted to travel back in time to try fighting a younger version of yourself? Software development is the career for you!
@@ -12949,7 +12951,7 @@ IDLE
 IDLE is the only Python IDE that’s included with the standard distribution. It’s based on tkinter, and its GUI is plain.
 
 PyCharm
-PyCharm is a recent graphic IDE with many features. The community edition is free, and you can get a free license for the professional edition to use in a classroom or an open source project. Figure 12-1 shows its initial display.
+PyCharm is a recent graphic IDE with many features. The community edition is free, and you can get a free license for the professional edition to use in a classroom or an open source project. Figure 12-1 shows its initial display.
 
 IPython
 iPython, which you can see in Appendix C, is a publishing platform as well as an extensive IDE.
